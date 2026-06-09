@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60">
+  <defs>
+    <linearGradient id="logoGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#646cff" />
+      <stop offset="50%" stop-color="#41d1ff" />
+      <stop offset="100%" stop-color="#a78bfa" />
+    </linearGradient>
+    <linearGradient id="letterGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#646cff" />
+      <stop offset="100%" stop-color="#41d1ff" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background pill -->
+  <rect x="2" y="8" width="44" height="44" rx="12" fill="url(#logoGrad)" />
+
+  <!-- K icon -->
+  <text x="24" y="38" text-anchor="middle" font-size="26" font-weight="bold"
+        font-family="Arial, sans-serif" fill="white">K</text>
+
+  <!-- knowledge text -->
+  <text x="58" y="35" font-size="18" font-weight="700"
+        font-family="Arial, sans-serif" fill="url(#letterGrad)" letter-spacing="1">knowledge</text>
+
+  <!-- Subtle underline accent -->
+  <line x1="58" y1="45" x2="190" y2="45" stroke="#646cff" stroke-width="2" stroke-linecap="round" opacity="0.4" />
+</svg>
