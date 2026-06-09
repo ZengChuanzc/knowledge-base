@@ -1,14 +1,19 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: "ZengChuan's Knowledge Base",
+  title: "Knowledge Base",
   base: '/knowledge-base/',
   description: 'Java · AI Agent · Machine Learning · 个人学习历程',
+
+  head: [
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/knowledge-base/favicon.svg' }],
+    ['link', { rel: 'shortcut icon', type: 'image/svg+xml', href: '/knowledge-base/favicon.svg' }],
+  ],
 
   lang: 'zh-CN',
 
   themeConfig: {
-    logo: '/logo.svg',
+    logo: '/k-icon.svg',
 
     siteTitle: false,
 

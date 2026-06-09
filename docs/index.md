@@ -1,7 +1,7 @@
 ---
 layout: home
 
-title: ZengChuan's Knowledge Base
+title: Knowledge Base
 titleTemplate: Java · AI · ML 个人学习历程
 
 hero:
