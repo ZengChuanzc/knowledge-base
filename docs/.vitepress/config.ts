@@ -63,10 +63,10 @@ export default defineConfig({
           text: 'Java 体系',
           items: [
             { text: '概述', link: '/java/' },
+            { text: 'JDK 版本特性 (8~21)', link: '/java/jdk-versions' },
             { text: 'JVM 原理', link: '/java/jvm' },
             { text: '并发编程', link: '/java/concurrent' },
             { text: 'Spring 生态', link: '/java/spring' },
-            { text: 'JDK 版本特性 (8~21)', link: '/java/jdk-versions' },
           ]
         }
       ],
@@ -79,6 +79,8 @@ export default defineConfig({
             { text: 'LLM 基础', link: '/ai-agent/llm-basic' },
             { text: 'RAG 系统', link: '/ai-agent/rag' },
             { text: 'Spring AI', link: '/ai-agent/spring-ai' },
+            { text: 'MCP 协议', link: '/ai-agent/mcp' },
+            { text: 'Agent Skills', link: '/ai-agent/skills' },
           ]
         }
       ],

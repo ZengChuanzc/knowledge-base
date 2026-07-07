@@ -13,28 +13,29 @@ outline: deep
 <div class="knowledge-grid">
 
 <div class="knowledge-card">
+  <h3>📈 JDK 版本特性 (8~21)</h3>
+  <p>从 Lambda 到虚拟线程，梳理 JDK 8~21 各版本核心新特性与版本演进路线。</p>
+  <a href="../java/jdk-versions">阅读 →</a>
+</div>
+
+<div class="knowledge-card">
   <h3>🔧 JVM 原理</h3>
   <p>Java 虚拟机内存模型、垃圾回收机制、类加载机制、性能调优等核心知识。</p>
-  <a href="/java/jvm">阅读 →</a>
+  <a href="../java/jvm">阅读 →</a>
 </div>
 
 <div class="knowledge-card">
   <h3>⚡ 并发编程</h3>
   <p>Java 并发基础、JUC 工具类、锁机制、线程池、AQS 原理等并发编程知识体系。</p>
-  <a href="/java/concurrent">阅读 →</a>
+  <a href="../java/concurrent">阅读 →</a>
 </div>
 
 <div class="knowledge-card">
   <h3>🌱 Spring 生态</h3>
   <p>Spring Boot、Spring MVC、Spring Cloud 等框架的核心原理与最佳实践。</p>
-  <a href="/java/spring">阅读 →</a>
+  <a href="../java/spring">阅读 →</a>
 </div>
 
-<div class="knowledge-card">
-  <h3>📈 JDK 版本特性 (8~21)</h3>
-  <p>从 Lambda 到虚拟线程，梳理 JDK 8~21 各版本核心新特性与版本演进路线。</p>
-  <a href="/java/jdk-versions">阅读 →</a>
-</div>
 
 </div>
 
