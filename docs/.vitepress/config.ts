@@ -22,14 +22,13 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '学习路线', link: '/roadmap/' },
-      { text: '技术导航', link: '/navigation/' },
+      { text: '项目实践', link: '/projects/' },
       {
         text: '知识体系 📚',
         items: [
           { text: '☕ Java体系', link: '/java/' },
           { text: '🤖 AI Agent', link: '/ai-agent/' },
           { text: '📊 机器学习', link: '/ml/' },
-          { text: '🏗️ 项目实践', link: '/projects/' },
         ]
       },
       { text: '热点文章', link: '/articles/' },
@@ -117,16 +116,6 @@ export default defineConfig({
             { text: '赫兹运力平台系统', link: '/projects/hezi-transport' },
             { text: '数字化移交通道管理平台', link: '/projects/digital-handover' },
             { text: '基建智慧工程管控项目', link: '/projects/smart-construction' },
-          ]
-        }
-      ],
-
-      '/navigation/': [
-        {
-          text: '技术导航',
-          items: [
-            { text: '常用工具', link: '/navigation/' },
-            { text: '学习资源', link: '/navigation/resources' },
           ]
         }
       ],
