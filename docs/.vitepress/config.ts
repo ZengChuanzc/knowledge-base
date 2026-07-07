@@ -67,6 +67,7 @@ export default defineConfig({
             { text: 'JVM 原理', link: '/java/jvm' },
             { text: '并发编程', link: '/java/concurrent' },
             { text: 'Spring 生态', link: '/java/spring' },
+            { text: '面试要点 (脑图)', link: '/java/interview' },
           ]
         }
       ],
