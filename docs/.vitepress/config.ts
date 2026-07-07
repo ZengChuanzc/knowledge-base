@@ -1,5 +1,7 @@
 import { defineConfig } from 'vitepress'
 
+// @ts-ignore
+// @ts-ignore
 export default defineConfig({
   title: "Knowledge Base",
   base: '/knowledge-base/',
@@ -27,6 +29,7 @@ export default defineConfig({
           { text: '☕ Java体系', link: '/java/' },
           { text: '🤖 AI Agent', link: '/ai-agent/' },
           { text: '📊 机器学习', link: '/ml/' },
+          { text: '🏗️ 项目实践', link: '/projects/' },
         ]
       },
       { text: '热点文章', link: '/articles/' },
@@ -102,6 +105,18 @@ export default defineConfig({
           items: [
             { text: 'Java 后端路线', link: '/roadmap/' },
             { text: 'AI / LLM 路线', link: '/roadmap/ai-ml-roadmap' },
+          ]
+        }
+      ],
+
+      '/projects/': [
+        {
+          text: '企业级项目实践',
+          items: [
+            { text: '项目概览', link: '/projects/' },
+            { text: '赫兹运力平台系统', link: '/projects/hezi-transport' },
+            { text: '数字化移交通道管理平台', link: '/projects/digital-handover' },
+            { text: '基建智慧工程管控项目', link: '/projects/smart-construction' },
           ]
         }
       ],
