@@ -30,6 +30,12 @@ outline: deep
   <a href="/java/spring">阅读 →</a>
 </div>
 
+<div class="knowledge-card">
+  <h3>📈 JDK 版本特性 (8~21)</h3>
+  <p>从 Lambda 到虚拟线程，梳理 JDK 8~21 各版本核心新特性与版本演进路线。</p>
+  <a href="/java/jdk-versions">阅读 →</a>
+</div>
+
 </div>
 
 ---
@@ -40,6 +46,7 @@ outline: deep
 - [x] 垃圾回收机制
 - [x] 并发编程基础
 - [x] Spring Boot 核心
+- [x] JDK 版本特性 (8~21)
 - [ ] Spring Cloud 微服务
 - [ ] 分布式系统设计
 - [ ] DDD 领域驱动设计

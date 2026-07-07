@@ -66,6 +66,7 @@ export default defineConfig({
             { text: 'JVM 原理', link: '/java/jvm' },
             { text: '并发编程', link: '/java/concurrent' },
             { text: 'Spring 生态', link: '/java/spring' },
+            { text: 'JDK 版本特性 (8~21)', link: '/java/jdk-versions' },
           ]
         }
       ],
