@@ -1,4 +1,6 @@
 import { defineConfig } from 'vitepress'
+import fs from 'fs'
+import path from 'path'
 
 // @ts-ignore
 // @ts-ignore
@@ -10,6 +12,15 @@ export default defineConfig({
   head: [
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/knowledge-base/favicon.svg' }],
     ['link', { rel: 'shortcut icon', type: 'image/svg+xml', href: '/knowledge-base/favicon.svg' }],
+    // 内联自定义样式（避免 CSS 文件导入在构建时未被处理的问题）
+    ['style', {}, (() => {
+      try {
+        const cssPath = path.resolve(__dirname, './theme/styles/custom.css')
+        return fs.readFileSync(cssPath, 'utf-8')
+      } catch {
+        return ''
+      }
+    })()],
   ],
 
   lang: 'zh-CN',
