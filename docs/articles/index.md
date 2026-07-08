@@ -13,26 +13,26 @@ outline: deep
 <!-- AUTO_GENERATED_ARTICLES_START -->
 
 <div class="article-list-auto">
-<div class="article-item" onclick="location.href='/articles/2026/07/2026-07-05-reactagent-实战指南-用-solon-ai-4-0-构建会思考-能行动的智能体'">
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-05-reactagent-实战指南-用-solon-ai-4-0-构建会思考-能行动的智能体.html'">
   <span class="article-meta-date">7月5日</span>
   <span class="article-source">开源中国</span>
-  <h3><a href="../articles/2026/07/2026-07-05-reactagent-实战指南-用-solon-ai-4-0-构建会思考-能行动的智能体">🤖 ReActAgent 实战指南：用 Solon AI 4.0 构建会思考、能行动的智能体</a></h3>
+  <h3><a href="/knowledge-base/articles/2026/07/2026-07-05-reactagent-实战指南-用-solon-ai-4-0-构建会思考-能行动的智能体.html">🤖 ReActAgent 实战指南：用 Solon AI 4.0 构建会思考、能行动的智能体</a></h3>
   <p class="article-desc">🤖 ReActAgent 实战指南：用 Solon AI 4.0 构建会思考、能行动的智能体</p>
   <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Solon AI</span> <span class="article-tag">ReActAgent</span> <span class="article-tag">AI Agent</span></div>
 </div>
 
-<div class="article-item" onclick="location.href='/articles/2026/06/2026-06-29-spring-ai-动态工具发现-告别-token-浪费-智能调用新范式'">
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/06/2026-06-29-spring-ai-动态工具发现-告别-token-浪费-智能调用新范式.html'">
   <span class="article-meta-date">6月29日</span>
   <span class="article-source">Baeldung</span>
-  <h3><a href="../articles/2026/06/2026-06-29-spring-ai-动态工具发现-告别-token-浪费-智能调用新范式">🔍 Spring AI 动态工具发现：告别 Token 浪费，智能调用新范式</a></h3>
+  <h3><a href="/knowledge-base/articles/2026/06/2026-06-29-spring-ai-动态工具发现-告别-token-浪费-智能调用新范式.html">🔍 Spring AI 动态工具发现：告别 Token 浪费，智能调用新范式</a></h3>
   <p class="article-desc">🔍 Spring AI 动态工具发现：告别 Token 浪费，智能调用新范式</p>
   <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Spring Boot</span> <span class="article-tag">Spring AI</span> <span class="article-tag">AI</span></div>
 </div>
 
-<div class="article-item" onclick="location.href='/articles/2019/12/2019-12-19-微服务自救指南-离群实例摘除-告别雪崩式故障'">
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2019/12/2019-12-19-微服务自救指南-离群实例摘除-告别雪崩式故障.html'">
   <span class="article-meta-date">12月19日</span>
   <span class="article-source">InfoQ中文</span>
-  <h3><a href="../articles/2019/12/2019-12-19-微服务自救指南-离群实例摘除-告别雪崩式故障">🎯 微服务自救指南：离群实例摘除，告别雪崩式故障</a></h3>
+  <h3><a href="/knowledge-base/articles/2019/12/2019-12-19-微服务自救指南-离群实例摘除-告别雪崩式故障.html">🎯 微服务自救指南：离群实例摘除，告别雪崩式故障</a></h3>
   <p class="article-desc">🎯 微服务自救指南：离群实例摘除，告别雪崩式故障</p>
   <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">微服务</span> <span class="article-tag">高可用</span> <span class="article-tag">服务治理</span></div>
 </div>

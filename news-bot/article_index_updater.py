@@ -23,6 +23,10 @@ logger = get_logger("index_updater")
 MARKER_START = "<!-- AUTO_GENERATED_ARTICLES_START -->"
 MARKER_END = "<!-- AUTO_GENERATED_ARTICLES_END -->"
 
+# VitePress 站点 base 路径（与 docs/.vitepress/config.ts 中的 base 一致）
+# 用于生成正确的文章 URL
+BASE_PATH = "/knowledge-base"
+
 
 def scan_articles(articles_dir: Path) -> list[dict]:
     """
@@ -39,8 +43,10 @@ def scan_articles(articles_dir: Path) -> list[dict]:
         meta = parse_frontmatter(content)
         if meta and meta.get("title"):
             # 计算文章 URL（相对于 docs/ 目录）
+            # VitePress 生成 xxx.html，所以 URL 需要 .html 后缀
             rel_path = md_file.relative_to(articles_dir.parent)  # 相对于 docs/
-            url = "/" + str(rel_path.with_suffix("")).replace("\\", "/")
+            url_path = str(rel_path.with_suffix(".html")).replace("\\", "/")
+            url = f"{BASE_PATH}/{url_path}"
 
             meta["url"] = url
             meta["_file"] = str(md_file)
