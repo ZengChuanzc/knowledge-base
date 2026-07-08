@@ -27,7 +27,7 @@ export default defineConfig({
         text: '知识体系 📚',
         items: [
           { text: '☕ Java体系', link: '/java/' },
-          { text: '🤖 AI Agent', link: '/ai-agent/' },
+          { text: '🤖 AI 应用', link: '/ai-agent/' },
           { text: '📊 机器学习', link: '/ml/' },
         ]
       },
@@ -69,7 +69,7 @@ export default defineConfig({
             { text: 'JVM 原理', link: '/java/jvm' },
             { text: '并发编程', link: '/java/concurrent' },
             { text: 'Spring 生态', link: '/java/spring' },
-            { text: '面试要点 (脑图)', link: '/java/interview' },
+            { text: '技能要点 (脑图)', link: '/java/interview' },
           ]
         }
       ],

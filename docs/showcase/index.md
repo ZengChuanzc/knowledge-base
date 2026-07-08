@@ -30,8 +30,8 @@ outline: deep
     </ul>
   </div>
   <div class="card-links">
-    <a href="/">🔗 访问站点</a>
-    <a href="https://github.com/zengchans/knowledge-base" target="_blank">📦 源代码</a>
+    <a href="https://zengchuanzc.github.io/knowledge-base/">🔗 访问站点</a>
+    <a href="https://github.com/ZengChuanzc/knowledge-base" target="_blank">📦 源代码</a>
   </div>
 </div>
 

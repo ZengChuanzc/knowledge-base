@@ -2,11 +2,11 @@
 outline: deep
 ---
 
-# Java 面试要点
+# Java 技能要点
 
-> 下面是我整理的 Java 面试核心知识脑图，涵盖 Java 基础、JVM、并发编程、Spring 生态等面试高频考点。可拖拽缩放查看。
+> 下面是我整理的 Java 核心知识脑图，涵盖 Java 基础、JVM、并发编程、Spring 生态等技能。可拖拽缩放查看。
 
-<XmindViewer src="/knowledge-base/xmind-file/interview-core.xmind" :height="700" />
+<XmindViewer src="/knowledge-base/public/xmind-file/interview-core.xmind" :height="700" />
 
 ---
 
