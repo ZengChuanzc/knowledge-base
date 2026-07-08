@@ -2,8 +2,6 @@ import { defineConfig } from 'vitepress'
 import fs from 'fs'
 import path from 'path'
 
-// @ts-ignore
-// @ts-ignore
 export default defineConfig({
   title: "Knowledge Base",
   base: '/knowledge-base/',
@@ -12,16 +10,12 @@ export default defineConfig({
   head: [
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/knowledge-base/favicon.svg' }],
     ['link', { rel: 'shortcut icon', type: 'image/svg+xml', href: '/knowledge-base/favicon.svg' }],
-    // 内联自定义样式（避免 CSS 文件导入在构建时未被处理的问题）
+    // CSS 通过内联注入（JS import 在 VitePress 1.6.4 中不会被处理）
     ['style', {}, (() => {
       try {
         const cssPath = path.resolve(__dirname, './theme/styles/custom.css')
-        const css = fs.readFileSync(cssPath, 'utf-8')
-        // 修正 CSS 中的资源路径（内联注入时 Vite 不会自动处理 base 路径）
-        return css.replace(/url\(\s*['"]?\/k-icon\.svg['"]?\s*\)/g, "url('/knowledge-base/k-icon.svg')")
-      } catch {
-        return ''
-      }
+        return fs.readFileSync(cssPath, 'utf-8')
+      } catch { return '' }
     })()],
   ],
 

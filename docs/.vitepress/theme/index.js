@@ -1,9 +1,7 @@
 import DefaultTheme from 'vitepress/theme'
-import XmindViewer from './components/XmindViewer.vue'
+import Layout from './Layout.vue'
 
 export default {
   extends: DefaultTheme,
-  enhanceApp({ app }) {
-    app.component('XmindViewer', XmindViewer)
-  },
+  Layout,
 }

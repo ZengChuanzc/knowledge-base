@@ -141,7 +141,7 @@ body::before {
   display: inline-flex;
   align-items: center;
   padding-left: 36px;
-  background: url('/k-icon.svg') left center / auto 32px no-repeat;
+  background: url('/knowledge-base/k-icon.svg') left center / auto 32px no-repeat;
   font-size: 17px;
   font-weight: 700;
   letter-spacing: 1.5px;
@@ -154,7 +154,7 @@ body::before {
 /* Hover: 渐变流光效果 */
 .VPNavBar .container:hover::before {
   background:
-    url('/k-icon.svg') left center / auto 32px no-repeat,
+    url('/knowledge-base/k-icon.svg') left center / auto 32px no-repeat,
     linear-gradient(
       90deg,
       #646cff 0%,
@@ -172,7 +172,7 @@ body::before {
 
 .dark .VPNavBar .container:hover::before {
   background:
-    url('/k-icon.svg') left center / auto 32px no-repeat,
+    url('/knowledge-base/k-icon.svg') left center / auto 32px no-repeat,
     linear-gradient(
       90deg,
       #818cf8 0%,
