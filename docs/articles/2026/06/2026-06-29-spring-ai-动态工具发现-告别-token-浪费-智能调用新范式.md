@@ -1,6 +1,6 @@
 ---
 title: 🔍 Spring AI 动态工具发现：告别 Token 浪费，智能调用新范式
-date: 2026-06-29
+date: "2026-06-29"
 tags: [Java, Spring Boot, Spring AI, AI, Tool Search, Token优化]
 category: 技术热点
 source: Baeldung

@@ -8,113 +8,112 @@ outline: deep
 
 ---
 
-## 🔥 近期关注
+## 🔥 最新文章
 
-<div class="article-list">
+<!-- AUTO_GENERATED_ARTICLES_START -->
 
-<div class="article-item">
-  <div class="article-tag hot">🔥 热门</div>
-  <h3>AI Agent 从概念到落地：2025 年技术实践总结</h3>
-  <p class="article-meta">📅 2026-06 | 📂 AI Agent</p>
-  <p>AI Agent 正从概念走向生产实践，本文总结了当前主流的技术方案与落地经验。</p>
+<div class="article-list-auto">
+<div class="article-item" onclick="location.href='/articles/2026/07/2026-07-05-reactagent-实战指南-用-solon-ai-4-0-构建会思考-能行动的智能体'">
+  <span class="article-meta-date">7月5日</span>
+  <span class="article-source">开源中国</span>
+  <h3><a href="/articles/2026/07/2026-07-05-reactagent-实战指南-用-solon-ai-4-0-构建会思考-能行动的智能体">🤖 ReActAgent 实战指南：用 Solon AI 4.0 构建会思考、能行动的智能体</a></h3>
+  <p class="article-desc">🤖 ReActAgent 实战指南：用 Solon AI 4.0 构建会思考、能行动的智能体</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Solon AI</span> <span class="article-tag">ReActAgent</span> <span class="article-tag">AI Agent</span></div>
 </div>
 
-<div class="article-item">
-  <div class="article-tag new">✨ 新增</div>
-  <h3>Spring AI 1.0 正式发布：Java 生态的 AI 集成新范式</h3>
-  <p class="article-meta">📅 2026-05 | 📂 AI Agent</p>
-  <p>Spring AI 1.0 带来了更完善的 AI 模型集成能力，让 Java 开发者能够轻松构建 AI 应用。</p>
+<div class="article-item" onclick="location.href='/articles/2026/06/2026-06-29-spring-ai-动态工具发现-告别-token-浪费-智能调用新范式'">
+  <span class="article-meta-date">6月29日</span>
+  <span class="article-source">Baeldung</span>
+  <h3><a href="/articles/2026/06/2026-06-29-spring-ai-动态工具发现-告别-token-浪费-智能调用新范式">🔍 Spring AI 动态工具发现：告别 Token 浪费，智能调用新范式</a></h3>
+  <p class="article-desc">🔍 Spring AI 动态工具发现：告别 Token 浪费，智能调用新范式</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Spring Boot</span> <span class="article-tag">Spring AI</span> <span class="article-tag">AI</span></div>
 </div>
 
-<div class="article-item">
-  <div class="article-tag">📌 推荐</div>
-  <h3>Java 21 Virtual Threads 深入剖析与性能对比</h3>
-  <p class="article-meta">📅 2026-04 | 📂 Java</p>
-  <p>虚拟线程在 Java 21 中正式 GA，本文深入分析其实现原理并与传统线程模型进行性能对比。</p>
+<div class="article-item" onclick="location.href='/articles/2019/12/2019-12-19-微服务自救指南-离群实例摘除-告别雪崩式故障'">
+  <span class="article-meta-date">12月19日</span>
+  <span class="article-source">InfoQ中文</span>
+  <h3><a href="/articles/2019/12/2019-12-19-微服务自救指南-离群实例摘除-告别雪崩式故障">🎯 微服务自救指南：离群实例摘除，告别雪崩式故障</a></h3>
+  <p class="article-desc">🎯 微服务自救指南：离群实例摘除，告别雪崩式故障</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">微服务</span> <span class="article-tag">高可用</span> <span class="article-tag">服务治理</span></div>
+</div>
 </div>
 
-<div class="article-item">
-  <div class="article-tag">📌 推荐</div>
-  <h3>RAG 系统的 10 个最佳实践</h3>
-  <p class="article-meta">📅 2026-03 | 📂 AI Agent</p>
-  <p>检索增强生成系统在实际应用中的关键考量与优化策略。</p>
-</div>
+<style>
+.article-list-auto .article-item {
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  padding: 1.1rem 1.25rem;
+  margin-bottom: 0.75rem;
+  background: var(--vp-c-bg-soft);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+.article-list-auto .article-item:hover {
+  border-color: var(--vp-c-brand-1);
+  transform: translateY(-1px);
+}
+.article-list-auto .article-item h3 {
+  margin: 0.3rem 0 0.4rem;
+  font-size: 1rem;
+  font-weight: 600;
+}
+.article-list-auto .article-item h3 a {
+  color: var(--vp-c-text-1);
+  text-decoration: none;
+}
+.article-list-auto .article-item:hover h3 a {
+  color: var(--vp-c-brand-1);
+}
+.article-meta-date {
+  font-size: 0.82rem;
+  color: var(--vp-c-text-3);
+  margin-right: 0.5rem;
+}
+.article-source {
+  font-size: 0.78rem;
+  color: var(--vp-c-text-3);
+}
+.article-desc {
+  font-size: 0.85rem;
+  color: var(--vp-c-text-2);
+  margin: 0 0 0.4rem;
+  line-height: 1.5;
+}
+.article-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+.article-tag {
+  font-size: 0.72rem;
+  padding: 0.1rem 0.5rem;
+  border-radius: 4px;
+  background: #eef2ff;
+  color: #4f46e5;
+}
+:root.dark .article-tag {
+  background: #1e1b4b;
+  color: #a5b4fc;
+}
+</style>
 
-</div>
+<!-- AUTO_GENERATED_ARTICLES_END -->
 
 ---
 
 ## 📂 按分类浏览
 
-| 分类 | 文章数 | 最新文章 |
-|------|--------|----------|
-| ☕ Java | - | Java 21 Virtual Threads |
-| 🤖 AI Agent | - | Spring AI 1.0 发布 |
-| 📊 机器学习 | - | - |
-| 🏗️ 系统设计 | - | - |
+| 分类 | 标签关键词 |
+|------|-----------|
+| ☕ **Java** | JDK, JVM, Spring, Spring Boot, 并发, 性能优化 |
+| 🤖 **AI / LLM** | AI Agent, Prompt Engineering, RAG, MCP, Copilot |
+| 🐘 **数据库** | Redis, MySQL, SQL 优化 |
+| 📬 **消息队列** | Kafka, RocketMQ |
+| ☸️ **云原生** | Docker, Kubernetes, 微服务, Serverless |
+| 🏗️ **架构设计** | 分布式, 系统设计, 高并发 |
 
 ---
 
-## 📋 待读清单
-
-- [ ] Building Production-Ready RAG Systems (2026)
-- [ ] 大模型训练与推理优化综述
-- [ ] 从单体到微服务：架构演进之路
-
----
-
-> 💡 本页面持续更新，每篇文章将逐步补充详细的学习笔记和代码示例。
-
-<style>
-.article-list {
-  display: flex;
-  flex-direction: column;
-  gap: 1rem;
-  margin: 1.5rem 0;
-}
-.article-item {
-  border: 1px solid var(--vp-c-divider);
-  border-radius: 8px;
-  padding: 1.25rem;
-  background: var(--vp-c-bg-soft);
-  transition: all 0.2s;
-  position: relative;
-}
-.article-item:hover {
-  border-color: var(--vp-c-brand-1);
-  transform: translateY(-1px);
-}
-.article-item h3 {
-  margin: 0 0 0.5rem;
-  font-size: 1.05rem;
-}
-.article-meta {
-  font-size: 0.85rem;
-  color: var(--vp-c-text-2);
-  margin: 0 0 0.5rem;
-}
-.article-item p {
-  margin: 0;
-  color: var(--vp-c-text-2);
-}
-.article-tag {
-  display: inline-block;
-  font-size: 0.75rem;
-  padding: 0.1rem 0.5rem;
-  border-radius: 4px;
-  margin-bottom: 0.5rem;
-  font-weight: 500;
-}
-.article-tag.hot {
-  background: #fef3f2;
-  color: #e43e2b;
-}
-.article-tag.new {
-  background: #ecfdf5;
-  color: #059669;
-}
-.article-tag {
-  background: #eef2ff;
-  color: #4f46e5;
-}
-</style>
+> 💡 文章由 **AI 自动抓取 + 评分 + 生成**，每天北京时间 09:00 更新。
+> 通过 RSS 监控 10+ 技术博客（Spring、Baeldung、InfoQ、开源中国等），
+> 经 AI 筛选过滤后收录高质量内容。

@@ -119,6 +119,15 @@ export default defineConfig({
           ]
         }
       ],
+
+      '/articles/': [
+        {
+          text: '热点技术文章',
+          items: [
+            { text: '📰 文章列表', link: '/articles/' },
+          ]
+        }
+      ],
     },
 
     socialLinks: [

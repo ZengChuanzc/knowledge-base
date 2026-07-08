@@ -1,0 +1,182 @@
+# =============================================================================
+# AI 热点技术文章生成系统 — 全局配置文件
+# 所有可配置项集中管理，新增 RSS 源无需修改核心代码
+# =============================================================================
+
+# ─── LLM 模型配置 ─────────────────────────────────────────────────────────────
+llm:
+  # 默认使用 DeepSeek（OpenAI 兼容接口）
+  api_key_env: DEEPSEEK_API_KEY     # 从环境变量读取
+  # DeepSeek 兼容 OpenAI SDK，只需改 base_url
+  base_url: https://api.deepseek.com/v1
+  model: deepseek-chat               # DeepSeek V3 / R1
+  temperature: 0.7
+  max_tokens: 4096
+
+  # 其他可选模型示例（取消注释即可切换）：
+  # --- OpenAI ---
+  # api_key_env: OPENAI_API_KEY
+  # base_url: https://api.openai.com/v1
+  # model: gpt-4o
+  #
+  # --- Qwen (阿里通义千问) ---
+  # api_key_env: QWEN_API_KEY
+  # base_url: https://dashscope.aliyuncs.com/compatible-mode/v1
+  # model: qwen-plus
+  #
+  # --- Claude (Anthropic) ---
+  # 需要额外安装 anthropic SDK，并使用 Messages API
+
+# ─── RSS 新闻源配置 ───────────────────────────────────────────────────────────
+# 所有源配置化，新增/删除只需在这里增删条目
+# 新增 RSS 源：添加一条记录即可，无需改任何代码
+rss_sources:
+  # ── 国外源 ──
+  - name: Spring Blog
+    url: https://spring.io/blog/feed.atom
+    type: rss
+    lang: en
+
+  - name: Baeldung
+    url: https://www.baeldung.com/feed
+    type: rss
+    lang: en
+
+  - name: InfoQ
+    url: https://feed.infoq.com/
+    type: rss
+    lang: en
+
+  - name: GitHub Blog
+    url: https://github.blog/feed/
+    type: rss
+    lang: en
+
+  - name: HuggingFace Blog
+    url: https://huggingface.co/blog/feed.xml
+    type: rss
+    lang: en
+
+  - name: Microsoft Dev Blog
+    url: https://devblogs.microsoft.com/feed
+    type: rss
+    lang: en
+
+  - name: Red Hat Developer
+    url: https://developers.redhat.com/rss.xml
+    type: rss
+    lang: en
+
+  - name: Google AI Blog
+    url: https://blog.research.google/feed.xml
+    type: rss
+    lang: en
+
+  - name: Netflix TechBlog
+    url: https://netflixtechblog.com/feed
+    type: rss
+    lang: en
+
+  # ── 国内源 ──
+  - name: InfoQ中文
+    url: https://www.infoq.cn/feed
+    type: rss
+    lang: zh
+
+  - name: 开源中国
+    url: https://www.oschina.net/news/rss
+    type: rss
+    lang: zh
+
+  - name: 阿里云云原生
+    url: https://rsshub.app/aliyun/cloud-native
+    type: rss
+    lang: zh
+
+# ─── 关键词过滤配置 ───────────────────────────────────────────────────────────
+# AI 预过滤关键词匹配规则
+keywords:
+  # 必须包含的关键词（任一匹配即保留，支持大小写不敏感）
+  include:
+    - Java
+    - Spring
+    - Spring Boot
+    - Spring AI
+    - Spring Cloud
+    - LangChain4j
+    - Redis
+    - MySQL
+    - Kafka
+    - RocketMQ
+    - JDK
+    - "AI Agent"
+    - LLM
+    - "Prompt Engineering"
+    - RAG
+    - MCP
+    - "GitHub Copilot"
+    - Cursor
+    - Claude
+    - OpenAI
+    - DeepSeek
+    - Qwen
+    - Docker
+    - Kubernetes
+    - K8s
+    - "云原生"
+    - "微服务"
+    - "性能优化"
+    - "高并发"
+    - "分布式"
+    - "数据库"
+    - "系统设计"
+    - "大模型"
+    - "大语言模型"
+    - "低代码"
+    - "函数计算"
+    - Serverless
+    - GraalVM
+    - Quarkus
+    - WebFlux
+    - Reactor
+    - JVM
+    - "虚拟线程"
+    - Virtual Thread
+    - Loom
+    - "结构化并发"
+    - "向量数据库"
+    - Embedding
+    - "检索增强"
+
+  # 排除关键词（含任一即丢弃）
+  exclude:
+    - "八卦"
+    - "娱乐"
+    - "游戏攻略"
+    - "影视"
+    - "房产"
+    - "汽车评测"
+
+# ─── 输出配置 ────────────────────────────────────────────────────────────────
+output:
+  # Markdown 输出根目录（相对于项目根，或绝对路径）
+  base_dir: docs/articles
+  # 日期格式：自动按 yyyy/MM/ 创建子目录
+  # 文件名格式：yyyy-MM-dd-kebab-slug.md
+  # 每天最多保留文章数（AI 评分后取 Top N）
+  max_articles_per_day: 3
+
+# ─── 去重配置 ────────────────────────────────────────────────────────────────
+dedup:
+  # 历史记录文件
+  history_file: news-bot/data/history.json
+  # 基于 URL 去重（主键）
+  # 辅助：对相同 URL 不再生成
+
+# ─── 日志配置 ────────────────────────────────────────────────────────────────
+logging:
+  level: INFO                         # DEBUG / INFO / WARNING / ERROR
+  format: "%(asctime)s | %(levelname)-8s | %(name)s | %(message)s"
+  date_format: "%Y-%m-%d %H:%M:%S"
+  # 日志文件输出（留空则仅控制台）
+  file: news-bot/data/run.log

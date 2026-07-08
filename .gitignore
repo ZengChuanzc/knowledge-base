@@ -10,7 +10,10 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# IDE
+# Python
+news-bot/__pycache__/
+news-bot/data/run.log
+*.pyc
 .idea
 .vscode
 

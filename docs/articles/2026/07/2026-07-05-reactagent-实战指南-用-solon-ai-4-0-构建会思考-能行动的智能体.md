@@ -1,6 +1,6 @@
 ---
 title: 🤖 ReActAgent 实战指南：用 Solon AI 4.0 构建会思考、能行动的智能体
-date: 2026-07-05
+date: "2026-07-05"
 tags: [Java, Solon AI, ReActAgent, AI Agent, Spring Boot, RAG, LLM]
 category: 技术热点
 source: 开源中国

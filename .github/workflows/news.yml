@@ -1,0 +1,86 @@
+# =============================================================================
+# AI 热点技术文章自动生成 — GitHub Actions 工作流
+# 每天北京时间 09:00（UTC 01:00）自动执行
+# =============================================================================
+
+name: 🤖 热点技术文章自动生成
+
+on:
+  schedule:
+    # 北京时间 09:00 = UTC 01:00 (GitHub Actions 使用 UTC)
+    - cron: '0 1 * * *'
+  # 支持手动触发（方便调试）
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: '预览模式（仅抓取+过滤，不生成文件）'
+        type: boolean
+        required: false
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  generate-articles:
+    name: 抓取 → 筛选 → 生成 → 提交
+    runs-on: ubuntu-latest
+
+    steps:
+      # ── 1. Checkout 仓库 ──
+      - name: 📥 Checkout
+        uses: actions/checkout@v4
+        with:
+          # 需要完整历史用于 push
+          fetch-depth: 0
+
+      # ── 2. 设置 Python ──
+      - name: 🐍 设置 Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+          cache-dependency-path: news-bot/requirements.txt
+
+      # ── 3. 安装依赖 ──
+      - name: 📦 安装依赖
+        run: |
+          pip install -r news-bot/requirements.txt
+        working-directory: ${{ github.workspace }}
+
+      # ── 4. 配置 Git 用户（用于提交） ──
+      - name: ⚙️  配置 Git 用户
+        run: |
+          git config user.name "news-bot[bot]"
+          git config user.email "news-bot@knowledge-base.dev"
+
+      # ── 5. 执行主流程 ──
+      - name: 🤖 执行文章生成
+        env:
+          # 从 GitHub Secrets 读取 API Key
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        run: |
+          if [[ "${{ github.event.inputs.dry_run }}" == "true" ]]; then
+            python news-bot/main.py --dry-run
+          else
+            python news-bot/main.py
+          fi
+
+      # ── 6. 提交并推送变更 ──
+      # （main.py 内部已包含 git push，此处作为安全兜底）
+      - name: 🚀 推送变更
+        if: github.event.inputs.dry_run != 'true'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git add docs/articles/ news-bot/data/history.json
+          if git diff --cached --quiet; then
+            echo "📭 无变更，跳过提交"
+          else
+            git commit -m "🤖 [自动] 更新热点技术文章 ($(date +'%Y-%m-%d %H:%M'))"
+            # 使用 GITHUB_TOKEN 认证推送
+            git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
+            git pull --rebase
+            git push
+            echo "✅ 已推送至远程仓库"
+          fi
