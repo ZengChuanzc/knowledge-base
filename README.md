@@ -2,7 +2,7 @@
   <img alt="Knowledge Base" src="https://zengchuanzc.github.io/knowledge-base/k-icon.svg" width="64">
 </p>
 
-<h1 align="center">ZengChuan · 知识库</h1>
+<h1 align="center">ZengChuan's Engineering Knowledge Base</h1>
 
 <p align="center">
   <code>Java</code>&nbsp;
@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://zengchuanzc.github.io/knowledge-base/">
-    <img src="https://zengchuanzc.github.io/knowledge-base/docs/public/img/index.png" alt="知识库首页截图" width="720" style="border-radius: 8px; border: 1px solid #e2e8f0;">
+    <img src="https://zengchuanzc.github.io/knowledge-base/img/index.png" alt="知识库首页截图" width="720" style="border-radius: 8px; border: 1px solid #e2e8f0;">
   </a>
   <br>
   <sub>⬆ 知识库首页 · Java 后端 · AI Agent · 学习笔记</sub>
@@ -45,78 +45,73 @@
 
 ## 🧑‍💻 关于我
 
-4 年 Java 后端开发经验，目前专注于 Spring Boot / Spring Cloud 微服务架构与 AI Agent 应用落地。
+4 年 Java 后端开发经验，专注于 Spring Boot / Spring Cloud 微服务架构与 AI Agent 应用落地。
 
-- 🔭 参与过**物流运力调度平台**、**数字化移交管理系统**、**基建智慧工程管控平台**等企业级项目的后端开发
+- 🔭 参与过**赫兹运力平台**（400万+ 运单）、**数字化移交管理平台**（AI Code Review）、**基建智慧工程管控项目**（30-40万用户）等企业级项目
 - 🌱 正在深入学习 **Spring AI**、**RAG 系统**、**MCP 协议**及 AI Agent 工程化实践
 - ✍️ 坚持技术输出，通过知识库沉淀学习笔记与项目经验
-
-**技术栈**
 
 | 方向 | 技术 |
 |------|------|
 | 后端 | Java · Spring Boot · Spring Cloud · MyBatis-Plus |
 | 中间件 | Kafka · RocketMQ · Redis · Nacos · Sentinel |
-| 数据库 | MySQL · Redis |
-| 前端 | VitePress · Vue 3（基础） |
-| AI | LLM · RAG · Spring AI · MCP · LangChain4j（学习/实践） |
-| DevOps | Docker · GitHub Actions · Linux |
-| 自动化 | Python · feedparser · httpx · BeautifulSoup |
+| 数据库 | MySQL |
+| AI | Qwen · LangChain4j · RAG · Spring AI · MCP |
+| DevOps | Docker · Jenkins · GitHub Actions · Linux |
 
 ---
 
-## 🏗️ 参与项目
-
-> 以下项目均为生产环境落地的企业级应用，我在其中负责后端开发与系统设计。
+## 🏗️ 项目实践
 
 ### 🚛 赫兹运力平台系统
 
-*Spring Boot · Spring Cloud · Kafka · Redis · MySQL · Sentinel*
+`Spring Boot` `Spring Cloud` `MySQL` `Redis` `RocketMQ` `Nacos` `Docker`
 
-物流运力调度平台，支撑多运力方接入、运单调度、费用结算等核心业务流程。
+面向电力物资运输场景的企业级运力管理平台，覆盖 App、PC、小程序三端，支撑运营、司机、承运商多角色协同。
 
-| 挑战 | 方案 |
-|------|------|
-| 日均万级运单实时调度 | Kafka 异步削峰 + Redis 缓存热点数据 |
-| 多方运力协议适配 | 统一接入网关 + SPI 扩展 |
-| 分布式事务一致性 | 本地消息表 + 定时对账 |
-| 高可用保障 | Sentinel 限流降级 + 熔断 |
+- **规模**：累计处理 **400 万+ 运单**
+- **我的角色**：参与系统重构及新旧系统切换
+- **核心贡献**：
+  - 高频报表查询 **1.2s → 200ms**（SQL 优化 + 缓存 + 架构级调整）
+  - RocketMQ 异步化 + 策略模式重构报表生成，解决接口长时间阻塞
+  - 主导报表中心异步化改造，实现业务解耦
 
-🔗 [查看项目详情 →](https://zengchuanzc.github.io/knowledge-base/projects/hezi-transport)
+📄 [查看完整技术方案 →](https://zengchuanzc.github.io/knowledge-base/projects/hezi-transport)
 
 ---
 
 ### 📄 数字化移交通道管理平台
 
-*Spring Boot · RocketMQ · Redis · Vue 3*
+`Spring Boot` `Spring Cloud Alibaba` `MySQL` `Redis` `Qwen` `LangChain4j`
 
-面向工程项目的资料移交与审批管理平台，实现多方协同、文件流转、审计追溯。
+面向大型集团工程全生命周期移交场景的双模块（外网+内网）分布式管理平台。
 
-| 挑战 | 方案 |
-|------|------|
-| 复杂审批流程编排 | 工作流引擎 + 自定义任务监听器 |
-| 多角色权限控制 | RBAC 权限模型 |
-| 文件传输审计 | 全链路日志 + MD5 校验 |
-| 跨部门数据同步 | RocketMQ 事务消息 |
+- **规模**：建设、施工、监理、管理多单位协同
+- **我的角色**：主导架构搭建 + 制定开发规范 + 统筹 **60%+ 核心功能交付**
+- **核心贡献**：
+  - 基于 Qwen + LangChain4j 开发 **AI Code Review** 组件，误报率 **22% → 9%**
+  - BPMS 多节点审核流程开发，审核效率提升 **40%**
+  - Git Webhook + Embedding 检索 + Few-shot Prompt 工程实践
 
-🔗 [查看项目详情 →](https://zengchuanzc.github.io/knowledge-base/projects/digital-handover)
+📄 [查看完整技术方案 →](https://zengchuanzc.github.io/knowledge-base/projects/digital-handover)
 
 ---
 
 ### 🏗️ 基建智慧工程管控项目
 
-*Spring Boot · 物联网接入 · 实时计算 · 大屏可视化*
+`Spring Boot` `Spring Cloud` `MySQL` `Redis` `Kafka` `RocketMQ` `Docker` `Jenkins`
 
-施工现场智能化管控平台，对接 IoT 设备实现环境监测、人员定位、安全预警。
+服务 **30-40 万用户**的企业级基建工程管控平台，涵盖工程、进度、安全三大中心。
 
-| 挑战 | 方案 |
-|------|------|
-| 海量设备数据接入 | MQTT 网关 + 协议解析层 |
-| 实时预警计算 | 规则引擎 + 流式处理 |
-| 多项目数据隔离 | 多租户架构 |
-| 大屏实时展示 | WebSocket 推送 |
+- **规模**：30-40 万用户，项目周期三年
+- **我的角色**：后端开发与性能优化
+- **核心贡献**：
+  - **Redis + Caffeine 多级缓存**：高频接口（日均 120 万次）**700ms → 100ms**，P99 **2.1s → 210ms**
+  - **Kafka + MyBatis 动态分表路由**：解决多省份设备监控数据单表膨胀
+  - **RocketMQ 异步消息驱动**：进度编制接口 **1.5s → 80ms**
+  - 千万级数据量年度统计性能提升 **70%**（SQL 重写 + 索引优化 + 多线程并行）
 
-🔗 [查看项目详情 →](https://zengchuanzc.github.io/knowledge-base/projects/smart-construction)
+📄 [查看完整技术方案 →](https://zengchuanzc.github.io/knowledge-base/projects/smart-construction)
 
 ---
 
@@ -144,7 +139,7 @@ RSS 源（12 个） ──▶ 并发抓取 ──▶ 关键词过滤 ──▶ A
 |------|------|------|
 | ☕ **Java 后端** | JDK 8~21 新特性、JVM 原理、并发编程、Spring 生态 | [进入 →](https://zengchuanzc.github.io/knowledge-base/java/) |
 | 🤖 **AI Agent** | LLM 基础、RAG、Spring AI、MCP 协议、Prompt Engineering | [进入 →](https://zengchuanzc.github.io/knowledge-base/ai-agent/) |
-| 🏗️ **项目实践** | 三个企业级项目的完整文档与复盘 | [进入 →](https://zengchuanzc.github.io/knowledge-base/projects/) |
+| 🏗️ **项目实践** | 三个企业级项目的完整技术方案与复盘 | [进入 →](https://zengchuanzc.github.io/knowledge-base/projects/) |
 | 📰 **热点文章** | AI 自动生成，每天更新前沿技术解读 | [进入 →](https://zengchuanzc.github.io/knowledge-base/articles/) |
 | 🗺️ **学习路线** | Java 后端 · AI/LLM 学习路径 | [进入 →](https://zengchuanzc.github.io/knowledge-base/roadmap/) |
 
