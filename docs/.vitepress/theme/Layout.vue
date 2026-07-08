@@ -16,5 +16,6 @@ import MusicPlayer from './components/MusicPlayer.vue'
 .vp-wrapper {
   position: relative;
   min-height: 100vh;
+  overflow-x: hidden;
 }
 </style>

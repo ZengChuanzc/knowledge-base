@@ -401,8 +401,14 @@ body::before {
 
 /* 防止 scrollbar 出现/消失导致的布局抖动 + 禁止横向滚动 */
 html {
-  overflow-y: scroll !important;
   overflow-x: hidden !important;
+  scrollbar-gutter: stable !important;
+}
+body {
+  overflow-x: hidden !important;
+  width: 100% !important;
+  max-width: 100vw !important;
+  position: relative !important;
 }
 
 .VPNav,
