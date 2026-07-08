@@ -16,7 +16,9 @@ export default defineConfig({
     ['style', {}, (() => {
       try {
         const cssPath = path.resolve(__dirname, './theme/styles/custom.css')
-        return fs.readFileSync(cssPath, 'utf-8')
+        const css = fs.readFileSync(cssPath, 'utf-8')
+        // 修正 CSS 中的资源路径（内联注入时 Vite 不会自动处理 base 路径）
+        return css.replace(/url\(\s*['"]?\/k-icon\.svg['"]?\s*\)/g, "url('/knowledge-base/k-icon.svg')")
       } catch {
         return ''
       }
