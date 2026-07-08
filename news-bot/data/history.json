@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "last_updated": "2026-07-08T12:49:34.484038",
+  "articles": [
+    {
+      "url": "https://feeds.feedblitz.com/~/958677014/0/baeldung~Spring-AIs-Dynamic-Tool-Discovery",
+      "title": "Spring AI’s Dynamic Tool Discovery",
+      "slug": "spring-ai-s-dynamic-tool-discovery",
+      "file_path": "docs\\articles\\2026\\06\\2026-06-29-spring-ai-s-dynamic-tool-discovery.md",
+      "generated_at": "2026-07-08T12:49:02.615858"
+    },
+    {
+      "url": "https://www.oschina.net/news/471482",
+      "title": ":fire: ReActAgent 使用指南：构建会思考、能行动的 AI Agent",
+      "slug": "fire-reactagent-使用指南-构建会思考-能行动的-ai-agent",
+      "file_path": "docs\\articles\\2026\\07\\2026-07-05-fire-reactagent-使用指南-构建会思考-能行动的-ai-agent.md",
+      "generated_at": "2026-07-08T12:49:18.206823"
+    },
+    {
+      "url": "https://feeds.feedblitz.com/~/959091593/0/baeldung~Building-LLMasaJudge-Using-Recursive-Advisors-in-Spring-AI",
+      "title": "Building LLM-as-a-Judge Using Recursive Advisors in Spring AI",
+      "slug": "building-llm-as-a-judge-using-recursive-advisors-in-spring-ai",
+      "file_path": "docs\\articles\\2026\\07\\2026-07-04-building-llm-as-a-judge-using-recursive-advisors-in-spring-ai.md",
+      "generated_at": "2026-07-08T12:49:34.484031"
+    }
+  ]
+}
