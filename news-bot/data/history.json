@@ -1,27 +1,27 @@
 {
   "version": 1,
-  "last_updated": "2026-07-08T12:49:34.484038",
+  "last_updated": "2026-07-08T13:00:10.188725",
   "articles": [
     {
-      "url": "https://feeds.feedblitz.com/~/958677014/0/baeldung~Spring-AIs-Dynamic-Tool-Discovery",
-      "title": "Spring AI’s Dynamic Tool Discovery",
-      "slug": "spring-ai-s-dynamic-tool-discovery",
-      "file_path": "docs\\articles\\2026\\06\\2026-06-29-spring-ai-s-dynamic-tool-discovery.md",
-      "generated_at": "2026-07-08T12:49:02.615858"
-    },
-    {
       "url": "https://www.oschina.net/news/471482",
-      "title": ":fire: ReActAgent 使用指南：构建会思考、能行动的 AI Agent",
-      "slug": "fire-reactagent-使用指南-构建会思考-能行动的-ai-agent",
-      "file_path": "docs\\articles\\2026\\07\\2026-07-05-fire-reactagent-使用指南-构建会思考-能行动的-ai-agent.md",
-      "generated_at": "2026-07-08T12:49:18.206823"
+      "title": "🤖 ReActAgent 实战指南：用 Solon AI 4.0 构建会思考、能行动的智能体",
+      "slug": "reactagent-实战指南-用-solon-ai-4-0-构建会思考-能行动的智能体",
+      "file_path": "docs\\articles\\2026\\07\\2026-07-05-reactagent-实战指南-用-solon-ai-4-0-构建会思考-能行动的智能体.md",
+      "generated_at": "2026-07-08T12:59:24.745912"
     },
     {
-      "url": "https://feeds.feedblitz.com/~/959091593/0/baeldung~Building-LLMasaJudge-Using-Recursive-Advisors-in-Spring-AI",
-      "title": "Building LLM-as-a-Judge Using Recursive Advisors in Spring AI",
-      "slug": "building-llm-as-a-judge-using-recursive-advisors-in-spring-ai",
-      "file_path": "docs\\articles\\2026\\07\\2026-07-04-building-llm-as-a-judge-using-recursive-advisors-in-spring-ai.md",
-      "generated_at": "2026-07-08T12:49:34.484031"
+      "url": "https://feeds.feedblitz.com/~/958677014/0/baeldung~Spring-AIs-Dynamic-Tool-Discovery",
+      "title": "🔍 Spring AI 动态工具发现：告别 Token 浪费，智能调用新范式",
+      "slug": "spring-ai-动态工具发现-告别-token-浪费-智能调用新范式",
+      "file_path": "docs\\articles\\2026\\06\\2026-06-29-spring-ai-动态工具发现-告别-token-浪费-智能调用新范式.md",
+      "generated_at": "2026-07-08T12:59:42.056656"
+    },
+    {
+      "url": "https://www.infoq.cn/article/1LWmmE9ZrLUPblkOqlgs?utm_source=rss&utm_medium=article",
+      "title": "🎯 微服务自救指南：离群实例摘除，告别雪崩式故障",
+      "slug": "微服务自救指南-离群实例摘除-告别雪崩式故障",
+      "file_path": "docs\\articles\\2019\\12\\2019-12-19-微服务自救指南-离群实例摘除-告别雪崩式故障.md",
+      "generated_at": "2026-07-08T13:00:10.188715"
     }
   ]
 }
