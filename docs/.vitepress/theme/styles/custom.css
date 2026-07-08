@@ -397,9 +397,10 @@ body::before {
    VPNav 固定 + 暴力防止侧边栏偏移
    =========================== */
 
-/* 防止 scrollbar 出现/消失导致的布局抖动 */
+/* 防止 scrollbar 出现/消失导致的布局抖动 + 禁止横向滚动 */
 html {
   overflow-y: scroll !important;
+  overflow-x: hidden !important;
 }
 
 .VPNav,
