@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://zengchuanzc.github.io/knowledge-base/">
-    <img src="https://zengchuanzc.github.io/knowledge-base/img/index2.png" alt="知识库首页截图" width="720" style="border-radius: 8px; border: 1px solid #e2e8f0;">
+    <img src="https://zengchuanzc.github.io/knowledge-base/img/index.png" alt="知识库首页截图" width="720" style="border-radius: 8px; border: 1px solid #e2e8f0;">
   </a>
   <br>
   <sub>⬆ 知识库首页 · Java 后端 · AI Agent · 学习笔记</sub>
