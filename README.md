@@ -1,246 +1,188 @@
-# 📚 Knowledge Base
+<p align="center">
+  <img alt="Knowledge Base" src="https://zengchuanzc.github.io/knowledge-base/k-icon.svg" width="64">
+</p>
 
-> **Java · AI Agent · Machine Learning · 个人技术知识库**
+<h1 align="center">ZengChuan · 知识库</h1>
 
-[![GitHub Pages](https://img.shields.io/badge/deployed-GitHub%20Pages-blue)](https://zengchuanzc.github.io/knowledge-base/)
-[![VitePress](https://img.shields.io/badge/built%20with-VitePress-4fc08d)](https://vitepress.dev/)
-[![Python](https://img.shields.io/badge/python-3.12%2B-blue)](https://www.python.org/)
-[![AI Generated](https://img.shields.io/badge/dynamic%20news-AI%20auto--generated-orange)](https://github.com/ZengChuanzc/knowledge-base/actions/workflows/news.yml)
+<p align="center">
+  <code>Java</code>&nbsp;
+  <code>Spring Boot</code>&nbsp;
+  <code>Spring Cloud</code>&nbsp;
+  <code>AI Agent</code>&nbsp;
+  <code>LLM+RAG</code>&nbsp;
+  <code>微服务</code>&nbsp;
+  <code>Kafka</code>&nbsp;
+  <code>Redis</code>
+</p>
 
-基于 **VitePress** 构建的个人技术知识库，涵盖 Java 后端、AI Agent、机器学习等方向的学习笔记与知识沉淀。  
-集成 **AI 热点文章自动生成系统**，每天自动抓取、筛选、总结技术文章并发布。
+<p align="center">
+  <a href="https://github.com/ZengChuanzc"><img src="https://img.shields.io/badge/GitHub-ZengChuanzc-181717?logo=github&style=flat" alt="GitHub"></a>
+  <a href="https://zengchuanzc.github.io/knowledge-base/"><img src="https://img.shields.io/badge/%F0%9F%93%96_%E5%9C%A8%E7%BA%BF%E7%9F%A5%E8%AF%86%E5%BA%93-visit-4fc08d?style=flat" alt="Knowledge Base"></a>
+  <a href="https://github.com/ZengChuanzc/knowledge-base/stargazers"><img src="https://img.shields.io/github/stars/ZengChuanzc/knowledge-base?style=flat&logo=github" alt="Stars"></a>
+  <a href="https://github.com/ZengChuanzc/knowledge-base/actions/workflows/deploy.yml"><img src="https://img.shields.io/github/actions/workflow/status/ZengChuanzc/knowledge-base/deploy.yml?label=deploy" alt="Build"></a>
+  <a href="https://github.com/ZengChuanzc/knowledge-base/actions/workflows/news.yml"><img src="https://img.shields.io/badge/AI_News-daily-orange" alt="AI News"></a>
+  <img src="https://img.shields.io/badge/python-3.12+-blue" alt="Python">
+</p>
 
-🌐 **在线访问**: [https://zengchuanzc.github.io/knowledge-base/](https://zengchuanzc.github.io/knowledge-base/)
+<br>
+
+<p align="center">
+  <a href="https://zengchuanzc.github.io/knowledge-base/">
+    <img src="https://zengchuanzc.github.io/knowledge-base/docs/public/img/index.png" alt="知识库首页截图" width="720" style="border-radius: 8px; border: 1px solid #e2e8f0;">
+  </a>
+  <br>
+  <sub>⬆ 知识库首页 · Java 后端 · AI Agent · 学习笔记</sub>
+</p>
+
+<br>
+
+<p align="center">
+  致力于将技术知识系统化的个人知识库，覆盖 <strong>Java 后端</strong>、<strong>AI Agent</strong> 两大主线。<br>
+  集成 <strong>AI 自动文章生成系统</strong>，每天追踪前沿技术，自动输出结构化技术解读。
+</p>
 
 ---
 
-## 📂 内容导航
+## 🧑‍💻 关于我
 
-| 栏目 | 说明 |
+4 年 Java 后端开发经验，目前专注于 Spring Boot / Spring Cloud 微服务架构与 AI Agent 应用落地。
+
+- 🔭 参与过**物流运力调度平台**、**数字化移交管理系统**、**基建智慧工程管控平台**等企业级项目的后端开发
+- 🌱 正在深入学习 **Spring AI**、**RAG 系统**、**MCP 协议**及 AI Agent 工程化实践
+- ✍️ 坚持技术输出，通过知识库沉淀学习笔记与项目经验
+
+**技术栈**
+
+| 方向 | 技术 |
 |------|------|
-| ☕ [Java 体系](https://zengchuanzc.github.io/knowledge-base/java/) | JDK 版本特性、JVM、并发编程、Spring 生态 |
-| 🤖 [AI Agent](https://zengchuanzc.github.io/knowledge-base/ai-agent/) | LLM 基础、RAG、Spring AI、MCP 协议 |
-| 📊 [机器学习](https://zengchuanzc.github.io/knowledge-base/ml/) | 机器学习入门笔记 |
-| 🏗️ [项目实践](https://zengchuanzc.github.io/knowledge-base/projects/) | 企业级项目案例 |
-| 📰 [热点文章](https://zengchuanzc.github.io/knowledge-base/articles/) | **AI 自动生成** 每日技术热点 |
-| 🗺️ [学习路线](https://zengchuanzc.github.io/knowledge-base/roadmap/) | Java 后端 & AI 学习路径 |
-| 📌 [技术导航](https://zengchuanzc.github.io/knowledge-base/navigation/) | 工具与资源索引 |
+| 后端 | Java · Spring Boot · Spring Cloud · MyBatis-Plus |
+| 中间件 | Kafka · RocketMQ · Redis · Nacos · Sentinel |
+| 数据库 | MySQL · Redis |
+| 前端 | VitePress · Vue 3（基础） |
+| AI | LLM · RAG · Spring AI · MCP · LangChain4j（学习/实践） |
+| DevOps | Docker · GitHub Actions · Linux |
+| 自动化 | Python · feedparser · httpx · BeautifulSoup |
+
+---
+
+## 🏗️ 参与项目
+
+> 以下项目均为生产环境落地的企业级应用，我在其中负责后端开发与系统设计。
+
+### 🚛 赫兹运力平台系统
+
+*Spring Boot · Spring Cloud · Kafka · Redis · MySQL · Sentinel*
+
+物流运力调度平台，支撑多运力方接入、运单调度、费用结算等核心业务流程。
+
+| 挑战 | 方案 |
+|------|------|
+| 日均万级运单实时调度 | Kafka 异步削峰 + Redis 缓存热点数据 |
+| 多方运力协议适配 | 统一接入网关 + SPI 扩展 |
+| 分布式事务一致性 | 本地消息表 + 定时对账 |
+| 高可用保障 | Sentinel 限流降级 + 熔断 |
+
+🔗 [查看项目详情 →](https://zengchuanzc.github.io/knowledge-base/projects/hezi-transport)
+
+---
+
+### 📄 数字化移交通道管理平台
+
+*Spring Boot · RocketMQ · Redis · Vue 3*
+
+面向工程项目的资料移交与审批管理平台，实现多方协同、文件流转、审计追溯。
+
+| 挑战 | 方案 |
+|------|------|
+| 复杂审批流程编排 | 工作流引擎 + 自定义任务监听器 |
+| 多角色权限控制 | RBAC 权限模型 |
+| 文件传输审计 | 全链路日志 + MD5 校验 |
+| 跨部门数据同步 | RocketMQ 事务消息 |
+
+🔗 [查看项目详情 →](https://zengchuanzc.github.io/knowledge-base/projects/digital-handover)
+
+---
+
+### 🏗️ 基建智慧工程管控项目
+
+*Spring Boot · 物联网接入 · 实时计算 · 大屏可视化*
+
+施工现场智能化管控平台，对接 IoT 设备实现环境监测、人员定位、安全预警。
+
+| 挑战 | 方案 |
+|------|------|
+| 海量设备数据接入 | MQTT 网关 + 协议解析层 |
+| 实时预警计算 | 规则引擎 + 流式处理 |
+| 多项目数据隔离 | 多租户架构 |
+| 大屏实时展示 | WebSocket 推送 |
+
+🔗 [查看项目详情 →](https://zengchuanzc.github.io/knowledge-base/projects/smart-construction)
 
 ---
 
 ## 🤖 AI 热点文章自动生成系统
 
-这是本项目的核心亮点 — 一套完全自动化的技术文章采集、筛选、生成与发布流水线。
-
-### 系统架构
+每天 UTC 01:00 自动执行，一套全自动的技术文章采集、筛选、生成与发布流水线。
 
 ```
-RSS 新闻源（12 个）
-       │
-       ▼
-┌─────────────────────────────────────────────┐
-│              news-bot/ 流水线                 │
-│                                             │
-│  ① RSS 并发抓取  │  feedparser + httpx       │
-│  ② 关键词快筛     │  40+ 技术关键词严格匹配    │
-│  ③ 去重          │  history.json 持久化       │
-│  ④ AI 评分       │  DeepSeek 语义评分选 Top 3 │
-│  ⑤ AI 生成       │  结构化文章生成             │
-│  ⑥ 写入磁盘      │  Markdown + FrontMatter   │
-│  ⑦ 更新列表页    │  自动追加文章入口           │
-│  ⑧ Git 提交      │  自动 push → 触发部署      │
-└─────────────────────────────────────────────┘
-       │
-       ▼
-    GitHub Actions（每天 UTC 01:00 / 北京时间 09:00）
-       │
-       ▼
-    GitHub Pages 自动部署
+RSS 源（12 个） ──▶ 并发抓取 ──▶ 关键词过滤 ──▶ AI 评分选 Top 3 ──▶ LLM 全文生成 ──▶ 文章发布
+                    feedparser       40+ 关键词      DeepSeek         结构化 7 段式       Git push
 ```
 
-### 工作流程
+- 📡 **多源聚合** — Baeldung、InfoQ、GitHub Blog、开源中国等 12 个技术源，配置化扩展
+- 🤖 **AI 精选** — 关键词快筛 + DeepSeek 语义评分，从日均近千篇文章中精选 Top 3
+- ✍️ **深度生成** — 每篇文章自动输出：摘要 · 核心内容 · 技术亮点 · 深度思考（300+ 字）
+- 🔄 **全自动闭环** — 抓取 → 过滤 → 生成 → 建站，零人工干预
 
-每天北京时间 **09:00**，系统自动执行：
+📖 [系统文档 →](https://github.com/ZengChuanzc/knowledge-base/tree/master/news-bot) &nbsp;|&nbsp; 📰 [浏览文章 →](https://zengchuanzc.github.io/knowledge-base/articles/)
 
-1. **📡 抓取** — 从 12 个国内外技术博客抓取最新文章
-2. **🔍 过滤** — 关键词快筛（947 → 195 篇）+ AI 语义评分（195 → Top 3）
-3. **✍️ 生成** — DeepSeek 大模型生成结构化文章（含一句话总结、核心内容、技术亮点、深度思考）
-4. **📄 发布** — 自动写入 `docs/articles/` 目录，更新列表页，提交并推送到 GitHub
-5. **🚀 部署** — GitHub Actions 自动构建并部署到 Pages
+---
 
-### 支持的 RSS 源
+## 📚 知识体系
 
-| 来源 | 语言 | 状态 |
+| 领域 | 内容 | 入口 |
 |------|------|------|
-| Baeldung | EN | ✅ |
-| InfoQ | EN | ✅ |
-| GitHub Blog | EN | ✅ |
-| HuggingFace Blog | EN | ✅ |
-| Microsoft Dev Blog | EN | ✅ |
-| Netflix TechBlog | EN | ✅ |
-| InfoQ 中文 | ZH | ✅ |
-| 开源中国 | ZH | ✅ |
-| Spring Blog | EN | ⏳ 待修复 |
-| Red Hat Developer | EN | ⏳ 待修复 |
-| Google AI Blog | EN | ⏳ 待修复 |
-| 阿里云云原生 | ZH | ⏳ 待修复 |
-
-> 所有源均通过 `news-bot/config.yaml` 配置化，新增/修复无需修改代码。
-
-### 筛选规则
-
-AI 自动筛选覆盖但不限于以下技术领域：
-
-**后端 & 架构**: Java, Spring Boot, Spring AI, 微服务, 云原生, Kubernetes, Docker, Redis, MySQL, Kafka, RocketMQ  
-**AI & LLM**: AI Agent, LLM, RAG, MCP, Prompt Engineering, LangChain4j  
-**开发工具**: GitHub Copilot, Cursor, Claude, OpenAI, DeepSeek, Qwen  
-**性能 & 设计**: 高并发, 分布式, 性能优化, 系统设计, Virtual Thread, GraalVM
-
-### 文章质量标准
-
-每篇生成的文章包含 7 个结构化部分：
-
-```
-📝 一句话总结    → 100 字以内
-📌 核心内容      → Markdown 列表
-🎯 为什么值得关注 → Java 开发者视角
-✨ 技术亮点      → 功能/架构/性能/API 变化
-💭 我的思考      → 300+ 字深度分析
-📎 原文链接      → 保留来源
-```
+| ☕ **Java 后端** | JDK 8~21 新特性、JVM 原理、并发编程、Spring 生态 | [进入 →](https://zengchuanzc.github.io/knowledge-base/java/) |
+| 🤖 **AI Agent** | LLM 基础、RAG、Spring AI、MCP 协议、Prompt Engineering | [进入 →](https://zengchuanzc.github.io/knowledge-base/ai-agent/) |
+| 🏗️ **项目实践** | 三个企业级项目的完整文档与复盘 | [进入 →](https://zengchuanzc.github.io/knowledge-base/projects/) |
+| 📰 **热点文章** | AI 自动生成，每天更新前沿技术解读 | [进入 →](https://zengchuanzc.github.io/knowledge-base/articles/) |
+| 🗺️ **学习路线** | Java 后端 · AI/LLM 学习路径 | [进入 →](https://zengchuanzc.github.io/knowledge-base/roadmap/) |
 
 ---
 
-## 🛠️ 技术栈
-
-### 前端 / 静态站点
-
-| 技术 | 用途 |
-|------|------|
-| [VitePress 1.6.4](https://vitepress.dev/) | Vue 3 + Vite 静态站点框架 |
-| Vue 3 | 自定义布局与组件 |
-| Canvas | 粒子鼠标追踪动效 |
-| HTML / CSS | 响应式布局，毛玻璃导航栏 |
-
-### AI 流水线 (news-bot/)
-
-| 技术 | 用途 |
-|------|------|
-| Python 3.12+ | 核心开发语言 |
-| feedparser | RSS/Atom 解析 |
-| httpx | 异步 HTTP 客户端 |
-| BeautifulSoup4 | HTML 正文提取 |
-| OpenAI SDK | DeepSeek API 调用（OpenAI 兼容接口） |
-| Pydantic | 数据模型与配置校验 |
-
----
-
-## 🚀 本地开发
+## 🚀 本地体验
 
 ```bash
-# 1. 安装前端依赖
+# 浏览知识库
 npm install
+npm run dev        # → http://localhost:5173/knowledge-base/
 
-# 2. 启动 VitePress 开发服务器
-npm run dev
-
-# 3. 构建生产版本
+# 构建生产版本
 npm run build
 ```
 
-### 运行 AI 流水线
-
-```bash
-cd news-bot
-
-# 安装 Python 依赖
-pip install -r requirements.txt
-
-# 设置 API Key（DeepSeek / OpenAI 兼容）
-export DEEPSEEK_API_KEY="sk-xxxx"
-
-# 预览模式（仅抓取 + 过滤 + 评分，不生成文件）
-python main.py --dry-run
-
-# 仅抓取 RSS
-python main.py --fetch-only
-
-# 完整流程
-python main.py
-```
-
-### 项目结构
-
-```
-knowledge-base/
-├── docs/                          # VitePress 站点目录
-│   ├── .vitepress/                # 主题、配置、样式
-│   ├── articles/                  # AI 自动生成的文章（按年/月分类）
-│   ├── java/                      # Java 体系笔记
-│   ├── ai-agent/                  # AI Agent 笔记
-│   ├── ml/                        # 机器学习笔记
-│   └── ...
-│
-├── news-bot/                      # AI 自动文章生成系统
-│   ├── main.py                    # 主编排器
-│   ├── rss_reader.py              # RSS 抓取
-│   ├── article_filter.py          # 关键词 + AI 评分过滤
-│   ├── llm_summary.py             # DeepSeek API 调用
-│   ├── markdown_writer.py         # Markdown 生成
-│   ├── article_index_updater.py   # 列表页自动更新
-│   ├── deduplicator.py            # 去重
-│   ├── git_commit.py              # Git 提交
-│   ├── config.py / config.yaml    # 全局配置
-│   ├── prompts/                   # LLM Prompt 模板
-│   └── models/                    # 数据模型
-│
-├── .github/workflows/
-│   ├── news.yml                   # 每日 09:00 自动执行
-│   └── deploy.yml                 # GitHub Pages 部署
-│
-└── README.md
-```
-
 ---
 
-## ⚙️ 配置说明
+## ⭐ Star
 
-所有配置集中在 `news-bot/config.yaml`：
-
-```yaml
-llm:
-  model: deepseek-chat              # 可选 gpt-4o / qwen-plus / claude
-  base_url: https://api.deepseek.com/v1
-
-rss_sources:                        # 新增源只需在这里添加
-  - name: 自定义源
-    url: https://example.com/feed
-    lang: zh
-
-keywords:
-  include: [Java, Spring, AI, ...]  # 关注关键词
-  exclude: [娱乐, 游戏, ...]        # 排除关键词
-
-output:
-  max_articles_per_day: 3           # 每天最多生成篇数
-```
-
----
-
-## 🤝 贡献
-
-- 📖 **内容建议**: 通过 [Issues](https://github.com/ZengChuanzc/knowledge-base/issues) 提交
-- 🔧 **技术改进**: Fork 并提交 PR
-- 📡 **RSS 源**: 在 `config.yaml` 中添加即可
-
----
-
-## 📄 许可
-
-本项目内容仅供学习参考，文章版权归原作者所有。
-
----
+如果对你有所帮助，欢迎 Star 支持，感谢！
 
 <p align="center">
-  🚀 <strong>学无止境 · 行以致远</strong>
+  <a href="https://github.com/ZengChuanzc/knowledge-base/stargazers">
+    <img src="https://img.shields.io/github/stars/ZengChuanzc/knowledge-base?style=for-the-badge&logo=github&color=gold" alt="Stars">
+  </a>
+  <a href="https://github.com/ZengChuanzc/knowledge-base/fork">
+    <img src="https://img.shields.io/github/forks/ZengChuanzc/knowledge-base?style=for-the-badge&logo=github&color=blue" alt="Forks">
+  </a>
+</p>
+
+📢 **正在关注**：AI Agent 工程化 · Spring AI 实践 · RAG 系统 · Java 虚拟线程
+
+---
+
+<br>
+
+<p align="center">
+  <strong>学无止境 · 行以致远</strong><br>
+  <sub>持续更新中</sub>
 </p>
