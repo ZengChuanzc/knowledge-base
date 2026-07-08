@@ -148,7 +148,7 @@ export default defineConfig({
     ],
 
     footer: {
-      message: '学无止境 · 行以致远',
+      message: '记录真实项目，沉淀工程实践。',
       copyright: 'Copyright © 2026 ZengChuan'
     },
 
