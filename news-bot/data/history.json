@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-07-08T13:00:10.188725",
+  "last_updated": "2026-07-09T05:01:06.216811",
   "articles": [
     {
       "url": "https://www.oschina.net/news/471482",
@@ -22,6 +22,27 @@
       "slug": "微服务自救指南-离群实例摘除-告别雪崩式故障",
       "file_path": "docs\\articles\\2019\\12\\2019-12-19-微服务自救指南-离群实例摘除-告别雪崩式故障.md",
       "generated_at": "2026-07-08T13:00:10.188715"
+    },
+    {
+      "url": "https://feeds.feedblitz.com/~/959091593/0/baeldung~Building-LLMasaJudge-Using-Recursive-Advisors-in-Spring-AI",
+      "title": "🔥 Spring AI 新玩法：用递归 Advisor 实现 LLM-as-a-Judge，打造你的 AI 响应质量门！",
+      "slug": "spring-ai-新玩法-用递归-advisor-实现-llm-as-a-judge-打造你的-ai-响应质量门",
+      "file_path": "docs/articles/2026/07/2026-07-04-spring-ai-新玩法-用递归-advisor-实现-llm-as-a-judge-打造你的-ai-响应质量门.md",
+      "generated_at": "2026-07-09T05:00:18.801595"
+    },
+    {
+      "url": "https://www.infoq.com/presentations/reliable-ai-platforms/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title": "🎯 构建高可靠AI平台：NVIDIA 的确定性工具与智能体发现之道",
+      "slug": "构建高可靠ai平台-nvidia-的确定性工具与智能体发现之道",
+      "file_path": "docs/articles/2026/07/2026-07-07-构建高可靠ai平台-nvidia-的确定性工具与智能体发现之道.md",
+      "generated_at": "2026-07-09T05:00:46.070459"
+    },
+    {
+      "url": "https://www.infoq.com/news/2026/07/mcp-ema-enterprise-auth/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title": "MCP 协议企业版：集中式身份认证，告别烦人的权限弹窗 🚀",
+      "slug": "mcp-协议企业版-集中式身份认证-告别烦人的权限弹窗",
+      "file_path": "docs/articles/2026/07/2026-07-06-mcp-协议企业版-集中式身份认证-告别烦人的权限弹窗.md",
+      "generated_at": "2026-07-09T05:01:06.216805"
     }
   ]
 }

@@ -13,12 +13,36 @@ outline: deep
 <!-- AUTO_GENERATED_ARTICLES_START -->
 
 <div class="article-list-auto">
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-07-构建高可靠ai平台-nvidia-的确定性工具与智能体发现之道.html'">
+  <span class="article-meta-date">7月7日</span>
+  <span class="article-source">InfoQ</span>
+  <h3><a href="/knowledge-base/articles/2026/07/2026-07-07-构建高可靠ai平台-nvidia-的确定性工具与智能体发现之道.html">🎯 构建高可靠AI平台：NVIDIA 的确定性工具与智能体发现之道</a></h3>
+  <p class="article-desc">NVIDIA 专家分享如何为生产级AI系统设计确定性工具与智能体探索的平衡架构，并引入 LLM-as-a-Judge 测试金字塔，为Java开发者提供构建可靠AI Agent体系的关键方法论。</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Spring Boot</span> <span class="article-tag">AI</span> <span class="article-tag">LLM</span></div>
+</div>
+
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-06-mcp-协议企业版-集中式身份认证-告别烦人的权限弹窗.html'">
+  <span class="article-meta-date">7月6日</span>
+  <span class="article-source">InfoQ</span>
+  <h3><a href="/knowledge-base/articles/2026/07/2026-07-06-mcp-协议企业版-集中式身份认证-告别烦人的权限弹窗.html">MCP 协议企业版：集中式身份认证，告别烦人的权限弹窗 🚀</a></h3>
+  <p class="article-desc">Model Context Protocol 团队推出企业级集中式身份认证扩展，允许组织通过身份提供商统一控制 MCP 服务器访问，实现零打扰的单点登录流程。</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">MCP</span> <span class="article-tag">Model Context Protocol</span> <span class="article-tag">身份认证</span></div>
+</div>
+
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-05-reactagent-实战指南-用-solon-ai-4-0-构建会思考-能行动的智能体.html'">
   <span class="article-meta-date">7月5日</span>
   <span class="article-source">开源中国</span>
   <h3><a href="/knowledge-base/articles/2026/07/2026-07-05-reactagent-实战指南-用-solon-ai-4-0-构建会思考-能行动的智能体.html">🤖 ReActAgent 实战指南：用 Solon AI 4.0 构建会思考、能行动的智能体</a></h3>
   <p class="article-desc">🤖 ReActAgent 实战指南：用 Solon AI 4.0 构建会思考、能行动的智能体</p>
   <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Solon AI</span> <span class="article-tag">ReActAgent</span> <span class="article-tag">AI Agent</span></div>
+</div>
+
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-04-spring-ai-新玩法-用递归-advisor-实现-llm-as-a-judge-打造你的-ai-响应质量门.html'">
+  <span class="article-meta-date">7月4日</span>
+  <span class="article-source">Baeldung</span>
+  <h3><a href="/knowledge-base/articles/2026/07/2026-07-04-spring-ai-新玩法-用递归-advisor-实现-llm-as-a-judge-打造你的-ai-响应质量门.html">🔥 Spring AI 新玩法：用递归 Advisor 实现 LLM-as-a-Judge，打造你的 AI 响应质量门！</a></h3>
+  <p class="article-desc">本文深入解析 Spring AI 中利用递归 Advisor 实现 LLM-as-a-Judge 模式，为 LLM 响应构建自动化质量门控，保障 AI 应用输出质量。</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Spring Boot</span> <span class="article-tag">Spring AI</span> <span class="article-tag">LLM</span></div>
 </div>
 
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2026/06/2026-06-29-spring-ai-动态工具发现-告别-token-浪费-智能调用新范式.html'">
