@@ -4,6 +4,11 @@ on:
   push:
     branches:
       - master
+  # 当 news.yml 完成文章生成后，自动触发部署
+  workflow_run:
+    workflows: ["🤖 热点技术文章自动生成"]
+    types:
+      - completed
 
 permissions:
   contents: read
