@@ -13,6 +13,22 @@ outline: deep
 <!-- AUTO_GENERATED_ARTICLES_START -->
 
 <div class="article-list-auto">
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-09-bun-从-zig-到-rust-的-11-天机械移植-ai-驱动的重大重构-性能与稳定性双丰收.html'">
+  <span class="article-meta-date">7月9日</span>
+  <span class="article-source">开源中国</span>
+  <h3><a href="/knowledge-base/articles/2026/07/2026-07-09-bun-从-zig-到-rust-的-11-天机械移植-ai-驱动的重大重构-性能与稳定性双丰收.html">Bun 从 Zig 到 Rust 的 11 天机械移植：AI 驱动的重大重构，性能与稳定性双丰收</a></h3>
+  <p class="article-desc">Bun 团队利用 AI 在 11 天内完成从 Zig 到 Rust 的机械式代码移植，实现 100% 测试通过率，显著提升稳定性和性能，为全栈工具链树立新标杆。</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Rust</span> <span class="article-tag">Zig</span> <span class="article-tag">Bun</span></div>
+</div>
+
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-08-工信部警告-ai编程工具claude-code存在安全后门-开发者需警惕数据泄露风险.html'">
+  <span class="article-meta-date">7月8日</span>
+  <span class="article-source">开源中国</span>
+  <h3><a href="/knowledge-base/articles/2026/07/2026-07-08-工信部警告-ai编程工具claude-code存在安全后门-开发者需警惕数据泄露风险.html">⚠️ 工信部警告：AI编程工具Claude Code存在安全后门，开发者需警惕数据泄露风险</a></h3>
+  <p class="article-desc">工信部NVDB监测发现Anthropic的AI编程工具Claude Code存在安全后门，其内置监控机制会未经用户同意向远程服务器回传敏感信息，危害严重。</p>
+  <div class="article-tags"><span class="article-tag">AI编程</span> <span class="article-tag">安全</span> <span class="article-tag">数据隐私</span> <span class="article-tag">Claude Code</span></div>
+</div>
+
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-07-构建高可靠ai平台-nvidia-的确定性工具与智能体发现之道.html'">
   <span class="article-meta-date">7月7日</span>
   <span class="article-source">InfoQ</span>
@@ -51,6 +67,14 @@ outline: deep
   <h3><a href="/knowledge-base/articles/2026/06/2026-06-29-spring-ai-动态工具发现-告别-token-浪费-智能调用新范式.html">🔍 Spring AI 动态工具发现：告别 Token 浪费，智能调用新范式</a></h3>
   <p class="article-desc">🔍 Spring AI 动态工具发现：告别 Token 浪费，智能调用新范式</p>
   <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Spring Boot</span> <span class="article-tag">Spring AI</span> <span class="article-tag">AI</span></div>
+</div>
+
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2024/04/2024-04-18-重磅-llama-3-开源发布-java-开发者如何拥抱-meta-最新-llm.html'">
+  <span class="article-meta-date">4月18日</span>
+  <span class="article-source">HuggingFace Blog</span>
+  <h3><a href="/knowledge-base/articles/2024/04/2024-04-18-重磅-llama-3-开源发布-java-开发者如何拥抱-meta-最新-llm.html">🤖 重磅！Llama 3 开源发布：Java 开发者如何拥抱 Meta 最新 LLM？</a></h3>
+  <p class="article-desc">Meta 发布 Llama 3 系列开源大模型，性能显著提升，本文从 Java 后端视角解析其技术亮点、部署策略与 Spring AI 集成潜力。</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Spring Boot</span> <span class="article-tag">LLM</span> <span class="article-tag">Llama 3</span></div>
 </div>
 
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2019/12/2019-12-19-微服务自救指南-离群实例摘除-告别雪崩式故障.html'">
