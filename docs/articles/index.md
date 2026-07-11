@@ -13,12 +13,28 @@ outline: deep
 <!-- AUTO_GENERATED_ARTICLES_START -->
 
 <div class="article-list-auto">
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-10-gpt-5-6-今日全量开放-ai-开发正在进入新阶段-与-claude-fable-5-glm-5-2-相比-它意味着什么.html'">
+  <span class="article-meta-date">7月10日</span>
+  <span class="article-source">开源中国</span>
+  <h3><a href="/knowledge-base/articles/2026/07/2026-07-10-gpt-5-6-今日全量开放-ai-开发正在进入新阶段-与-claude-fable-5-glm-5-2-相比-它意味着什么.html">GPT-5.6 今日全量开放，AI 开发正在进入新阶段，与 Claude Fable 5、GLM-5.2 相比，它意味着什么</a></h3>
+  <p class="article-desc">GPT-5.6 今日全量开放，AI 开发正在进入新阶段，与 Claude Fable 5、GLM-5.2 相比，它意味着什么</p>
+  <div class="article-tags"><span class="article-tag">技术热点</span></div>
+</div>
+
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-09-bun-从-zig-到-rust-的-11-天机械移植-ai-驱动的重大重构-性能与稳定性双丰收.html'">
   <span class="article-meta-date">7月9日</span>
   <span class="article-source">开源中国</span>
   <h3><a href="/knowledge-base/articles/2026/07/2026-07-09-bun-从-zig-到-rust-的-11-天机械移植-ai-驱动的重大重构-性能与稳定性双丰收.html">Bun 从 Zig 到 Rust 的 11 天机械移植：AI 驱动的重大重构，性能与稳定性双丰收</a></h3>
   <p class="article-desc">Bun 团队利用 AI 在 11 天内完成从 Zig 到 Rust 的机械式代码移植，实现 100% 测试通过率，显著提升稳定性和性能，为全栈工具链树立新标杆。</p>
   <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Rust</span> <span class="article-tag">Zig</span> <span class="article-tag">Bun</span></div>
+</div>
+
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-09-claude-code-最强平替-github-copilot-cli-上手指南-cc-深度用户.html'">
+  <span class="article-meta-date">7月9日</span>
+  <span class="article-source">开源中国</span>
+  <h3><a href="/knowledge-base/articles/2026/07/2026-07-09-claude-code-最强平替-github-copilot-cli-上手指南-cc-深度用户.html">Claude Code 最强平替 —— GitHub Copilot CLI 上手指南，CC 深度用户</a></h3>
+  <p class="article-desc">Claude Code 最强平替 —— GitHub Copilot CLI 上手指南，CC 深度用户</p>
+  <div class="article-tags"><span class="article-tag">技术热点</span></div>
 </div>
 
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-08-工信部警告-ai编程工具claude-code存在安全后门-开发者需警惕数据泄露风险.html'">
@@ -67,6 +83,14 @@ outline: deep
   <h3><a href="/knowledge-base/articles/2026/06/2026-06-29-spring-ai-动态工具发现-告别-token-浪费-智能调用新范式.html">🔍 Spring AI 动态工具发现：告别 Token 浪费，智能调用新范式</a></h3>
   <p class="article-desc">🔍 Spring AI 动态工具发现：告别 Token 浪费，智能调用新范式</p>
   <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Spring Boot</span> <span class="article-tag">Spring AI</span> <span class="article-tag">AI</span></div>
+</div>
+
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2025/01/2025-01-13-ai-agents-时代已至-java-后端开发者如何应对.html'">
+  <span class="article-meta-date">1月13日</span>
+  <span class="article-source">HuggingFace Blog</span>
+  <h3><a href="/knowledge-base/articles/2025/01/2025-01-13-ai-agents-时代已至-java-后端开发者如何应对.html">🤖 AI Agents 时代已至：Java 后端开发者如何应对？</a></h3>
+  <p class="article-desc">HuggingFace 最新文章指出 AI Agents 已从概念走向落地，Java 后端开发者需关注其架构设计、与 Spring AI 的集成、以及如何结合 RAG 提升智能应用的生产力。</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Spring Boot</span> <span class="article-tag">AI Agents</span> <span class="article-tag">LLM</span></div>
 </div>
 
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2024/04/2024-04-18-重磅-llama-3-开源发布-java-开发者如何拥抱-meta-最新-llm.html'">
