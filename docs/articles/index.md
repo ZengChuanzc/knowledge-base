@@ -13,12 +13,28 @@ outline: deep
 <!-- AUTO_GENERATED_ARTICLES_START -->
 
 <div class="article-list-auto">
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-10-ai-驱动的生产系统迁移-datadog-如何用-claude-cursor-实现测试驱动迁移.html'">
+  <span class="article-meta-date">7月10日</span>
+  <span class="article-source">InfoQ</span>
+  <h3><a href="/knowledge-base/articles/2026/07/2026-07-10-ai-驱动的生产系统迁移-datadog-如何用-claude-cursor-实现测试驱动迁移.html">🔬 AI 驱动的生产系统迁移：Datadog 如何用 Claude + Cursor 实现测试驱动迁移？</a></h3>
+  <p class="article-desc">Datadog 工程师分享如何利用 AI 编码助手（Claude + Cursor）以测试驱动的方式，安全高效地完成关键生产系统存储后端的迁移与性能优化，并总结实战经验与教训。</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">AI</span> <span class="article-tag">系统迁移</span> <span class="article-tag">测试驱动开发</span></div>
+</div>
+
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-10-gpt-5-6-今日全量开放-ai-开发正在进入新阶段-与-claude-fable-5-glm-5-2-相比-它意味着什么.html'">
   <span class="article-meta-date">7月10日</span>
   <span class="article-source">开源中国</span>
   <h3><a href="/knowledge-base/articles/2026/07/2026-07-10-gpt-5-6-今日全量开放-ai-开发正在进入新阶段-与-claude-fable-5-glm-5-2-相比-它意味着什么.html">GPT-5.6 今日全量开放，AI 开发正在进入新阶段，与 Claude Fable 5、GLM-5.2 相比，它意味着什么</a></h3>
   <p class="article-desc">GPT-5.6 今日全量开放，AI 开发正在进入新阶段，与 Claude Fable 5、GLM-5.2 相比，它意味着什么</p>
   <div class="article-tags"><span class="article-tag">技术热点</span></div>
+</div>
+
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-10-slack-引入-ai-agent-驱动的端到端测试-告别脆弱-ui-自动化-拥抱意图驱动测试.html'">
+  <span class="article-meta-date">7月10日</span>
+  <span class="article-source">InfoQ</span>
+  <h3><a href="/knowledge-base/articles/2026/07/2026-07-10-slack-引入-ai-agent-驱动的端到端测试-告别脆弱-ui-自动化-拥抱意图驱动测试.html">Slack 引入 AI Agent 驱动的端到端测试：告别脆弱 UI 自动化，拥抱意图驱动测试 🚀</a></h3>
+  <p class="article-desc">Slack 工程团队提出 AI Agent 驱动的端到端测试方法，利用意图而非固定脚本执行工作流，动态适应 UI 变化，旨在解决分布式系统中的脆弱测试问题。</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Spring Boot</span> <span class="article-tag">AI Agent</span> <span class="article-tag">E2E测试</span></div>
 </div>
 
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-09-bun-从-zig-到-rust-的-11-天机械移植-ai-驱动的重大重构-性能与稳定性双丰收.html'">
@@ -83,6 +99,14 @@ outline: deep
   <h3><a href="/knowledge-base/articles/2026/06/2026-06-29-spring-ai-动态工具发现-告别-token-浪费-智能调用新范式.html">🔍 Spring AI 动态工具发现：告别 Token 浪费，智能调用新范式</a></h3>
   <p class="article-desc">🔍 Spring AI 动态工具发现：告别 Token 浪费，智能调用新范式</p>
   <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Spring Boot</span> <span class="article-tag">Spring AI</span> <span class="article-tag">AI</span></div>
+</div>
+
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/06/2026-06-27-spring-6-2-新特性-bean-bootstrap-background-实现后台初始化-降低启动延迟.html'">
+  <span class="article-meta-date">6月27日</span>
+  <span class="article-source">Baeldung</span>
+  <h3><a href="/knowledge-base/articles/2026/06/2026-06-27-spring-6-2-新特性-bean-bootstrap-background-实现后台初始化-降低启动延迟.html">Spring 6.2 新特性：@Bean(bootstrap = BACKGROUND) 实现后台初始化，降低启动延迟 🚀</a></h3>
+  <p class="article-desc">Spring 6.2 引入 @Bean(bootstrap = BACKGROUND) 注解，允许 Bean 在后台线程中异步初始化，显著降低应用启动延迟，同时保持依赖安全与生命周期一致性。</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Spring</span> <span class="article-tag">Spring Boot</span> <span class="article-tag">启动优化</span></div>
 </div>
 
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2025/01/2025-01-13-ai-agents-时代已至-java-后端开发者如何应对.html'">

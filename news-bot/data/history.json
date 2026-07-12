@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-07-11T04:19:48.740612",
+  "last_updated": "2026-07-12T04:30:58.324831",
   "articles": [
     {
       "url": "https://www.oschina.net/news/471482",
@@ -85,6 +85,27 @@
       "slug": "claude-code-最强平替-github-copilot-cli-上手指南-cc-深度用户",
       "file_path": "docs/articles/2026/07/2026-07-09-claude-code-最强平替-github-copilot-cli-上手指南-cc-深度用户.md",
       "generated_at": "2026-07-11T04:19:48.740605"
+    },
+    {
+      "url": "https://www.infoq.com/news/2026/07/datadog-ai-production-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title": "🔬 AI 驱动的生产系统迁移：Datadog 如何用 Claude + Cursor 实现测试驱动迁移？",
+      "slug": "ai-驱动的生产系统迁移-datadog-如何用-claude-cursor-实现测试驱动迁移",
+      "file_path": "docs/articles/2026/07/2026-07-10-ai-驱动的生产系统迁移-datadog-如何用-claude-cursor-实现测试驱动迁移.md",
+      "generated_at": "2026-07-12T04:30:26.831699"
+    },
+    {
+      "url": "https://feeds.feedblitz.com/~/958532825/0/baeldung~Bean-Background-Initialization-in-Spring-Framework",
+      "title": "Spring 6.2 新特性：@Bean(bootstrap = BACKGROUND) 实现后台初始化，降低启动延迟 🚀",
+      "slug": "spring-6-2-新特性-bean-bootstrap-background-实现后台初始化-降低启动延迟",
+      "file_path": "docs/articles/2026/06/2026-06-27-spring-6-2-新特性-bean-bootstrap-background-实现后台初始化-降低启动延迟.md",
+      "generated_at": "2026-07-12T04:30:43.361791"
+    },
+    {
+      "url": "https://www.infoq.com/news/2026/07/slack-agentic-e2e-testing-ui/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title": "Slack 引入 AI Agent 驱动的端到端测试：告别脆弱 UI 自动化，拥抱意图驱动测试 🚀",
+      "slug": "slack-引入-ai-agent-驱动的端到端测试-告别脆弱-ui-自动化-拥抱意图驱动测试",
+      "file_path": "docs/articles/2026/07/2026-07-10-slack-引入-ai-agent-驱动的端到端测试-告别脆弱-ui-自动化-拥抱意图驱动测试.md",
+      "generated_at": "2026-07-12T04:30:58.324825"
     }
   ]
 }
