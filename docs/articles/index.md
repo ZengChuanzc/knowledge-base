@@ -53,6 +53,14 @@ outline: deep
   <div class="article-tags"><span class="article-tag">技术热点</span></div>
 </div>
 
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-09-netty-4-2-16-final-发布-修复高危漏洞-java-网络编程的-心脏-再升级.html'">
+  <span class="article-meta-date">7月9日</span>
+  <span class="article-source">开源中国</span>
+  <h3><a href="/knowledge-base/articles/2026/07/2026-07-09-netty-4-2-16-final-发布-修复高危漏洞-java-网络编程的-心脏-再升级.html">Netty 4.2.16.Final 发布：修复高危漏洞，Java 网络编程的“心脏”再升级 🚀</a></h3>
+  <p class="article-desc">Netty 4.2.16.Final 发布，重点修复了 STOMP 协议内存耗尽和 HTTP 协议 zip bomb 两个高危安全漏洞，建议所有使用 Netty 的 Java 项目立即升级。</p>
+  <div class="article-tags"><span class="article-tag">Netty</span> <span class="article-tag">Java</span> <span class="article-tag">网络编程</span> <span class="article-tag">安全漏洞</span></div>
+</div>
+
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-08-工信部警告-ai编程工具claude-code存在安全后门-开发者需警惕数据泄露风险.html'">
   <span class="article-meta-date">7月8日</span>
   <span class="article-source">开源中国</span>
@@ -85,6 +93,14 @@ outline: deep
   <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Solon AI</span> <span class="article-tag">ReActAgent</span> <span class="article-tag">AI Agent</span></div>
 </div>
 
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-04-spring-ai-实战-用-recursive-advisors-实现-llm-as-a-judge-质量门禁.html'">
+  <span class="article-meta-date">7月4日</span>
+  <span class="article-source">Baeldung</span>
+  <h3><a href="/knowledge-base/articles/2026/07/2026-07-04-spring-ai-实战-用-recursive-advisors-实现-llm-as-a-judge-质量门禁.html">🔥 Spring AI 实战：用 Recursive Advisors 实现 LLM-as-a-Judge 质量门禁</a></h3>
+  <p class="article-desc">本文深入解析 Spring AI 中 Recursive Advisors 实现 LLM-as-a-Judge 模式，为 LLM 响应构建质量门禁，提升 AI 应用可靠性。</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Spring Boot</span> <span class="article-tag">Spring AI</span> <span class="article-tag">LLM</span></div>
+</div>
+
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-04-spring-ai-新玩法-用递归-advisor-实现-llm-as-a-judge-打造你的-ai-响应质量门.html'">
   <span class="article-meta-date">7月4日</span>
   <span class="article-source">Baeldung</span>
@@ -107,6 +123,14 @@ outline: deep
   <h3><a href="/knowledge-base/articles/2026/06/2026-06-27-spring-6-2-新特性-bean-bootstrap-background-实现后台初始化-降低启动延迟.html">Spring 6.2 新特性：@Bean(bootstrap = BACKGROUND) 实现后台初始化，降低启动延迟 🚀</a></h3>
   <p class="article-desc">Spring 6.2 引入 @Bean(bootstrap = BACKGROUND) 注解，允许 Bean 在后台线程中异步初始化，显著降低应用启动延迟，同时保持依赖安全与生命周期一致性。</p>
   <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Spring</span> <span class="article-tag">Spring Boot</span> <span class="article-tag">启动优化</span></div>
+</div>
+
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2025/05/2025-05-23-70行python代码构建mcp驱动的ai-agent-java开发者如何借鉴.html'">
+  <span class="article-meta-date">5月23日</span>
+  <span class="article-source">HuggingFace Blog</span>
+  <h3><a href="/knowledge-base/articles/2025/05/2025-05-23-70行python代码构建mcp驱动的ai-agent-java开发者如何借鉴.html">🔥 70行Python代码构建MCP驱动的AI Agent：Java开发者如何借鉴？</a></h3>
+  <p class="article-desc">本文通过一个70行Python代码的MCP驱动AI Agent示例，展示了如何利用Model Context Protocol构建轻量级AI助手，并探讨了Java生态（特别是Spring AI）如何借鉴这一模式实现类似能力。</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">AI Agent</span> <span class="article-tag">MCP</span> <span class="article-tag">Spring AI</span></div>
 </div>
 
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2025/01/2025-01-13-ai-agents-时代已至-java-后端开发者如何应对.html'">

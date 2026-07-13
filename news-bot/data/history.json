@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-07-12T04:30:58.324831",
+  "last_updated": "2026-07-13T04:37:03.223243",
   "articles": [
     {
       "url": "https://www.oschina.net/news/471482",
@@ -106,6 +106,27 @@
       "slug": "slack-引入-ai-agent-驱动的端到端测试-告别脆弱-ui-自动化-拥抱意图驱动测试",
       "file_path": "docs/articles/2026/07/2026-07-10-slack-引入-ai-agent-驱动的端到端测试-告别脆弱-ui-自动化-拥抱意图驱动测试.md",
       "generated_at": "2026-07-12T04:30:58.324825"
+    },
+    {
+      "url": "https://feeds.feedblitz.com/~/959091593/0/baeldung",
+      "title": "🔥 Spring AI 实战：用 Recursive Advisors 实现 LLM-as-a-Judge 质量门禁",
+      "slug": "spring-ai-实战-用-recursive-advisors-实现-llm-as-a-judge-质量门禁",
+      "file_path": "docs/articles/2026/07/2026-07-04-spring-ai-实战-用-recursive-advisors-实现-llm-as-a-judge-质量门禁.md",
+      "generated_at": "2026-07-13T04:36:12.551732"
+    },
+    {
+      "url": "https://www.oschina.net/news/471606/netty-4-2-16-released",
+      "title": "Netty 4.2.16.Final 发布：修复高危漏洞，Java 网络编程的“心脏”再升级 🚀",
+      "slug": "netty-4-2-16-final-发布-修复高危漏洞-java-网络编程的-心脏-再升级",
+      "file_path": "docs/articles/2026/07/2026-07-09-netty-4-2-16-final-发布-修复高危漏洞-java-网络编程的-心脏-再升级.md",
+      "generated_at": "2026-07-13T04:36:35.924685"
+    },
+    {
+      "url": "https://huggingface.co/blog/python-tiny-agents",
+      "title": "🔥 70行Python代码构建MCP驱动的AI Agent：Java开发者如何借鉴？",
+      "slug": "70行python代码构建mcp驱动的ai-agent-java开发者如何借鉴",
+      "file_path": "docs/articles/2025/05/2025-05-23-70行python代码构建mcp驱动的ai-agent-java开发者如何借鉴.md",
+      "generated_at": "2026-07-13T04:37:03.223237"
     }
   ]
 }
