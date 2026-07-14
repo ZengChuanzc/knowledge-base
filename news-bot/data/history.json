@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-07-13T04:37:03.223243",
+  "last_updated": "2026-07-14T04:10:26.184718",
   "articles": [
     {
       "url": "https://www.oschina.net/news/471482",
@@ -127,6 +127,27 @@
       "slug": "70行python代码构建mcp驱动的ai-agent-java开发者如何借鉴",
       "file_path": "docs/articles/2025/05/2025-05-23-70行python代码构建mcp驱动的ai-agent-java开发者如何借鉴.md",
       "generated_at": "2026-07-13T04:37:03.223237"
+    },
+    {
+      "url": "https://www.infoq.com/news/2026/07/doordash-ai-ask-assistant/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title": "How DoorDash Built an AI Shopping Assistant That Doesn’t Rely on the LLM Alone",
+      "slug": "how-doordash-built-an-ai-shopping-assistant-that-doesn-t-rely-on-the-llm-alone",
+      "file_path": "docs/articles/2026/07/2026-07-13-how-doordash-built-an-ai-shopping-assistant-that-doesn-t-rely-on-the-llm-alone.md",
+      "generated_at": "2026-07-14T04:09:46.511141"
+    },
+    {
+      "url": "https://feeds.feedblitz.com/~/958677014/0/baeldung",
+      "title": "🔧 Spring AI 动态工具发现：告别多余 Token，智能调用无需硬编码",
+      "slug": "spring-ai-动态工具发现-告别多余-token-智能调用无需硬编码",
+      "file_path": "docs/articles/2026/06/2026-06-29-spring-ai-动态工具发现-告别多余-token-智能调用无需硬编码.md",
+      "generated_at": "2026-07-14T04:10:03.298546"
+    },
+    {
+      "url": "https://huggingface.co/blog/open-source-llms-as-agents",
+      "title": "🔥 开源 LLM 化身 LangChain Agent：Java 开发者如何玩转智能代理？",
+      "slug": "开源-llm-化身-langchain-agent-java-开发者如何玩转智能代理",
+      "file_path": "docs/articles/2024/01/2024-01-24-开源-llm-化身-langchain-agent-java-开发者如何玩转智能代理.md",
+      "generated_at": "2026-07-14T04:10:26.184711"
     }
   ]
 }

@@ -13,6 +13,14 @@ outline: deep
 <!-- AUTO_GENERATED_ARTICLES_START -->
 
 <div class="article-list-auto">
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-13-how-doordash-built-an-ai-shopping-assistant-that-doesn-t-rely-on-the-llm-alone.html'">
+  <span class="article-meta-date">7月13日</span>
+  <span class="article-source">InfoQ</span>
+  <h3><a href="/knowledge-base/articles/2026/07/2026-07-13-how-doordash-built-an-ai-shopping-assistant-that-doesn-t-rely-on-the-llm-alone.html">How DoorDash Built an AI Shopping Assistant That Doesn’t Rely on the LLM Alone</a></h3>
+  <p class="article-desc">How DoorDash Built an AI Shopping Assistant That Doesn’t Rely on the LLM Alone</p>
+  <div class="article-tags"><span class="article-tag">技术热点</span></div>
+</div>
+
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-10-ai-驱动的生产系统迁移-datadog-如何用-claude-cursor-实现测试驱动迁移.html'">
   <span class="article-meta-date">7月10日</span>
   <span class="article-source">InfoQ</span>
@@ -117,6 +125,14 @@ outline: deep
   <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Spring Boot</span> <span class="article-tag">Spring AI</span> <span class="article-tag">AI</span></div>
 </div>
 
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/06/2026-06-29-spring-ai-动态工具发现-告别多余-token-智能调用无需硬编码.html'">
+  <span class="article-meta-date">6月29日</span>
+  <span class="article-source">Baeldung</span>
+  <h3><a href="/knowledge-base/articles/2026/06/2026-06-29-spring-ai-动态工具发现-告别多余-token-智能调用无需硬编码.html">🔧 Spring AI 动态工具发现：告别多余 Token，智能调用无需硬编码</a></h3>
+  <p class="article-desc">Spring AI 新推出的 Tool Search Tool 让 AI 应用能动态发现并调用可用工具，减少不必要的 Token 消耗，提升智能交互效率。</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Spring AI</span> <span class="article-tag">AI</span> <span class="article-tag">Tool Discovery</span></div>
+</div>
+
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2026/06/2026-06-27-spring-6-2-新特性-bean-bootstrap-background-实现后台初始化-降低启动延迟.html'">
   <span class="article-meta-date">6月27日</span>
   <span class="article-source">Baeldung</span>
@@ -147,6 +163,14 @@ outline: deep
   <h3><a href="/knowledge-base/articles/2024/04/2024-04-18-重磅-llama-3-开源发布-java-开发者如何拥抱-meta-最新-llm.html">🤖 重磅！Llama 3 开源发布：Java 开发者如何拥抱 Meta 最新 LLM？</a></h3>
   <p class="article-desc">Meta 发布 Llama 3 系列开源大模型，性能显著提升，本文从 Java 后端视角解析其技术亮点、部署策略与 Spring AI 集成潜力。</p>
   <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Spring Boot</span> <span class="article-tag">LLM</span> <span class="article-tag">Llama 3</span></div>
+</div>
+
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2024/01/2024-01-24-开源-llm-化身-langchain-agent-java-开发者如何玩转智能代理.html'">
+  <span class="article-meta-date">1月24日</span>
+  <span class="article-source">HuggingFace Blog</span>
+  <h3><a href="/knowledge-base/articles/2024/01/2024-01-24-开源-llm-化身-langchain-agent-java-开发者如何玩转智能代理.html">🔥 开源 LLM 化身 LangChain Agent：Java 开发者如何玩转智能代理？</a></h3>
+  <p class="article-desc">本文深入解析如何利用开源大模型（如 Llama、Mistral）作为 LangChain Agent 的核心推理引擎，并从 Java 后端视角探讨其技术实现、应用场景及与 Spring AI、RAG 的集成潜力。</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Spring Boot</span> <span class="article-tag">LangChain</span> <span class="article-tag">LLM</span></div>
 </div>
 
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2019/12/2019-12-19-微服务自救指南-离群实例摘除-告别雪崩式故障.html'">
