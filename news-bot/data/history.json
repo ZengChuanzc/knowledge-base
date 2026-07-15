@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-07-14T04:10:26.184718",
+  "last_updated": "2026-07-15T04:12:13.700356",
   "articles": [
     {
       "url": "https://www.oschina.net/news/471482",
@@ -148,6 +148,27 @@
       "slug": "开源-llm-化身-langchain-agent-java-开发者如何玩转智能代理",
       "file_path": "docs/articles/2024/01/2024-01-24-开源-llm-化身-langchain-agent-java-开发者如何玩转智能代理.md",
       "generated_at": "2026-07-14T04:10:26.184711"
+    },
+    {
+      "url": "https://www.infoq.com/news/2026/07/agentic-resource-discovery-spec/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title": "Google and Industry Partners Announce Agentic Resource Discovery Specification for AI Agents",
+      "slug": "google-and-industry-partners-announce-agentic-resource-discovery-specification-f",
+      "file_path": "docs/articles/2026/07/2026-07-14-google-and-industry-partners-announce-agentic-resource-discovery-specification-f.md",
+      "generated_at": "2026-07-15T04:11:29.958152"
+    },
+    {
+      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "title": "ScarfBench 横空出世：Java 企业级框架迁移的 AI Agent 性能评测新标杆 🚀",
+      "slug": "scarfbench-横空出世-java-企业级框架迁移的-ai-agent-性能评测新标杆",
+      "file_path": "docs/articles/2026/06/2026-06-30-scarfbench-横空出世-java-企业级框架迁移的-ai-agent-性能评测新标杆.md",
+      "generated_at": "2026-07-15T04:11:53.861660"
+    },
+    {
+      "url": "https://huggingface.co/blog/deepseekv4",
+      "title": "DeepSeek-V4 震撼发布：百万 Token 上下文，Agent 终于能真正用起来了！🔥",
+      "slug": "deepseek-v4-震撼发布-百万-token-上下文-agent-终于能真正用起来了",
+      "file_path": "docs/articles/2026/04/2026-04-24-deepseek-v4-震撼发布-百万-token-上下文-agent-终于能真正用起来了.md",
+      "generated_at": "2026-07-15T04:12:13.700350"
     }
   ]
 }

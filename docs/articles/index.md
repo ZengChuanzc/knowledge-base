@@ -13,6 +13,14 @@ outline: deep
 <!-- AUTO_GENERATED_ARTICLES_START -->
 
 <div class="article-list-auto">
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-14-google-and-industry-partners-announce-agentic-resource-discovery-specification-f.html'">
+  <span class="article-meta-date">7月14日</span>
+  <span class="article-source">InfoQ</span>
+  <h3><a href="/knowledge-base/articles/2026/07/2026-07-14-google-and-industry-partners-announce-agentic-resource-discovery-specification-f.html">Google and Industry Partners Announce Agentic Resource Discovery Specification for AI Agents</a></h3>
+  <p class="article-desc">Google and Industry Partners Announce Agentic Resource Discovery Specification for AI Agents</p>
+  <div class="article-tags"><span class="article-tag">技术热点</span></div>
+</div>
+
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-13-how-doordash-built-an-ai-shopping-assistant-that-doesn-t-rely-on-the-llm-alone.html'">
   <span class="article-meta-date">7月13日</span>
   <span class="article-source">InfoQ</span>
@@ -117,6 +125,14 @@ outline: deep
   <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Spring Boot</span> <span class="article-tag">Spring AI</span> <span class="article-tag">LLM</span></div>
 </div>
 
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/06/2026-06-30-scarfbench-横空出世-java-企业级框架迁移的-ai-agent-性能评测新标杆.html'">
+  <span class="article-meta-date">6月30日</span>
+  <span class="article-source">HuggingFace Blog</span>
+  <h3><a href="/knowledge-base/articles/2026/06/2026-06-30-scarfbench-横空出世-java-企业级框架迁移的-ai-agent-性能评测新标杆.html">ScarfBench 横空出世：Java 企业级框架迁移的 AI Agent 性能评测新标杆 🚀</a></h3>
+  <p class="article-desc">ScarfBench 是一个专门用于评估 AI Agent 在 Java 企业级框架（如 Spring Boot/Cloud）迁移任务中性能的基准测试集，为 Java 开发者提供了衡量 LLM 代码生成与重构能力的新标准。</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Spring Boot</span> <span class="article-tag">Spring Cloud</span> <span class="article-tag">AI Agent</span></div>
+</div>
+
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2026/06/2026-06-29-spring-ai-动态工具发现-告别-token-浪费-智能调用新范式.html'">
   <span class="article-meta-date">6月29日</span>
   <span class="article-source">Baeldung</span>
@@ -139,6 +155,14 @@ outline: deep
   <h3><a href="/knowledge-base/articles/2026/06/2026-06-27-spring-6-2-新特性-bean-bootstrap-background-实现后台初始化-降低启动延迟.html">Spring 6.2 新特性：@Bean(bootstrap = BACKGROUND) 实现后台初始化，降低启动延迟 🚀</a></h3>
   <p class="article-desc">Spring 6.2 引入 @Bean(bootstrap = BACKGROUND) 注解，允许 Bean 在后台线程中异步初始化，显著降低应用启动延迟，同时保持依赖安全与生命周期一致性。</p>
   <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Spring</span> <span class="article-tag">Spring Boot</span> <span class="article-tag">启动优化</span></div>
+</div>
+
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/04/2026-04-24-deepseek-v4-震撼发布-百万-token-上下文-agent-终于能真正用起来了.html'">
+  <span class="article-meta-date">4月24日</span>
+  <span class="article-source">HuggingFace Blog</span>
+  <h3><a href="/knowledge-base/articles/2026/04/2026-04-24-deepseek-v4-震撼发布-百万-token-上下文-agent-终于能真正用起来了.html">DeepSeek-V4 震撼发布：百万 Token 上下文，Agent 终于能真正用起来了！🔥</a></h3>
+  <p class="article-desc">DeepSeek-V4 实现了真正可用的百万级 Token 上下文窗口，让 AI Agent 在长文档分析、代码库理解等场景中不再受限于短上下文，为 Java 后端集成大规模 AI 能力打开了新大门。</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Spring Boot</span> <span class="article-tag">DeepSeek</span> <span class="article-tag">LLM</span></div>
 </div>
 
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2025/05/2025-05-23-70行python代码构建mcp驱动的ai-agent-java开发者如何借鉴.html'">
