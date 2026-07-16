@@ -13,12 +13,36 @@ outline: deep
 <!-- AUTO_GENERATED_ARTICLES_START -->
 
 <div class="article-list-auto">
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-16-openai-gpt-5-6-三舰齐发-java-开发者如何用-spring-ai-接入多智能体协作.html'">
+  <span class="article-meta-date">7月16日</span>
+  <span class="article-source">开源中国</span>
+  <h3><a href="/knowledge-base/articles/2026/07/2026-07-16-openai-gpt-5-6-三舰齐发-java-开发者如何用-spring-ai-接入多智能体协作.html">🔥 OpenAI GPT-5.6 三舰齐发：Java 开发者如何用 Spring AI 接入多智能体协作？</a></h3>
+  <p class="article-desc">OpenAI 发布 GPT-5.6 系列三款模型（Sol、Terra、Luna），首次实现分层定价与多智能体协作，Java 后端可通过 Spring AI 快速集成，并结合 RAG 架构落地生产级 AI 应用。</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Spring Boot</span> <span class="article-tag">Spring AI</span> <span class="article-tag">OpenAI</span></div>
+</div>
+
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-15-小蚂蚁云-xiaomayi-elevue-v1-3-0-发布-spring-boot-3-vue-3-单体架构的敏捷新选择.html'">
+  <span class="article-meta-date">7月15日</span>
+  <span class="article-source">开源中国</span>
+  <h3><a href="/knowledge-base/articles/2026/07/2026-07-15-小蚂蚁云-xiaomayi-elevue-v1-3-0-发布-spring-boot-3-vue-3-单体架构的敏捷新选择.html">🚀 小蚂蚁云 XiaoMaYi-EleVue v1.3.0 发布：Spring Boot 3 + Vue 3 单体架构的敏捷新选择</a></h3>
+  <p class="article-desc">小蚂蚁云 XiaoMaYi-EleVue 基于 Spring Boot 3、Spring Security、Mybatis-Plus、Vue 3、TypeScript、Vite 和 Element Plus 等主流技术栈，推出 v1.3.0 版本，重点优化云存储类库并修复用户反馈的 BUG，为单体前后端分离后台管理系统提供敏捷开发新范式。</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Spring Boot 3</span> <span class="article-tag">Spring Security</span> <span class="article-tag">Mybatis-Plus</span></div>
+</div>
+
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-14-google-and-industry-partners-announce-agentic-resource-discovery-specification-f.html'">
   <span class="article-meta-date">7月14日</span>
   <span class="article-source">InfoQ</span>
   <h3><a href="/knowledge-base/articles/2026/07/2026-07-14-google-and-industry-partners-announce-agentic-resource-discovery-specification-f.html">Google and Industry Partners Announce Agentic Resource Discovery Specification for AI Agents</a></h3>
   <p class="article-desc">Google and Industry Partners Announce Agentic Resource Discovery Specification for AI Agents</p>
   <div class="article-tags"><span class="article-tag">技术热点</span></div>
+</div>
+
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-13-guns-8-4-0-重磅发布-企业版全面开源-spring-boot-3-vue-3-再进化.html'">
+  <span class="article-meta-date">7月13日</span>
+  <span class="article-source">开源中国</span>
+  <h3><a href="/knowledge-base/articles/2026/07/2026-07-13-guns-8-4-0-重磅发布-企业版全面开源-spring-boot-3-vue-3-再进化.html">🎉 Guns 8.4.0 重磅发布：企业版全面开源，Spring Boot 3 + Vue 3 再进化！</a></h3>
+  <p class="article-desc">Guns 框架 8.4.0 版本正式发布，企业版能力全面开源，带来架构重构与更多现代化特性，为 Java 开发者提供更强大的快速开发平台。</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Spring Boot</span> <span class="article-tag">Vue 3</span> <span class="article-tag">JDK 17</span></div>
 </div>
 
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-13-how-doordash-built-an-ai-shopping-assistant-that-doesn-t-rely-on-the-llm-alone.html'">

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-07-15T04:12:13.700356",
+  "last_updated": "2026-07-16T04:14:56.067676",
   "articles": [
     {
       "url": "https://www.oschina.net/news/471482",
@@ -169,6 +169,27 @@
       "slug": "deepseek-v4-震撼发布-百万-token-上下文-agent-终于能真正用起来了",
       "file_path": "docs/articles/2026/04/2026-04-24-deepseek-v4-震撼发布-百万-token-上下文-agent-终于能真正用起来了.md",
       "generated_at": "2026-07-15T04:12:13.700350"
+    },
+    {
+      "url": "https://www.oschina.net/news/471664",
+      "title": "🎉 Guns 8.4.0 重磅发布：企业版全面开源，Spring Boot 3 + Vue 3 再进化！",
+      "slug": "guns-8-4-0-重磅发布-企业版全面开源-spring-boot-3-vue-3-再进化",
+      "file_path": "docs/articles/2026/07/2026-07-13-guns-8-4-0-重磅发布-企业版全面开源-spring-boot-3-vue-3-再进化.md",
+      "generated_at": "2026-07-16T04:14:19.247379"
+    },
+    {
+      "url": "https://www.oschina.net/news/471754/gpt-5-6",
+      "title": "🔥 OpenAI GPT-5.6 三舰齐发：Java 开发者如何用 Spring AI 接入多智能体协作？",
+      "slug": "openai-gpt-5-6-三舰齐发-java-开发者如何用-spring-ai-接入多智能体协作",
+      "file_path": "docs/articles/2026/07/2026-07-16-openai-gpt-5-6-三舰齐发-java-开发者如何用-spring-ai-接入多智能体协作.md",
+      "generated_at": "2026-07-16T04:14:38.517902"
+    },
+    {
+      "url": "https://www.oschina.net/news/471711",
+      "title": "🚀 小蚂蚁云 XiaoMaYi-EleVue v1.3.0 发布：Spring Boot 3 + Vue 3 单体架构的敏捷新选择",
+      "slug": "小蚂蚁云-xiaomayi-elevue-v1-3-0-发布-spring-boot-3-vue-3-单体架构的敏捷新选择",
+      "file_path": "docs/articles/2026/07/2026-07-15-小蚂蚁云-xiaomayi-elevue-v1-3-0-发布-spring-boot-3-vue-3-单体架构的敏捷新选择.md",
+      "generated_at": "2026-07-16T04:14:56.067669"
     }
   ]
 }
