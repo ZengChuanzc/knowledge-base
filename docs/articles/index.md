@@ -53,6 +53,14 @@ outline: deep
   <div class="article-tags"><span class="article-tag">技术热点</span></div>
 </div>
 
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-12-揭开ai-agent工具调用推理的面纱-基于embabel-agentic-ai框架的java实现.html'">
+  <span class="article-meta-date">7月12日</span>
+  <span class="article-source">Baeldung</span>
+  <h3><a href="/knowledge-base/articles/2026/07/2026-07-12-揭开ai-agent工具调用推理的面纱-基于embabel-agentic-ai框架的java实现.html">🔍 揭开AI Agent工具调用推理的面纱：基于Embabel Agentic AI框架的Java实现</a></h3>
+  <p class="article-desc">本文介绍如何使用Embabel Agentic AI框架在Java中实现对LLM Agent工具调用选择推理过程的可观测性，帮助开发者理解Agent决策逻辑，提升调试与优化效率。</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Embabel</span> <span class="article-tag">AI Agent</span> <span class="article-tag">LLM</span></div>
+</div>
+
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-10-ai-驱动的生产系统迁移-datadog-如何用-claude-cursor-实现测试驱动迁移.html'">
   <span class="article-meta-date">7月10日</span>
   <span class="article-source">InfoQ</span>
@@ -195,6 +203,22 @@ outline: deep
   <h3><a href="/knowledge-base/articles/2025/05/2025-05-23-70行python代码构建mcp驱动的ai-agent-java开发者如何借鉴.html">🔥 70行Python代码构建MCP驱动的AI Agent：Java开发者如何借鉴？</a></h3>
   <p class="article-desc">本文通过一个70行Python代码的MCP驱动AI Agent示例，展示了如何利用Model Context Protocol构建轻量级AI助手，并探讨了Java生态（特别是Spring AI）如何借鉴这一模式实现类似能力。</p>
   <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">AI Agent</span> <span class="article-tag">MCP</span> <span class="article-tag">Spring AI</span></div>
+</div>
+
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2025/04/2025-04-30-how-to-build-an-mcp-server-with-gradio.html'">
+  <span class="article-meta-date">4月30日</span>
+  <span class="article-source">HuggingFace Blog</span>
+  <h3><a href="/knowledge-base/articles/2025/04/2025-04-30-how-to-build-an-mcp-server-with-gradio.html">How to Build an MCP Server with Gradio</a></h3>
+  <p class="article-desc">How to Build an MCP Server with Gradio</p>
+  <div class="article-tags"><span class="article-tag">技术热点</span></div>
+</div>
+
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2025/04/2025-04-25-50行代码打造mcp智能体-tiny-agents-轻量级ai-agent实战解析.html'">
+  <span class="article-meta-date">4月25日</span>
+  <span class="article-source">HuggingFace Blog</span>
+  <h3><a href="/knowledge-base/articles/2025/04/2025-04-25-50行代码打造mcp智能体-tiny-agents-轻量级ai-agent实战解析.html">50行代码打造MCP智能体：Tiny Agents 轻量级AI Agent实战解析</a></h3>
+  <p class="article-desc">Tiny Agents 是一个基于 MCP（Model Context Protocol）的轻量级 AI Agent 框架，仅需 50 行代码即可构建智能体，为 Java 开发者提供了一条低成本、高效率的 AI 集成路径。</p>
+  <div class="article-tags"><span class="article-tag">AI Agent</span> <span class="article-tag">MCP</span> <span class="article-tag">Tiny Agents</span> <span class="article-tag">Java</span></div>
 </div>
 
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2025/01/2025-01-13-ai-agents-时代已至-java-后端开发者如何应对.html'">

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-07-16T04:14:56.067676",
+  "last_updated": "2026-07-17T04:14:38.158502",
   "articles": [
     {
       "url": "https://www.oschina.net/news/471482",
@@ -190,6 +190,27 @@
       "slug": "小蚂蚁云-xiaomayi-elevue-v1-3-0-发布-spring-boot-3-vue-3-单体架构的敏捷新选择",
       "file_path": "docs/articles/2026/07/2026-07-15-小蚂蚁云-xiaomayi-elevue-v1-3-0-发布-spring-boot-3-vue-3-单体架构的敏捷新选择.md",
       "generated_at": "2026-07-16T04:14:56.067669"
+    },
+    {
+      "url": "https://huggingface.co/blog/gradio-mcp",
+      "title": "How to Build an MCP Server with Gradio",
+      "slug": "how-to-build-an-mcp-server-with-gradio",
+      "file_path": "docs/articles/2025/04/2025-04-30-how-to-build-an-mcp-server-with-gradio.md",
+      "generated_at": "2026-07-17T04:14:02.293567"
+    },
+    {
+      "url": "https://huggingface.co/blog/tiny-agents",
+      "title": "50行代码打造MCP智能体：Tiny Agents 轻量级AI Agent实战解析",
+      "slug": "50行代码打造mcp智能体-tiny-agents-轻量级ai-agent实战解析",
+      "file_path": "docs/articles/2025/04/2025-04-25-50行代码打造mcp智能体-tiny-agents-轻量级ai-agent实战解析.md",
+      "generated_at": "2026-07-17T04:14:21.215048"
+    },
+    {
+      "url": "https://feeds.feedblitz.com/~/960158825/0/baeldung",
+      "title": "🔍 揭开AI Agent工具调用推理的面纱：基于Embabel Agentic AI框架的Java实现",
+      "slug": "揭开ai-agent工具调用推理的面纱-基于embabel-agentic-ai框架的java实现",
+      "file_path": "docs/articles/2026/07/2026-07-12-揭开ai-agent工具调用推理的面纱-基于embabel-agentic-ai框架的java实现.md",
+      "generated_at": "2026-07-17T04:14:38.158497"
     }
   ]
 }
