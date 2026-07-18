@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-07-17T04:14:38.158502",
+  "last_updated": "2026-07-18T04:06:29.406015",
   "articles": [
     {
       "url": "https://www.oschina.net/news/471482",
@@ -211,6 +211,27 @@
       "slug": "揭开ai-agent工具调用推理的面纱-基于embabel-agentic-ai框架的java实现",
       "file_path": "docs/articles/2026/07/2026-07-12-揭开ai-agent工具调用推理的面纱-基于embabel-agentic-ai框架的java实现.md",
       "generated_at": "2026-07-17T04:14:38.158497"
+    },
+    {
+      "url": "https://www.infoq.com/news/2026/07/claude-apps-gateway-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title": "🚀 AWS 推出 Claude Apps Gateway：为 Claude Code 和 Desktop 打造自托管控制平面，Java 开发者如何借力？",
+      "slug": "aws-推出-claude-apps-gateway-为-claude-code-和-desktop-打造自托管控制平面-java-开发者如何借力",
+      "file_path": "docs/articles/2026/07/2026-07-15-aws-推出-claude-apps-gateway-为-claude-code-和-desktop-打造自托管控制平面-java-开发者如何借力.md",
+      "generated_at": "2026-07-18T04:06:02.528261"
+    },
+    {
+      "url": "https://huggingface.co/blog/faster-transformers",
+      "title": "🔥 OpenAI GPT-oss 开源了！Java 开发者如何用 HuggingFace Transformers 玩转它？",
+      "slug": "openai-gpt-oss-开源了-java-开发者如何用-huggingface-transformers-玩转它",
+      "file_path": "docs/articles/2025/09/2025-09-11-openai-gpt-oss-开源了-java-开发者如何用-huggingface-transformers-玩转它.md",
+      "generated_at": "2026-07-18T04:06:15.004326"
+    },
+    {
+      "url": "https://huggingface.co/blog/welcome-openai-gpt-oss",
+      "title": "Welcome GPT OSS, the new open-source model family from OpenAI!",
+      "slug": "welcome-gpt-oss-the-new-open-source-model-family-from-openai",
+      "file_path": "docs/articles/2025/08/2025-08-05-welcome-gpt-oss-the-new-open-source-model-family-from-openai.md",
+      "generated_at": "2026-07-18T04:06:29.406006"
     }
   ]
 }

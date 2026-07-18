@@ -21,6 +21,14 @@ outline: deep
   <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Spring Boot</span> <span class="article-tag">Spring AI</span> <span class="article-tag">OpenAI</span></div>
 </div>
 
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-15-aws-推出-claude-apps-gateway-为-claude-code-和-desktop-打造自托管控制平面-java-开发者如何借力.html'">
+  <span class="article-meta-date">7月15日</span>
+  <span class="article-source">InfoQ</span>
+  <h3><a href="/knowledge-base/articles/2026/07/2026-07-15-aws-推出-claude-apps-gateway-为-claude-code-和-desktop-打造自托管控制平面-java-开发者如何借力.html">🚀 AWS 推出 Claude Apps Gateway：为 Claude Code 和 Desktop 打造自托管控制平面，Java 开发者如何借力？</a></h3>
+  <p class="article-desc">AWS 与 Anthropic 联合发布 Claude Apps Gateway，一个自托管的无状态容器，用于统一管理 Claude Code 和 Claude Desktop 的身份、策略、遥测、路由和消费上限，推理可路由至 Amazon Bedrock 或 Claude Platform。</p>
+  <div class="article-tags"><span class="article-tag">AWS</span> <span class="article-tag">Claude</span> <span class="article-tag">Anthropic</span> <span class="article-tag">Claude Code</span></div>
+</div>
+
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-15-小蚂蚁云-xiaomayi-elevue-v1-3-0-发布-spring-boot-3-vue-3-单体架构的敏捷新选择.html'">
   <span class="article-meta-date">7月15日</span>
   <span class="article-source">开源中国</span>
@@ -195,6 +203,22 @@ outline: deep
   <h3><a href="/knowledge-base/articles/2026/04/2026-04-24-deepseek-v4-震撼发布-百万-token-上下文-agent-终于能真正用起来了.html">DeepSeek-V4 震撼发布：百万 Token 上下文，Agent 终于能真正用起来了！🔥</a></h3>
   <p class="article-desc">DeepSeek-V4 实现了真正可用的百万级 Token 上下文窗口，让 AI Agent 在长文档分析、代码库理解等场景中不再受限于短上下文，为 Java 后端集成大规模 AI 能力打开了新大门。</p>
   <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Spring Boot</span> <span class="article-tag">DeepSeek</span> <span class="article-tag">LLM</span></div>
+</div>
+
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2025/09/2025-09-11-openai-gpt-oss-开源了-java-开发者如何用-huggingface-transformers-玩转它.html'">
+  <span class="article-meta-date">9月11日</span>
+  <span class="article-source">HuggingFace Blog</span>
+  <h3><a href="/knowledge-base/articles/2025/09/2025-09-11-openai-gpt-oss-开源了-java-开发者如何用-huggingface-transformers-玩转它.html">🔥 OpenAI GPT-oss 开源了！Java 开发者如何用 HuggingFace Transformers 玩转它？</a></h3>
+  <p class="article-desc">OpenAI 开源了 GPT-oss 项目，让 Java 开发者能够通过 HuggingFace Transformers 库轻松集成 GPT 模型，实现本地或云端的 AI 推理，为 Spring AI 和 RAG 应用提供新的可能性。</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">HuggingFace</span> <span class="article-tag">Transformers</span> <span class="article-tag">OpenAI</span></div>
+</div>
+
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2025/08/2025-08-05-welcome-gpt-oss-the-new-open-source-model-family-from-openai.html'">
+  <span class="article-meta-date">8月5日</span>
+  <span class="article-source">HuggingFace Blog</span>
+  <h3><a href="/knowledge-base/articles/2025/08/2025-08-05-welcome-gpt-oss-the-new-open-source-model-family-from-openai.html">Welcome GPT OSS, the new open-source model family from OpenAI!</a></h3>
+  <p class="article-desc">Welcome GPT OSS, the new open-source model family from OpenAI!</p>
+  <div class="article-tags"><span class="article-tag">技术热点</span></div>
 </div>
 
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2025/05/2025-05-23-70行python代码构建mcp驱动的ai-agent-java开发者如何借鉴.html'">
