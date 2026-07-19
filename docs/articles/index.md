@@ -13,6 +13,14 @@ outline: deep
 <!-- AUTO_GENERATED_ARTICLES_START -->
 
 <div class="article-list-auto">
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-17-intellij-idea-2026-2-重磅发布-java-27-支持-kotlin-2-4-及-spring-开发体验全面升级.html'">
+  <span class="article-meta-date">7月17日</span>
+  <span class="article-source">开源中国</span>
+  <h3><a href="/knowledge-base/articles/2026/07/2026-07-17-intellij-idea-2026-2-重磅发布-java-27-支持-kotlin-2-4-及-spring-开发体验全面升级.html">🚀 IntelliJ IDEA 2026.2 重磅发布：Java 27 支持、Kotlin 2.4 及 Spring 开发体验全面升级</a></h3>
+  <p class="article-desc">IntelliJ IDEA 2026.2 版本正式发布，新增对 Java 27、Kotlin 2.4 的支持，并大幅改进了 Spring 开发流程、数据库迁移工作流和运行时调试能力，是 Java 生态开发者不可错过的 IDE 大版本更新。</p>
+  <div class="article-tags"><span class="article-tag">IntelliJ IDEA</span> <span class="article-tag">Java</span> <span class="article-tag">Kotlin</span> <span class="article-tag">Spring Boot</span></div>
+</div>
+
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-16-openai-gpt-5-6-三舰齐发-java-开发者如何用-spring-ai-接入多智能体协作.html'">
   <span class="article-meta-date">7月16日</span>
   <span class="article-source">开源中国</span>
@@ -35,6 +43,14 @@ outline: deep
   <h3><a href="/knowledge-base/articles/2026/07/2026-07-15-小蚂蚁云-xiaomayi-elevue-v1-3-0-发布-spring-boot-3-vue-3-单体架构的敏捷新选择.html">🚀 小蚂蚁云 XiaoMaYi-EleVue v1.3.0 发布：Spring Boot 3 + Vue 3 单体架构的敏捷新选择</a></h3>
   <p class="article-desc">小蚂蚁云 XiaoMaYi-EleVue 基于 Spring Boot 3、Spring Security、Mybatis-Plus、Vue 3、TypeScript、Vite 和 Element Plus 等主流技术栈，推出 v1.3.0 版本，重点优化云存储类库并修复用户反馈的 BUG，为单体前后端分离后台管理系统提供敏捷开发新范式。</p>
   <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Spring Boot 3</span> <span class="article-tag">Spring Security</span> <span class="article-tag">Mybatis-Plus</span></div>
+</div>
+
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-15-用-postgresql-构建生产级-ai-agent-从向量索引到智能记忆管理.html'">
+  <span class="article-meta-date">7月15日</span>
+  <span class="article-source">InfoQ</span>
+  <h3><a href="/knowledge-base/articles/2026/07/2026-07-15-用-postgresql-构建生产级-ai-agent-从向量索引到智能记忆管理.html">🔥 用 PostgreSQL 构建生产级 AI Agent：从向量索引到智能记忆管理</a></h3>
+  <p class="article-desc">Gwen Shapira 在 InfoQ 上分享了如何利用 PostgreSQL 的多模态能力（JSONB、HNSW 向量索引、向量量化）为生产级 AI Agent 提供可靠的关系基础，实现高性能语义检索与智能记忆管理。</p>
+  <div class="article-tags"><span class="article-tag">PostgreSQL</span> <span class="article-tag">AI Agent</span> <span class="article-tag">向量数据库</span> <span class="article-tag">JSONB</span></div>
 </div>
 
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-14-google-and-industry-partners-announce-agentic-resource-discovery-specification-f.html'">
@@ -219,6 +235,14 @@ outline: deep
   <h3><a href="/knowledge-base/articles/2025/08/2025-08-05-welcome-gpt-oss-the-new-open-source-model-family-from-openai.html">Welcome GPT OSS, the new open-source model family from OpenAI!</a></h3>
   <p class="article-desc">Welcome GPT OSS, the new open-source model family from OpenAI!</p>
   <div class="article-tags"><span class="article-tag">技术热点</span></div>
+</div>
+
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2025/07/2025-07-31-用-python-搭建-mcp-服务器-基于-gradio-的-ai-购物助手实战指南.html'">
+  <span class="article-meta-date">7月31日</span>
+  <span class="article-source">HuggingFace Blog</span>
+  <h3><a href="/knowledge-base/articles/2025/07/2025-07-31-用-python-搭建-mcp-服务器-基于-gradio-的-ai-购物助手实战指南.html">🚀 用 Python 搭建 MCP 服务器：基于 Gradio 的 AI 购物助手实战指南</a></h3>
+  <p class="article-desc">本文介绍了如何用 Python 实现 MCP（Model Context Protocol）服务器，并基于 Gradio 构建一个 AI 购物助手，为 Java 开发者提供跨语言的 AI 服务集成思路。</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Spring Boot</span> <span class="article-tag">MCP</span> <span class="article-tag">Python</span></div>
 </div>
 
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2025/05/2025-05-23-70行python代码构建mcp驱动的ai-agent-java开发者如何借鉴.html'">

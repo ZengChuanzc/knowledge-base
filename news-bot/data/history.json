@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-07-18T04:06:29.406015",
+  "last_updated": "2026-07-19T04:27:22.809804",
   "articles": [
     {
       "url": "https://www.oschina.net/news/471482",
@@ -232,6 +232,27 @@
       "slug": "welcome-gpt-oss-the-new-open-source-model-family-from-openai",
       "file_path": "docs/articles/2025/08/2025-08-05-welcome-gpt-oss-the-new-open-source-model-family-from-openai.md",
       "generated_at": "2026-07-18T04:06:29.406006"
+    },
+    {
+      "url": "https://www.infoq.com/presentations/postgres-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title": "🔥 用 PostgreSQL 构建生产级 AI Agent：从向量索引到智能记忆管理",
+      "slug": "用-postgresql-构建生产级-ai-agent-从向量索引到智能记忆管理",
+      "file_path": "docs/articles/2026/07/2026-07-15-用-postgresql-构建生产级-ai-agent-从向量索引到智能记忆管理.md",
+      "generated_at": "2026-07-19T04:26:52.519352"
+    },
+    {
+      "url": "https://huggingface.co/blog/gradio-vton-mcp",
+      "title": "🚀 用 Python 搭建 MCP 服务器：基于 Gradio 的 AI 购物助手实战指南",
+      "slug": "用-python-搭建-mcp-服务器-基于-gradio-的-ai-购物助手实战指南",
+      "file_path": "docs/articles/2025/07/2025-07-31-用-python-搭建-mcp-服务器-基于-gradio-的-ai-购物助手实战指南.md",
+      "generated_at": "2026-07-19T04:27:06.288081"
+    },
+    {
+      "url": "https://www.oschina.net/news/472656/intellij-idea-2026-2",
+      "title": "🚀 IntelliJ IDEA 2026.2 重磅发布：Java 27 支持、Kotlin 2.4 及 Spring 开发体验全面升级",
+      "slug": "intellij-idea-2026-2-重磅发布-java-27-支持-kotlin-2-4-及-spring-开发体验全面升级",
+      "file_path": "docs/articles/2026/07/2026-07-17-intellij-idea-2026-2-重磅发布-java-27-支持-kotlin-2-4-及-spring-开发体验全面升级.md",
+      "generated_at": "2026-07-19T04:27:22.809796"
     }
   ]
 }
