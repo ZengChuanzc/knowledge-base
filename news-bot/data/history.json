@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-07-19T04:27:22.809804",
+  "last_updated": "2026-07-20T04:42:00.515175",
   "articles": [
     {
       "url": "https://www.oschina.net/news/471482",
@@ -253,6 +253,27 @@
       "slug": "intellij-idea-2026-2-重磅发布-java-27-支持-kotlin-2-4-及-spring-开发体验全面升级",
       "file_path": "docs/articles/2026/07/2026-07-17-intellij-idea-2026-2-重磅发布-java-27-支持-kotlin-2-4-及-spring-开发体验全面升级.md",
       "generated_at": "2026-07-19T04:27:22.809796"
+    },
+    {
+      "url": "https://feeds.feedblitz.com/~/960158825/0/baeldung~LLM-Tool-Call-Reasoning-Using-Embabel-Agentic-AI-Framework",
+      "title": "🔍 Java 视角下的 AI Agent 工具调用推理：Embabel Agentic AI Framework 实战解析",
+      "slug": "java-视角下的-ai-agent-工具调用推理-embabel-agentic-ai-framework-实战解析",
+      "file_path": "docs/articles/2026/07/2026-07-12-java-视角下的-ai-agent-工具调用推理-embabel-agentic-ai-framework-实战解析.md",
+      "generated_at": "2026-07-20T04:41:28.677663"
+    },
+    {
+      "url": "https://my.oschina.net/u/5783135/blog/19722482",
+      "title": "🤖 从“人工智障”到“服务伙伴”：得物高可控智能客服的 Agent 工程实战",
+      "slug": "从-人工智障-到-服务伙伴-得物高可控智能客服的-agent-工程实战",
+      "file_path": "docs/articles/2026/07/2026-07-17-从-人工智障-到-服务伙伴-得物高可控智能客服的-agent-工程实战.md",
+      "generated_at": "2026-07-20T04:41:44.716082"
+    },
+    {
+      "url": "https://feeds.feedblitz.com/~/960269651/0/baeldung~How-to-Get-The-RequestBody-and-ResponseBody-in-HandlerInterceptor",
+      "title": "🎯 深入 Spring MVC：如何在 HandlerInterceptor 中优雅获取 RequestBody 与 ResponseBody？",
+      "slug": "深入-spring-mvc-如何在-handlerinterceptor-中优雅获取-requestbody-与-responsebody",
+      "file_path": "docs/articles/2026/07/2026-07-13-深入-spring-mvc-如何在-handlerinterceptor-中优雅获取-requestbody-与-responsebody.md",
+      "generated_at": "2026-07-20T04:42:00.515167"
     }
   ]
 }

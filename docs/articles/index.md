@@ -21,6 +21,14 @@ outline: deep
   <div class="article-tags"><span class="article-tag">IntelliJ IDEA</span> <span class="article-tag">Java</span> <span class="article-tag">Kotlin</span> <span class="article-tag">Spring Boot</span></div>
 </div>
 
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-17-从-人工智障-到-服务伙伴-得物高可控智能客服的-agent-工程实战.html'">
+  <span class="article-meta-date">7月17日</span>
+  <span class="article-source">开源中国</span>
+  <h3><a href="/knowledge-base/articles/2026/07/2026-07-17-从-人工智障-到-服务伙伴-得物高可控智能客服的-agent-工程实战.html">🤖 从“人工智障”到“服务伙伴”：得物高可控智能客服的 Agent 工程实战</a></h3>
+  <p class="article-desc">本文深入剖析得物如何通过 Agent 工程架构，将传统机械应答的客服系统升级为高可控、高智能的服务伙伴，解决意图理解不准、人工成本高、复杂问题解决能力弱三大痛点。</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Spring Boot</span> <span class="article-tag">AI Agent</span> <span class="article-tag">智能客服</span></div>
+</div>
+
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-16-openai-gpt-5-6-三舰齐发-java-开发者如何用-spring-ai-接入多智能体协作.html'">
   <span class="article-meta-date">7月16日</span>
   <span class="article-source">开源中国</span>
@@ -75,6 +83,22 @@ outline: deep
   <h3><a href="/knowledge-base/articles/2026/07/2026-07-13-how-doordash-built-an-ai-shopping-assistant-that-doesn-t-rely-on-the-llm-alone.html">How DoorDash Built an AI Shopping Assistant That Doesn’t Rely on the LLM Alone</a></h3>
   <p class="article-desc">How DoorDash Built an AI Shopping Assistant That Doesn’t Rely on the LLM Alone</p>
   <div class="article-tags"><span class="article-tag">技术热点</span></div>
+</div>
+
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-13-深入-spring-mvc-如何在-handlerinterceptor-中优雅获取-requestbody-与-responsebody.html'">
+  <span class="article-meta-date">7月13日</span>
+  <span class="article-source">Baeldung</span>
+  <h3><a href="/knowledge-base/articles/2026/07/2026-07-13-深入-spring-mvc-如何在-handlerinterceptor-中优雅获取-requestbody-与-responsebody.html">🎯 深入 Spring MVC：如何在 HandlerInterceptor 中优雅获取 RequestBody 与 ResponseBody？</a></h3>
+  <p class="article-desc">本文揭秘如何利用 Spring MVC 的 HandlerInterceptor 拦截器，在不侵入业务代码的前提下，优雅地捕获并记录 HTTP 请求与响应体，为日志审计、调试与性能监控提供最佳实践。</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Spring Boot</span> <span class="article-tag">Spring MVC</span> <span class="article-tag">HandlerInterceptor</span></div>
+</div>
+
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-12-java-视角下的-ai-agent-工具调用推理-embabel-agentic-ai-framework-实战解析.html'">
+  <span class="article-meta-date">7月12日</span>
+  <span class="article-source">Baeldung</span>
+  <h3><a href="/knowledge-base/articles/2026/07/2026-07-12-java-视角下的-ai-agent-工具调用推理-embabel-agentic-ai-framework-实战解析.html">🔍 Java 视角下的 AI Agent 工具调用推理：Embabel Agentic AI Framework 实战解析</a></h3>
+  <p class="article-desc">本文介绍了如何使用 Embabel Agentic AI Framework 在 Java 中实现 AI Agent 的工具调用选择推理，并获取可观测性能力，为 Java 开发者搭建可解释的 LLM 应用提供新思路。</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">AI Agent</span> <span class="article-tag">Embabel</span> <span class="article-tag">LLM</span></div>
 </div>
 
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-12-揭开ai-agent工具调用推理的面纱-基于embabel-agentic-ai框架的java实现.html'">
