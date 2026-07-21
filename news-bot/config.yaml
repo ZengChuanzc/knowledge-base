@@ -33,7 +33,7 @@ llm:
 rss_sources:
   # ── 国外源 ──
   - name: Spring Blog
-    url: https://spring.io/blog/feed.atom
+    url: https://spring.io/blog.atom
     type: rss
     lang: en
 
@@ -62,13 +62,14 @@ rss_sources:
     type: rss
     lang: en
 
-  - name: Red Hat Developer
-    url: https://developers.redhat.com/rss.xml
-    type: rss
-    lang: en
+  # Red Hat Developer (RSS 已下线，暂移除)
+  # - name: Red Hat Developer
+  #   url: https://developers.redhat.com/rss.xml
+  #   type: rss
+  #   lang: en
 
   - name: Google AI Blog
-    url: https://blog.research.google/feed.xml
+    url: https://blog.google/technology/ai/rss/
     type: rss
     lang: en
 
@@ -88,10 +89,15 @@ rss_sources:
     type: rss
     lang: zh
 
-  - name: 阿里云云原生
-    url: https://rsshub.app/aliyun/cloud-native
+  - name: 美团技术团队
+    url: https://tech.meituan.com/feed/
     type: rss
     lang: zh
+
+  # RSSHub 公共实例不稳定（经常 403），以下源暂不启用：
+  # - 阿里云云原生 (https://rsshub.app/aliyun/cloud-native)
+  # - 掘金热门 (https://rsshub.app/juejin/trending/all/weekly)
+  # 如需稳定收录，建议自建 RSSHub（Docker 一键部署）
 
 # ─── 关键词过滤配置 ───────────────────────────────────────────────────────────
 # AI 预过滤关键词匹配规则
