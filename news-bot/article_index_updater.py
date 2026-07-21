@@ -8,6 +8,7 @@
       自动扫描并渲染文章卡片，保留标记外的页面内容。
 """
 
+import json
 import re
 from datetime import datetime
 from pathlib import Path
@@ -26,6 +27,9 @@ MARKER_END = "<!-- AUTO_GENERATED_ARTICLES_END -->"
 # VitePress 站点 base 路径（与 docs/.vitepress/config.ts 中的 base 一致）
 # 用于生成正确的文章 URL
 BASE_PATH = "/knowledge-base"
+
+# 每页显示文章数
+PAGE_SIZE = 10
 
 
 def scan_articles(articles_dir: Path) -> list[dict]:
@@ -127,21 +131,24 @@ def build_article_card(article: dict) -> str:
 
 def build_auto_section(articles: list[dict], base_url: str = "") -> str:
     """
-    构建自动生成区域的完整内容。
-    保留手动标记。
+    构建自动生成区域的完整内容，包含客户端分页功能。
     """
     if not articles:
         return f"{MARKER_START}\n\n<p>暂无文章，等待自动生成中...</p>\n\n{MARKER_END}"
 
-    cards = [build_article_card(a) for a in articles]
-    cards_html = "\n\n".join(cards)
+    # 构建所有文章卡片（每篇用 .article-page-item 包裹）
+    cards_html = ""
+    for article in articles:
+        card = build_article_card(article)
+        cards_html += f'  <div class="article-page-item">\n{card}\n  </div>\n\n'
 
     return f"""\
 {MARKER_START}
 
-<div class="article-list-auto">
-{cards_html}
-</div>
+<div class="article-list-auto" id="article-list-container">
+{cards_html}</div>
+
+<div id="article-pagination" class="article-pagination"></div>
 
 <style>
 .article-list-auto .article-item {{
@@ -199,6 +206,58 @@ def build_auto_section(articles: list[dict], base_url: str = "") -> str:
 :root.dark .article-tag {{
   background: #1e1b4b;
   color: #a5b4fc;
+}}
+
+/* 分页样式 */
+.article-pagination {{
+  margin-top: 1.5rem;
+  text-align: center;
+}}
+.pagination-controls {{
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}}
+.pagination-btn {{
+  padding: 0.35rem 0.75rem;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 6px;
+  background: var(--vp-c-bg-soft);
+  color: var(--vp-c-text-1);
+  cursor: pointer;
+  font-size: 0.85rem;
+  transition: all 0.2s;
+  line-height: 1.4;
+}}
+.pagination-btn:hover {{
+  border-color: var(--vp-c-brand-1);
+  color: var(--vp-c-brand-1);
+}}
+.pagination-btn-disabled,
+.pagination-btn-disabled:hover {{
+  opacity: 0.4;
+  cursor: not-allowed;
+  border-color: var(--vp-c-divider);
+  color: var(--vp-c-text-3);
+}}
+.pagination-current {{
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 2rem;
+  padding: 0.35rem 0.5rem;
+  background: var(--vp-c-brand-1);
+  color: #fff;
+  border-radius: 6px;
+  font-size: 0.85rem;
+  font-weight: 600;
+}}
+.pagination-info {{
+  margin-top: 0.5rem;
+  font-size: 0.82rem;
+  color: var(--vp-c-text-3);
 }}
 </style>
 
