@@ -27,7 +27,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 from config import load_config
 from logger import setup_logging, get_logger, token_counter, timer
 from rss_reader import fetch_all
-from article_filter import keyword_filter, ai_score_filter
+from article_filter import time_filter, keyword_filter, ai_score_filter
 from deduplicator import Deduplicator
 from llm_summary import summarize_article
 from markdown_writer import write_article
@@ -63,6 +63,7 @@ async def run_pipeline(config_path: Optional[str] = None,
 
     stats = {
         "total": 0,
+        "after_time": 0,
         "after_keyword": 0,
         "after_dedup": 0,
         "scored": 0,
@@ -90,7 +91,17 @@ async def run_pipeline(config_path: Optional[str] = None,
         logger.info("--fetch-only 模式，流程结束")
         return stats
 
-    # ── 2. 关键词过滤 ──
+    # ── 2. 时间窗口过滤（仅保留最近7天） ──
+    with timer("时间窗口过滤"):
+        all_articles = time_filter(all_articles)
+
+    stats["after_time"] = len(all_articles)
+
+    if not all_articles:
+        logger.warning("📭 时间窗口过滤后无文章，流程结束")
+        return stats
+
+    # ── 3. 关键词过滤 ──
     with timer("关键词过滤"):
         filtered = keyword_filter(all_articles)
 
@@ -100,7 +111,7 @@ async def run_pipeline(config_path: Optional[str] = None,
         logger.warning("📭 关键词过滤后无文章，流程结束")
         return stats
 
-    # ── 3. 去重 ──
+    # ── 4. 去重 ──
     new_articles = dedup.filter_new(filtered)
     stats["after_dedup"] = len(new_articles)
 
@@ -108,7 +119,7 @@ async def run_pipeline(config_path: Optional[str] = None,
         logger.warning("📭 所有文章均已生成过，流程结束")
         return stats
 
-    # ── 4. AI 评分 ──
+    # ── 5. AI 评分 ──
     with timer("AI 筛选评分"):
 
         async def score_llm(prompt: str) -> str:
@@ -131,7 +142,7 @@ async def run_pipeline(config_path: Optional[str] = None,
         logger.info("Token 消耗: %s", token_counter.report())
         return stats
 
-    # ── 5. LLM 逐篇生成 ──
+    # ── 6. LLM 逐篇生成 ──
     generated_files = []
     with timer("文章内容生成"):
         for i, article in enumerate(scored):
@@ -199,6 +210,7 @@ async def run_pipeline(config_path: Optional[str] = None,
     logger.info("📊 本次执行报告")
     logger.info("=" * 60)
     logger.info(f"   RSS 抓取:    {stats['total']:>4d} 篇")
+    logger.info(f"   时间过滤后:  {stats['after_time']:>4d} 篇")
     logger.info(f"   关键词过滤:  {stats['after_keyword']:>4d} 篇")
     logger.info(f"   去重后:      {stats['after_dedup']:>4d} 篇")
     logger.info(f"   AI 评分后:   {stats['scored']:>4d} 篇")

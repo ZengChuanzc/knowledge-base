@@ -13,6 +13,7 @@
 
 import json
 import re
+from datetime import datetime, timedelta, timezone
 from typing import Optional
 
 from config import get_config
@@ -20,6 +21,40 @@ from logger import get_logger
 from models.article import RawArticle, ScoredArticle
 
 logger = get_logger("filter")
+
+# 时间窗口：仅保留最近 N 天内的文章（每周抓取一次时使用）
+TIME_WINDOW_DAYS = 7
+
+
+def time_filter(articles: list[RawArticle]) -> list[RawArticle]:
+    """
+    时间窗口过滤：仅保留最近 TIME_WINDOW_DAYS 天内发布的文章。
+
+    对于没有发布日期的文章（published is None），保留并记录警告，
+    因为 RSS 源可能不提供发布时间。
+    """
+    cutoff = datetime.now(timezone.utc) - timedelta(days=TIME_WINDOW_DAYS)
+    kept = []
+    dropped = 0
+    no_date = 0
+
+    for article in articles:
+        if article.published is None:
+            # 没有发布日期的文章，保留但记录
+            no_date += 1
+            kept.append(article)
+        elif article.published.replace(tzinfo=timezone.utc) >= cutoff:
+            kept.append(article)
+        else:
+            dropped += 1
+
+    logger.info(
+        "[TIME] 时间窗口过滤（%d天内）: %d -> %d 篇 "
+        "(过期 %d 篇, 无日期 %d 篇)",
+        TIME_WINDOW_DAYS, len(articles), len(kept), dropped, no_date,
+    )
+    return kept
+
 
 # 每批最大文章数（避免超出 LLM 上下文窗口）
 BATCH_SIZE = 30
