@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-07-20T04:42:00.515175",
+  "last_updated": "2026-07-21T04:21:14.575584",
   "articles": [
     {
       "url": "https://www.oschina.net/news/471482",
@@ -274,6 +274,27 @@
       "slug": "深入-spring-mvc-如何在-handlerinterceptor-中优雅获取-requestbody-与-responsebody",
       "file_path": "docs/articles/2026/07/2026-07-13-深入-spring-mvc-如何在-handlerinterceptor-中优雅获取-requestbody-与-responsebody.md",
       "generated_at": "2026-07-20T04:42:00.515167"
+    },
+    {
+      "url": "https://www.infoq.com/news/2026/07/loom-aws-agent-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title": "AWS 开源 Loom：企业级 AI Agent 治理的参考平台，Java 开发者如何抓住机会？",
+      "slug": "aws-开源-loom-企业级-ai-agent-治理的参考平台-java-开发者如何抓住机会",
+      "file_path": "docs/articles/2026/07/2026-07-20-aws-开源-loom-企业级-ai-agent-治理的参考平台-java-开发者如何抓住机会.md",
+      "generated_at": "2026-07-21T04:20:43.159352"
+    },
+    {
+      "url": "https://feeds.feedblitz.com/~/960129299/0/baeldung~Testing-Spring-MVC-HandlerInterceptor",
+      "title": "Testing Spring MVC HandlerInterceptor",
+      "slug": "testing-spring-mvc-handlerinterceptor",
+      "file_path": "docs/articles/2026/07/2026-07-11-testing-spring-mvc-handlerinterceptor.md",
+      "generated_at": "2026-07-21T04:20:58.300798"
+    },
+    {
+      "url": "https://feeds.feedblitz.com/~/960370808/0/baeldung~How-Does-a-Java-Program-Get-Its-Own-Process-ID",
+      "title": "🔍 Java 程序如何获取自己的进程 ID？从 JDK 9 到旧版本的全攻略",
+      "slug": "java-程序如何获取自己的进程-id-从-jdk-9-到旧版本的全攻略",
+      "file_path": "docs/articles/2026/07/2026-07-14-java-程序如何获取自己的进程-id-从-jdk-9-到旧版本的全攻略.md",
+      "generated_at": "2026-07-21T04:21:14.575576"
     }
   ]
 }

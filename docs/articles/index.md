@@ -13,6 +13,14 @@ outline: deep
 <!-- AUTO_GENERATED_ARTICLES_START -->
 
 <div class="article-list-auto">
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-20-aws-开源-loom-企业级-ai-agent-治理的参考平台-java-开发者如何抓住机会.html'">
+  <span class="article-meta-date">7月20日</span>
+  <span class="article-source">InfoQ</span>
+  <h3><a href="/knowledge-base/articles/2026/07/2026-07-20-aws-开源-loom-企业级-ai-agent-治理的参考平台-java-开发者如何抓住机会.html">AWS 开源 Loom：企业级 AI Agent 治理的参考平台，Java 开发者如何抓住机会？</a></h3>
+  <p class="article-desc">AWS 开源了 Loom，一个基于 Strands Agents 和 Bedrock AgentCore Runtime 的企业级 AI Agent 治理参考平台，实现了 RFC 8693 令牌交换进行委托身份传播，支持配置驱动部署和强制标签，为 Java 开发者提供了构建可观测、可治理 AI 系统的开源参考。</p>
+  <div class="article-tags"><span class="article-tag">AWS</span> <span class="article-tag">AI Agent</span> <span class="article-tag">Loom</span> <span class="article-tag">Java</span></div>
+</div>
+
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-17-intellij-idea-2026-2-重磅发布-java-27-支持-kotlin-2-4-及-spring-开发体验全面升级.html'">
   <span class="article-meta-date">7月17日</span>
   <span class="article-source">开源中国</span>
@@ -69,6 +77,14 @@ outline: deep
   <div class="article-tags"><span class="article-tag">技术热点</span></div>
 </div>
 
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-14-java-程序如何获取自己的进程-id-从-jdk-9-到旧版本的全攻略.html'">
+  <span class="article-meta-date">7月14日</span>
+  <span class="article-source">Baeldung</span>
+  <h3><a href="/knowledge-base/articles/2026/07/2026-07-14-java-程序如何获取自己的进程-id-从-jdk-9-到旧版本的全攻略.html">🔍 Java 程序如何获取自己的进程 ID？从 JDK 9 到旧版本的全攻略</a></h3>
+  <p class="article-desc">本文总结了在 Java 中获取当前进程 PID 的多种方法，包括 JDK 9 引入的 ProcessHandle API、基于 RuntimeMXBean 的经典方式，以及旧版本的兼容方案，并分析了各方式的优缺点和适用场景。</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">JVM</span> <span class="article-tag">ProcessHandle</span> <span class="article-tag">RuntimeMXBean</span></div>
+</div>
+
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-13-guns-8-4-0-重磅发布-企业版全面开源-spring-boot-3-vue-3-再进化.html'">
   <span class="article-meta-date">7月13日</span>
   <span class="article-source">开源中国</span>
@@ -107,6 +123,14 @@ outline: deep
   <h3><a href="/knowledge-base/articles/2026/07/2026-07-12-揭开ai-agent工具调用推理的面纱-基于embabel-agentic-ai框架的java实现.html">🔍 揭开AI Agent工具调用推理的面纱：基于Embabel Agentic AI框架的Java实现</a></h3>
   <p class="article-desc">本文介绍如何使用Embabel Agentic AI框架在Java中实现对LLM Agent工具调用选择推理过程的可观测性，帮助开发者理解Agent决策逻辑，提升调试与优化效率。</p>
   <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Embabel</span> <span class="article-tag">AI Agent</span> <span class="article-tag">LLM</span></div>
+</div>
+
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-11-testing-spring-mvc-handlerinterceptor.html'">
+  <span class="article-meta-date">7月11日</span>
+  <span class="article-source">Baeldung</span>
+  <h3><a href="/knowledge-base/articles/2026/07/2026-07-11-testing-spring-mvc-handlerinterceptor.html">Testing Spring MVC HandlerInterceptor</a></h3>
+  <p class="article-desc">Testing Spring MVC HandlerInterceptor</p>
+  <div class="article-tags"><span class="article-tag">技术热点</span></div>
 </div>
 
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-10-ai-驱动的生产系统迁移-datadog-如何用-claude-cursor-实现测试驱动迁移.html'">
