@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-07-21T04:21:14.575584",
+  "last_updated": "2026-08-02T04:18:35.622502",
   "articles": [
     {
       "url": "https://www.oschina.net/news/471482",
@@ -295,6 +295,27 @@
       "slug": "java-程序如何获取自己的进程-id-从-jdk-9-到旧版本的全攻略",
       "file_path": "docs/articles/2026/07/2026-07-14-java-程序如何获取自己的进程-id-从-jdk-9-到旧版本的全攻略.md",
       "generated_at": "2026-07-21T04:21:14.575576"
+    },
+    {
+      "url": "https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html",
+      "title": "🔥 美团发布 CatPaw：全场景 AI Agent 平台，Java 后端如何借力智能化？",
+      "slug": "美团发布-catpaw-全场景-ai-agent-平台-java-后端如何借力智能化",
+      "file_path": "docs/articles/2026/08/2026-08-02-美团发布-catpaw-全场景-ai-agent-平台-java-后端如何借力智能化.md",
+      "generated_at": "2026-08-02T04:18:07.883556"
+    },
+    {
+      "url": "https://www.infoq.com/articles/virtual-threads-after-jdk24/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title": "Article: Virtual Threads After JDK 24: What Changed for Production Java",
+      "slug": "article-virtual-threads-after-jdk-24-what-changed-for-production-java",
+      "file_path": "docs/articles/2026/07/2026-07-31-article-virtual-threads-after-jdk-24-what-changed-for-production-java.md",
+      "generated_at": "2026-08-02T04:18:24.458733"
+    },
+    {
+      "url": "https://www.oschina.net/news/481363/nightingale-v9-released",
+      "title": "🚀 夜莺监控 V9 正式发布：内置 AI 助手，运维监控迎来智能时代",
+      "slug": "夜莺监控-v9-正式发布-内置-ai-助手-运维监控迎来智能时代",
+      "file_path": "docs/articles/2026/07/2026-07-28-夜莺监控-v9-正式发布-内置-ai-助手-运维监控迎来智能时代.md",
+      "generated_at": "2026-08-02T04:18:35.622497"
     }
   ]
 }

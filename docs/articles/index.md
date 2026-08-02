@@ -14,6 +14,36 @@ outline: deep
 
 <div class="article-list-auto" id="article-list-container">
   <div class="article-page-item">
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/08/2026-08-02-美团发布-catpaw-全场景-ai-agent-平台-java-后端如何借力智能化.html'">
+  <span class="article-meta-date">8月2日</span>
+  <span class="article-source">美团技术团队</span>
+  <h3><a href="/knowledge-base/articles/2026/08/2026-08-02-美团发布-catpaw-全场景-ai-agent-平台-java-后端如何借力智能化.html">🔥 美团发布 CatPaw：全场景 AI Agent 平台，Java 后端如何借力智能化？</a></h3>
+  <p class="article-desc">美团正式推出搭载 LongCat 2.0 的全场景 AI Agent 平台 CatPaw，提供开箱即用的智能工作台与企业级 Agent 开发托管能力，标志着 AI 从“跑得动”迈向“用得好”，为 Java 后端开发者带来新的智能化集成机遇。</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Spring Boot</span> <span class="article-tag">AI Agent</span> <span class="article-tag">美团</span></div>
+</div>
+  </div>
+
+  <div class="article-page-item">
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-31-article-virtual-threads-after-jdk-24-what-changed-for-production-java.html'">
+  <span class="article-meta-date">7月31日</span>
+  <span class="article-source">InfoQ</span>
+  <h3><a href="/knowledge-base/articles/2026/07/2026-07-31-article-virtual-threads-after-jdk-24-what-changed-for-production-java.html">Article: Virtual Threads After JDK 24: What Changed for Production Java</a></h3>
+  <p class="article-desc">Article: Virtual Threads After JDK 24: What Changed for Production Java</p>
+  <div class="article-tags"><span class="article-tag">技术热点</span></div>
+</div>
+  </div>
+
+  <div class="article-page-item">
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-28-夜莺监控-v9-正式发布-内置-ai-助手-运维监控迎来智能时代.html'">
+  <span class="article-meta-date">7月28日</span>
+  <span class="article-source">开源中国</span>
+  <h3><a href="/knowledge-base/articles/2026/07/2026-07-28-夜莺监控-v9-正式发布-内置-ai-助手-运维监控迎来智能时代.html">🚀 夜莺监控 V9 正式发布：内置 AI 助手，运维监控迎来智能时代</a></h3>
+  <p class="article-desc">夜莺监控 V9 正式版发布，历时半年、上千次提交，内置 Nightingale AI 助手、20+ 开箱即用 Skill、LLM 集中配置管理，并支持 MCP Server 与 A2A 协议，开启智能运维监控新篇章。</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">监控系统</span> <span class="article-tag">Nightingale</span> <span class="article-tag">AI</span></div>
+</div>
+  </div>
+
+  <div class="article-page-item">
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-20-aws-开源-loom-企业级-ai-agent-治理的参考平台-java-开发者如何抓住机会.html'">
   <span class="article-meta-date">7月20日</span>
   <span class="article-source">InfoQ</span>
@@ -88,7 +118,7 @@ outline: deep
   <span class="article-meta-date">7月14日</span>
   <span class="article-source">InfoQ</span>
   <h3><a href="/knowledge-base/articles/2026/07/2026-07-14-google-and-industry-partners-announce-agentic-resource-discovery-specification-f.html">Google and Industry Partners Announce Agentic Resource Discovery Specification for AI Agents</a></h3>
-  <p class="article-desc">Google and Industry Partners Announce Agentic Resource Discovery Specification for AI Agents</p>
+  <p class="article-desc">Google 联合行业伙伴推出 Agentic Resource Discovery (ARD) 规范，旨在为 AI Agent 提供一套基于目录和注册表的标准化资源发现与验证机制，有望成为连接 AI 能力与现有微服务生态的“服务发现”新基石。</p>
   <div class="article-tags"><span class="article-tag">技术热点</span></div>
 </div>
   </div>
@@ -118,7 +148,7 @@ outline: deep
   <span class="article-meta-date">7月13日</span>
   <span class="article-source">InfoQ</span>
   <h3><a href="/knowledge-base/articles/2026/07/2026-07-13-how-doordash-built-an-ai-shopping-assistant-that-doesn-t-rely-on-the-llm-alone.html">How DoorDash Built an AI Shopping Assistant That Doesn’t Rely on the LLM Alone</a></h3>
-  <p class="article-desc">How DoorDash Built an AI Shopping Assistant That Doesn’t Rely on the LLM Alone</p>
+  <p class="article-desc">DoorDash 的 AI 购物助手“Ask DoorDash”通过结合 LLM、专用 AI Agent、MCP 工具和持久化记忆层，实现了 24% 结账转化率提升和 17% 客单价增长，其架构设计为 Java 后端工程师提供了不依赖 LLM 单一能力的智能系统构建范本。</p>
   <div class="article-tags"><span class="article-tag">技术热点</span></div>
 </div>
   </div>
@@ -178,7 +208,7 @@ outline: deep
   <span class="article-meta-date">7月10日</span>
   <span class="article-source">开源中国</span>
   <h3><a href="/knowledge-base/articles/2026/07/2026-07-10-gpt-5-6-今日全量开放-ai-开发正在进入新阶段-与-claude-fable-5-glm-5-2-相比-它意味着什么.html">GPT-5.6 今日全量开放，AI 开发正在进入新阶段，与 Claude Fable 5、GLM-5.2 相比，它意味着什么</a></h3>
-  <p class="article-desc">GPT-5.6 今日全量开放，AI 开发正在进入新阶段，与 Claude Fable 5、GLM-5.2 相比，它意味着什么</p>
+  <p class="article-desc">GPT-5.6、Claude Fable 5、GLM-5.2 接连发布，模型稳定性和连续对话能力大幅提升，标志着 AI 开发从“调用 API”向“构建自主 Agent”的范式迁移，Java 工程师需掌握新的工程化思维与工具链。</p>
   <div class="article-tags"><span class="article-tag">技术热点</span></div>
 </div>
   </div>
@@ -348,7 +378,7 @@ outline: deep
   <span class="article-meta-date">8月5日</span>
   <span class="article-source">HuggingFace Blog</span>
   <h3><a href="/knowledge-base/articles/2025/08/2025-08-05-welcome-gpt-oss-the-new-open-source-model-family-from-openai.html">Welcome GPT OSS, the new open-source model family from OpenAI!</a></h3>
-  <p class="article-desc">Welcome GPT OSS, the new open-source model family from OpenAI!</p>
+  <p class="article-desc">OpenAI 开源了全新的 GPT-OSS 模型家族，为 Java 后端开发者提供了低成本、高可控的本地 AI 推理能力，有望与 Spring AI 和 RAG 架构深度融合，开启企业级智能应用的新篇章。</p>
   <div class="article-tags"><span class="article-tag">技术热点</span></div>
 </div>
   </div>
@@ -378,7 +408,7 @@ outline: deep
   <span class="article-meta-date">4月30日</span>
   <span class="article-source">HuggingFace Blog</span>
   <h3><a href="/knowledge-base/articles/2025/04/2025-04-30-how-to-build-an-mcp-server-with-gradio.html">How to Build an MCP Server with Gradio</a></h3>
-  <p class="article-desc">How to Build an MCP Server with Gradio</p>
+  <p class="article-desc">本文手把手教你用 Gradio 快速构建 MCP Server，打通 AI 模型与 Java 后端服务的数据通道，实现智能工具链的零门槛集成。</p>
   <div class="article-tags"><span class="article-tag">技术热点</span></div>
 </div>
   </div>
