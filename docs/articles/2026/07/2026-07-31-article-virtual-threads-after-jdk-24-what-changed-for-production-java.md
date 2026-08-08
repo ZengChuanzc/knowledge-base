@@ -1,5 +1,5 @@
 ---
-title: Article: Virtual Threads After JDK 24: What Changed for Production Java
+title: Article：- Virtual Threads After JDK 24: What Changed for Production Java
 date: "2026-07-31"
 tags: [技术热点]
 category: 技术热点
@@ -7,7 +7,7 @@ source: InfoQ
 author: Sandeep Bharadwaj
 ---
 
-# Article: Virtual Threads After JDK 24: What Changed for Production Java
+# Article ：- Virtual Threads After JDK 24: What Changed for Production Java
 
 ## 📝 一句话总结
 
