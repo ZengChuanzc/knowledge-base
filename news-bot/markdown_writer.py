@@ -8,6 +8,7 @@ Markdown 文章生成器。
   4. 更新去重记录
 """
 
+import json
 import re
 import unicodedata
 from datetime import datetime
@@ -48,7 +49,12 @@ def slugify(text: str) -> str:
 
 def build_frontmatter(article: GeneratedArticle) -> str:
     """构建 VitePress FrontMatter。"""
-    tags_str = ", ".join(article.tags) if article.tags else "技术热点"
+    def yaml_string(value: str) -> str:
+        """用 JSON 双引号语法生成 YAML 兼容的安全字符串。"""
+        return json.dumps(value, ensure_ascii=False)
+
+    tags = article.tags or ["技术热点"]
+    tags_str = ", ".join(yaml_string(tag) for tag in tags)
 
     # 格式化日期
     if article.raw_published:
@@ -58,18 +64,18 @@ def build_frontmatter(article: GeneratedArticle) -> str:
 
     lines = [
         "---",
-        f"title: {article.title}",
+        f"title: {yaml_string(article.title)}",
         f'date: "{date_str}"',
         f"tags: [{tags_str}]",
-        f"category: {article.category}",
-        f"source: {article.raw_source}",
+        f"category: {yaml_string(article.category)}",
+        f"source: {yaml_string(article.raw_source)}",
     ]
     if article.one_sentence:
-        lines.append(f"description: {article.one_sentence}")
+        lines.append(f"description: {yaml_string(article.one_sentence)}")
     if article.cover:
-        lines.append(f"cover: {article.cover}")
+        lines.append(f"cover: {yaml_string(article.cover)}")
     if article.source_author:
-        lines.append(f"author: {article.source_author}")
+        lines.append(f"author: {yaml_string(article.source_author)}")
     lines.append("---")
     lines.append("")  # FrontMatter 后空行
 

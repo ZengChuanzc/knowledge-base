@@ -239,18 +239,6 @@ def parse_generated_content(response: str, article_data: dict) -> dict:
                 "source_author": article_data.get("author"),
             }
 
-    # Fallback：直接返回全文作为核心内容
-    logger.warning("LLM 未返回结构化 JSON，使用全文 fallback")
-    return {
-        "title": article_data.get("title", ""),
-        "tags": [],
-        "category": "技术热点",
-        "cover": None,
-        "one_sentence": "",
-        "core_content": response[:3000],
-        "why_worth": "",
-        "tech_highlights": "",
-        "my_thoughts": response[3000:6000] if len(response) > 3000 else response,
-        "source_url": article_data.get("url", ""),
-        "source_author": article_data.get("author"),
-    }
+    # 不把残缺 JSON 或未遵循约定的响应发布为正文。调用方会记录错误并跳过该文章。
+    logger.error("LLM 未返回可解析的结构化 JSON，跳过文章生成")
+    raise ValueError("LLM response is not valid structured JSON")
