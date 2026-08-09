@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-08-02T04:18:35.622502",
+  "last_updated": "2026-08-09T02:55:37.149841",
   "articles": [
     {
       "url": "https://www.oschina.net/news/471482",
@@ -316,6 +316,27 @@
       "slug": "夜莺监控-v9-正式发布-内置-ai-助手-运维监控迎来智能时代",
       "file_path": "docs/articles/2026/07/2026-07-28-夜莺监控-v9-正式发布-内置-ai-助手-运维监控迎来智能时代.md",
       "generated_at": "2026-08-02T04:18:35.622497"
+    },
+    {
+      "url": "https://www.oschina.net/news/488585",
+      "title": "🚀 告别 Fatjar 重启噩梦：Solon 的 E-Spi 与 H-Spi 机制深度解析",
+      "slug": "告别-fatjar-重启噩梦-solon-的-e-spi-与-h-spi-机制深度解析",
+      "file_path": "docs/articles/2026/08/2026-08-06-告别-fatjar-重启噩梦-solon-的-e-spi-与-h-spi-机制深度解析.md",
+      "generated_at": "2026-08-09T02:55:10.047982"
+    },
+    {
+      "url": "https://feeds.feedblitz.com/~/967127630/0/baeldung",
+      "title": "🤖 探索 Spring AI 中的 Agent2Agent（A2A）协议：让 AI 代理高效协作",
+      "slug": "探索-spring-ai-中的-agent2agent-a2a-协议-让-ai-代理高效协作",
+      "file_path": "docs/articles/2026/08/2026-08-07-探索-spring-ai-中的-agent2agent-a2a-协议-让-ai-代理高效协作.md",
+      "generated_at": "2026-08-09T02:55:24.756154"
+    },
+    {
+      "url": "https://feeds.feedblitz.com/~/967131095/0/baeldung",
+      "title": "Spring AI AutoMemoryTools：让 Agent 学会“记住”用户与项目的关键技术 🔥",
+      "slug": "spring-ai-automemorytools-让-agent-学会-记住-用户与项目的关键技术",
+      "file_path": "docs/articles/2026/08/2026-08-07-spring-ai-automemorytools-让-agent-学会-记住-用户与项目的关键技术.md",
+      "generated_at": "2026-08-09T02:55:37.149833"
     }
   ]
 }

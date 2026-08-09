@@ -14,6 +14,36 @@ outline: deep
 
 <div class="article-list-auto" id="article-list-container">
   <div class="article-page-item">
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/08/2026-08-07-spring-ai-automemorytools-让-agent-学会-记住-用户与项目的关键技术.html'">
+  <span class="article-meta-date">8月7日</span>
+  <span class="article-source">Baeldung</span>
+  <h3><a href="/knowledge-base/articles/2026/08/2026-08-07-spring-ai-automemorytools-让-agent-学会-记住-用户与项目的关键技术.html">Spring AI AutoMemoryTools：让 Agent 学会“记住”用户与项目的关键技术 🔥</a></h3>
+  <p class="article-desc">Spring AI AutoMemoryTools 为 AI Agent 提供了自动记忆管理能力，使其能根据对话上下文智能决定记住哪些用户或项目信息，从而提升个性化交互体验。</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Spring AI</span> <span class="article-tag">AI Agent</span> <span class="article-tag">Memory</span></div>
+</div>
+  </div>
+
+  <div class="article-page-item">
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/08/2026-08-07-探索-spring-ai-中的-agent2agent-a2a-协议-让-ai-代理高效协作.html'">
+  <span class="article-meta-date">8月7日</span>
+  <span class="article-source">Baeldung</span>
+  <h3><a href="/knowledge-base/articles/2026/08/2026-08-07-探索-spring-ai-中的-agent2agent-a2a-协议-让-ai-代理高效协作.html">🤖 探索 Spring AI 中的 Agent2Agent（A2A）协议：让 AI 代理高效协作</a></h3>
+  <p class="article-desc">本文深入解析 Spring AI 如何实现 Agent2Agent（A2A）协议，使 AI 代理能够互相发现、通信与协作，为构建多代理系统提供了新思路。</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Spring Boot</span> <span class="article-tag">Spring AI</span> <span class="article-tag">A2A</span></div>
+</div>
+  </div>
+
+  <div class="article-page-item">
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/08/2026-08-06-告别-fatjar-重启噩梦-solon-的-e-spi-与-h-spi-机制深度解析.html'">
+  <span class="article-meta-date">8月6日</span>
+  <span class="article-source">开源中国</span>
+  <h3><a href="/knowledge-base/articles/2026/08/2026-08-06-告别-fatjar-重启噩梦-solon-的-e-spi-与-h-spi-机制深度解析.html">🚀 告别 Fatjar 重启噩梦：Solon 的 E-Spi 与 H-Spi 机制深度解析</a></h3>
+  <p class="article-desc">Solon 框架通过 E-Spi（体外扩展）和 H-Spi（热插拔）机制，让 Java 服务摆脱 Fatjar 的束缚，实现运行时动态扩展与模块热插拔，彻底告别“重新打包、整包重发”的运维噩梦。</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Solon</span> <span class="article-tag">微服务</span> <span class="article-tag">热插拔</span></div>
+</div>
+  </div>
+
+  <div class="article-page-item">
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2026/08/2026-08-02-美团发布-catpaw-全场景-ai-agent-平台-java-后端如何借力智能化.html'">
   <span class="article-meta-date">8月2日</span>
   <span class="article-source">美团技术团队</span>
@@ -27,9 +57,9 @@ outline: deep
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2026/07/2026-07-31-article-virtual-threads-after-jdk-24-what-changed-for-production-java.html'">
   <span class="article-meta-date">7月31日</span>
   <span class="article-source">InfoQ</span>
-  <h3><a href="/knowledge-base/articles/2026/07/2026-07-31-article-virtual-threads-after-jdk-24-what-changed-for-production-java.html">Article: Virtual Threads After JDK 24: What Changed for Production Java</a></h3>
-  <p class="article-desc">Article: Virtual Threads After JDK 24: What Changed for Production Java</p>
-  <div class="article-tags"><span class="article-tag">技术热点</span></div>
+  <h3><a href="/knowledge-base/articles/2026/07/2026-07-31-article-virtual-threads-after-jdk-24-what-changed-for-production-java.html">🔥 JDK 24 后 Virtual Thread 生产环境实战：瓶颈已转移，你的代码准备好了吗？</a></h3>
+  <p class="article-desc">JDK 24 移除了虚拟线程在监视器上的 carrier-thread pinning 问题，但瓶颈已转移至下游资源饱和，生产环境必须显式进行有界化（Bounding）设计。</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Virtual Thread</span> <span class="article-tag">JDK 24</span> <span class="article-tag">JDK 25</span></div>
 </div>
   </div>
 
