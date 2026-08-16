@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-08-09T02:55:37.149841",
+  "last_updated": "2026-08-16T02:13:51.177423",
   "articles": [
     {
       "url": "https://www.oschina.net/news/471482",
@@ -337,6 +337,13 @@
       "slug": "spring-ai-automemorytools-让-agent-学会-记住-用户与项目的关键技术",
       "file_path": "docs/articles/2026/08/2026-08-07-spring-ai-automemorytools-让-agent-学会-记住-用户与项目的关键技术.md",
       "generated_at": "2026-08-09T02:55:37.149833"
+    },
+    {
+      "url": "https://www.oschina.net/news/501925/deepseek-harness-developer-preview",
+      "title": "DeepSeek Harness 正式开源：一切皆插件，Java 开发者如何玩转 Agent 框架新范式？🚀",
+      "slug": "deepseek-harness-正式开源-一切皆插件-java-开发者如何玩转-agent-框架新范式",
+      "file_path": "docs/articles/2026/08/2026-08-14-deepseek-harness-正式开源-一切皆插件-java-开发者如何玩转-agent-框架新范式.md",
+      "generated_at": "2026-08-16T02:13:51.177415"
     }
   ]
 }

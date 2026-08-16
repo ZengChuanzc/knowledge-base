@@ -14,6 +14,16 @@ outline: deep
 
 <div class="article-list-auto" id="article-list-container">
   <div class="article-page-item">
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/08/2026-08-14-deepseek-harness-正式开源-一切皆插件-java-开发者如何玩转-agent-框架新范式.html'">
+  <span class="article-meta-date">8月14日</span>
+  <span class="article-source">开源中国</span>
+  <h3><a href="/knowledge-base/articles/2026/08/2026-08-14-deepseek-harness-正式开源-一切皆插件-java-开发者如何玩转-agent-框架新范式.html">DeepSeek Harness 正式开源：一切皆插件，Java 开发者如何玩转 Agent 框架新范式？🚀</a></h3>
+  <p class="article-desc">DeepSeek Harness 以“一切皆插件”的架构理念开源，基于 Cordis 元框架构建，为 Java 开发者提供高度可扩展的 AI Agent 运行时，开启自定义 Agent 的新时代。</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">AI Agent</span> <span class="article-tag">DeepSeek</span> <span class="article-tag">插件架构</span></div>
+</div>
+  </div>
+
+  <div class="article-page-item">
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2026/08/2026-08-07-spring-ai-automemorytools-让-agent-学会-记住-用户与项目的关键技术.html'">
   <span class="article-meta-date">8月7日</span>
   <span class="article-source">Baeldung</span>
