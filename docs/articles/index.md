@@ -14,6 +14,36 @@ outline: deep
 
 <div class="article-list-auto" id="article-list-container">
   <div class="article-page-item">
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/08/2026-08-23-美团搜索3-0-llm语义表征如何重塑本地生活排序-java后端必读的实战解析.html'">
+  <span class="article-meta-date">8月23日</span>
+  <span class="article-source">美团技术团队</span>
+  <h3><a href="/knowledge-base/articles/2026/08/2026-08-23-美团搜索3-0-llm语义表征如何重塑本地生活排序-java后端必读的实战解析.html">🔍 美团搜索3.0：LLM语义表征如何重塑本地生活排序？Java后端必读的实战解析</a></h3>
+  <p class="article-desc">美团搜索3.0系列文章揭示了LLM语义表征在服务零售排序中的三期演进，从单点特征到系统表征体系再到跨场景复用，为Java后端工程师提供了将大模型融入搜索排序的实战路径与架构思考。</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Spring Boot</span> <span class="article-tag">LLM</span> <span class="article-tag">搜索排序</span></div>
+</div>
+  </div>
+
+  <div class="article-page-item">
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/08/2026-08-21-spring-ai-2-0-1-发布-首个维护版本-修复-5-个-cve-并新增多项能力.html'">
+  <span class="article-meta-date">8月21日</span>
+  <span class="article-source">Spring Blog</span>
+  <h3><a href="/knowledge-base/articles/2026/08/2026-08-21-spring-ai-2-0-1-发布-首个维护版本-修复-5-个-cve-并新增多项能力.html">Spring AI 2.0.1 发布：首个维护版本，修复 5 个 CVE 并新增多项能力 🚀</a></h3>
+  <p class="article-desc">Spring AI 2.0.1 作为 2.0.0 GA 后的首个维护版本，修复了 5 个安全漏洞（CVE），并基于社区反馈新增了多项能力，是生产环境升级的关键版本。</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Spring Boot</span> <span class="article-tag">Spring AI</span> <span class="article-tag">AI</span></div>
+</div>
+  </div>
+
+  <div class="article-page-item">
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/08/2026-08-20-ai-写代码引发安全危机-github-copilot-autofix-竟成-snowflake-被攻破的帮凶.html'">
+  <span class="article-meta-date">8月20日</span>
+  <span class="article-source">开源中国</span>
+  <h3><a href="/knowledge-base/articles/2026/08/2026-08-20-ai-写代码引发安全危机-github-copilot-autofix-竟成-snowflake-被攻破的帮凶.html">AI 写代码引发安全危机：GitHub Copilot Autofix 竟成 Snowflake 被攻破的帮凶 🔥</a></h3>
+  <p class="article-desc">Wiz Research 利用 GitHub Actions 模板注入漏洞，通过完全自主的红队 Agent 攻破 Snowflake 内部 Jira，而漏洞竟是 GitHub Copilot 的 Autofix 功能引入，凸显 AI 辅助编码的安全隐患。</p>
+  <div class="article-tags"><span class="article-tag">GitHub Copilot</span> <span class="article-tag">AI 安全</span> <span class="article-tag">DevSecOps</span> <span class="article-tag">CI/CD</span></div>
+</div>
+  </div>
+
+  <div class="article-page-item">
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2026/08/2026-08-14-deepseek-harness-正式开源-一切皆插件-java-开发者如何玩转-agent-框架新范式.html'">
   <span class="article-meta-date">8月14日</span>
   <span class="article-source">开源中国</span>

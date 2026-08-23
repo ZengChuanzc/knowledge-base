@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-08-16T02:13:51.177423",
+  "last_updated": "2026-08-23T02:17:01.932928",
   "articles": [
     {
       "url": "https://www.oschina.net/news/471482",
@@ -344,6 +344,27 @@
       "slug": "deepseek-harness-正式开源-一切皆插件-java-开发者如何玩转-agent-框架新范式",
       "file_path": "docs/articles/2026/08/2026-08-14-deepseek-harness-正式开源-一切皆插件-java-开发者如何玩转-agent-框架新范式.md",
       "generated_at": "2026-08-16T02:13:51.177415"
+    },
+    {
+      "url": "https://tech.meituan.com/2026/08/20/01-meituan-Query-3.0.html",
+      "title": "🔍 美团搜索3.0：LLM语义表征如何重塑本地生活排序？Java后端必读的实战解析",
+      "slug": "美团搜索3-0-llm语义表征如何重塑本地生活排序-java后端必读的实战解析",
+      "file_path": "docs/articles/2026/08/2026-08-23-美团搜索3-0-llm语义表征如何重塑本地生活排序-java后端必读的实战解析.md",
+      "generated_at": "2026-08-23T02:16:35.999560"
+    },
+    {
+      "url": "https://spring.io/blog/2026/08/21/spring-ai-2-0-1-available-now",
+      "title": "Spring AI 2.0.1 发布：首个维护版本，修复 5 个 CVE 并新增多项能力 🚀",
+      "slug": "spring-ai-2-0-1-发布-首个维护版本-修复-5-个-cve-并新增多项能力",
+      "file_path": "docs/articles/2026/08/2026-08-21-spring-ai-2-0-1-发布-首个维护版本-修复-5-个-cve-并新增多项能力.md",
+      "generated_at": "2026-08-23T02:16:49.476293"
+    },
+    {
+      "url": "https://www.oschina.net/news/502024/wiz-red-agent-snowflake-copilot-cicd-bug",
+      "title": "AI 写代码引发安全危机：GitHub Copilot Autofix 竟成 Snowflake 被攻破的帮凶 🔥",
+      "slug": "ai-写代码引发安全危机-github-copilot-autofix-竟成-snowflake-被攻破的帮凶",
+      "file_path": "docs/articles/2026/08/2026-08-20-ai-写代码引发安全危机-github-copilot-autofix-竟成-snowflake-被攻破的帮凶.md",
+      "generated_at": "2026-08-23T02:17:01.932922"
     }
   ]
 }
