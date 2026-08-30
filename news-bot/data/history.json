@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-08-23T02:17:01.932928",
+  "last_updated": "2026-08-30T06:00:04.431552",
   "articles": [
     {
       "url": "https://www.oschina.net/news/471482",
@@ -365,6 +365,27 @@
       "slug": "ai-写代码引发安全危机-github-copilot-autofix-竟成-snowflake-被攻破的帮凶",
       "file_path": "docs/articles/2026/08/2026-08-20-ai-写代码引发安全危机-github-copilot-autofix-竟成-snowflake-被攻破的帮凶.md",
       "generated_at": "2026-08-23T02:17:01.932922"
+    },
+    {
+      "url": "https://tech.meituan.com/2026/07/12/LongCat-2.0-Open-source.html",
+      "title": "🚀 美团 LongCat-2.0 正式开源：1.6T 参数 Agentic Coding 模型，国产卡推理代码同步开放！",
+      "slug": "美团-longcat-2-0-正式开源-1-6t-参数-agentic-coding-模型-国产卡推理代码同步开放",
+      "file_path": "docs/articles/2026/08/2026-08-30-美团-longcat-2-0-正式开源-1-6t-参数-agentic-coding-模型-国产卡推理代码同步开放.md",
+      "generated_at": "2026-08-30T05:59:37.375165"
+    },
+    {
+      "url": "https://tech.meituan.com/2026/07/24/LongCat-MineExplorer.html",
+      "title": "🔍 大模型也有“盲区”？美团MineExplorer：让AI在开放世界中跑通分钟级任务",
+      "slug": "大模型也有-盲区-美团mineexplorer-让ai在开放世界中跑通分钟级任务",
+      "file_path": "docs/articles/2026/08/2026-08-30-大模型也有-盲区-美团mineexplorer-让ai在开放世界中跑通分钟级任务.md",
+      "generated_at": "2026-08-30T05:59:53.424800"
+    },
+    {
+      "url": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/",
+      "title": "🔍 生产环境前如何评估 LLM？GitHub 实战经验全解析",
+      "slug": "生产环境前如何评估-llm-github-实战经验全解析",
+      "file_path": "docs/articles/2026/08/2026-08-25-生产环境前如何评估-llm-github-实战经验全解析.md",
+      "generated_at": "2026-08-30T06:00:04.431546"
     }
   ]
 }

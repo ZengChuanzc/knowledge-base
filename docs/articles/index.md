@@ -14,6 +14,36 @@ outline: deep
 
 <div class="article-list-auto" id="article-list-container">
   <div class="article-page-item">
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/08/2026-08-30-大模型也有-盲区-美团mineexplorer-让ai在开放世界中跑通分钟级任务.html'">
+  <span class="article-meta-date">8月30日</span>
+  <span class="article-source">美团技术团队</span>
+  <h3><a href="/knowledge-base/articles/2026/08/2026-08-30-大模型也有-盲区-美团mineexplorer-让ai在开放世界中跑通分钟级任务.html">🔍 大模型也有“盲区”？美团MineExplorer：让AI在开放世界中跑通分钟级任务</a></h3>
+  <p class="article-desc">美团LongCat团队推出MineExplorer，首个面向开放世界分钟级长程任务的评测基准，揭示多模态大模型在长程规划与隐藏前置条件处理上的能力断层，为AI应用落地提供新视角。</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Spring Boot</span> <span class="article-tag">AI</span> <span class="article-tag">多模态大模型</span></div>
+</div>
+  </div>
+
+  <div class="article-page-item">
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/08/2026-08-30-美团-longcat-2-0-正式开源-1-6t-参数-agentic-coding-模型-国产卡推理代码同步开放.html'">
+  <span class="article-meta-date">8月30日</span>
+  <span class="article-source">美团技术团队</span>
+  <h3><a href="/knowledge-base/articles/2026/08/2026-08-30-美团-longcat-2-0-正式开源-1-6t-参数-agentic-coding-模型-国产卡推理代码同步开放.html">🚀 美团 LongCat-2.0 正式开源：1.6T 参数 Agentic Coding 模型，国产卡推理代码同步开放！</a></h3>
+  <p class="article-desc">美团开源 LongCat-2.0，1.6T 总参数、48B 激活的 Agentic Coding 模型，创新 LongCat 稀疏注意力与 N-gram Embedding，并同步开放国产卡推理代码，为 Java 开发者带来大模型落地的全新范式。</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">大模型</span> <span class="article-tag">Agentic Coding</span> <span class="article-tag">美团</span></div>
+</div>
+  </div>
+
+  <div class="article-page-item">
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/08/2026-08-25-生产环境前如何评估-llm-github-实战经验全解析.html'">
+  <span class="article-meta-date">8月25日</span>
+  <span class="article-source">GitHub Blog</span>
+  <h3><a href="/knowledge-base/articles/2026/08/2026-08-25-生产环境前如何评估-llm-github-实战经验全解析.html">🔍 生产环境前如何评估 LLM？GitHub 实战经验全解析</a></h3>
+  <p class="article-desc">GitHub 在真实 secret scanning 场景中评估 LLM 的实战经验总结，为 Java 开发者提供了从离线评估到在线评估的完整方法论。</p>
+  <div class="article-tags"><span class="article-tag">LLM</span> <span class="article-tag">AI</span> <span class="article-tag">Java</span> <span class="article-tag">Spring Boot</span></div>
+</div>
+  </div>
+
+  <div class="article-page-item">
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2026/08/2026-08-23-美团搜索3-0-llm语义表征如何重塑本地生活排序-java后端必读的实战解析.html'">
   <span class="article-meta-date">8月23日</span>
   <span class="article-source">美团技术团队</span>
