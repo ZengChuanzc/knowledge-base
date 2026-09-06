@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-08-30T06:00:04.431552",
+  "last_updated": "2026-09-06T05:13:49.919050",
   "articles": [
     {
       "url": "https://www.oschina.net/news/471482",
@@ -386,6 +386,27 @@
       "slug": "生产环境前如何评估-llm-github-实战经验全解析",
       "file_path": "docs/articles/2026/08/2026-08-25-生产环境前如何评估-llm-github-实战经验全解析.md",
       "generated_at": "2026-08-30T06:00:04.431546"
+    },
+    {
+      "url": "https://www.oschina.net/news/502258",
+      "title": "🚀 wastnet 反向代理实战：一个端口统一托管前端与后端 API，告别 CORS 与多端口烦恼",
+      "slug": "wastnet-反向代理实战-一个端口统一托管前端与后端-api-告别-cors-与多端口烦恼",
+      "file_path": "docs/articles/2026/09/2026-09-01-wastnet-反向代理实战-一个端口统一托管前端与后端-api-告别-cors-与多端口烦恼.md",
+      "generated_at": "2026-09-06T05:13:24.221510"
+    },
+    {
+      "url": "https://tech.meituan.com/2026/08/13/KDD-2026-meituan-papers.html",
+      "title": "🔥 KDD 2026 美团 8 篇论文精选：推荐大模型、智能体搜索与 Transformer 框架的技术前沿",
+      "slug": "kdd-2026-美团-8-篇论文精选-推荐大模型-智能体搜索与-transformer-框架的技术前沿",
+      "file_path": "docs/articles/2026/09/2026-09-06-kdd-2026-美团-8-篇论文精选-推荐大模型-智能体搜索与-transformer-框架的技术前沿.md",
+      "generated_at": "2026-09-06T05:13:37.840465"
+    },
+    {
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
+      "title": "🤖 GitHub Copilot 成本优化秘籍：如何在不牺牲任务质量的前提下，让 AI 编码更省钱？",
+      "slug": "github-copilot-成本优化秘籍-如何在不牺牲任务质量的前提下-让-ai-编码更省钱",
+      "file_path": "docs/articles/2026/09/2026-09-02-github-copilot-成本优化秘籍-如何在不牺牲任务质量的前提下-让-ai-编码更省钱.md",
+      "generated_at": "2026-09-06T05:13:49.919045"
     }
   ]
 }

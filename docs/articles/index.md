@@ -14,6 +14,36 @@ outline: deep
 
 <div class="article-list-auto" id="article-list-container">
   <div class="article-page-item">
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/09/2026-09-06-kdd-2026-美团-8-篇论文精选-推荐大模型-智能体搜索与-transformer-框架的技术前沿.html'">
+  <span class="article-meta-date">9月6日</span>
+  <span class="article-source">美团技术团队</span>
+  <h3><a href="/knowledge-base/articles/2026/09/2026-09-06-kdd-2026-美团-8-篇论文精选-推荐大模型-智能体搜索与-transformer-框架的技术前沿.html">🔥 KDD 2026 美团 8 篇论文精选：推荐大模型、智能体搜索与 Transformer 框架的技术前沿</a></h3>
+  <p class="article-desc">美团技术团队在 KDD 2026 上发表的 8 篇论文，覆盖推荐大模型、生成与奖励建模、智能体搜索、Transformer 优化和元泛化框架，为 Java 后端工程师提供了 AI 与系统结合的前沿视角。</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">推荐系统</span> <span class="article-tag">大模型</span> <span class="article-tag">智能体</span></div>
+</div>
+  </div>
+
+  <div class="article-page-item">
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/09/2026-09-02-github-copilot-成本优化秘籍-如何在不牺牲任务质量的前提下-让-ai-编码更省钱.html'">
+  <span class="article-meta-date">9月2日</span>
+  <span class="article-source">GitHub Blog</span>
+  <h3><a href="/knowledge-base/articles/2026/09/2026-09-02-github-copilot-成本优化秘籍-如何在不牺牲任务质量的前提下-让-ai-编码更省钱.html">🤖 GitHub Copilot 成本优化秘籍：如何在不牺牲任务质量的前提下，让 AI 编码更省钱？</a></h3>
+  <p class="article-desc">GitHub 揭秘 Copilot 如何通过减少无效输出和优化任务分解，在保证代码质量的同时显著降低 AI 编码成本，为 Java 开发者提供了新的效率思路。</p>
+  <div class="article-tags"><span class="article-tag">GitHub Copilot</span> <span class="article-tag">AI 编码</span> <span class="article-tag">成本优化</span> <span class="article-tag">LLM</span></div>
+</div>
+  </div>
+
+  <div class="article-page-item">
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/09/2026-09-01-wastnet-反向代理实战-一个端口统一托管前端与后端-api-告别-cors-与多端口烦恼.html'">
+  <span class="article-meta-date">9月1日</span>
+  <span class="article-source">开源中国</span>
+  <h3><a href="/knowledge-base/articles/2026/09/2026-09-01-wastnet-反向代理实战-一个端口统一托管前端与后端-api-告别-cors-与多端口烦恼.html">🚀 wastnet 反向代理实战：一个端口统一托管前端与后端 API，告别 CORS 与多端口烦恼</a></h3>
+  <p class="article-desc">wastnet 作为一款零依赖、自研 NIO 的 Java Web 服务器，通过内置反向代理能力，让开发者用一个端口同时托管前端静态资源与后端 API，简化部署架构并提升性能。</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">wastnet</span> <span class="article-tag">反向代理</span> <span class="article-tag">HTTP/2</span></div>
+</div>
+  </div>
+
+  <div class="article-page-item">
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2026/08/2026-08-30-大模型也有-盲区-美团mineexplorer-让ai在开放世界中跑通分钟级任务.html'">
   <span class="article-meta-date">8月30日</span>
   <span class="article-source">美团技术团队</span>
