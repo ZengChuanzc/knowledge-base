@@ -14,6 +14,26 @@ outline: deep
 
 <div class="article-list-auto" id="article-list-container">
   <div class="article-page-item">
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/09/2026-09-12-超越-rag-用知识图谱构建生产级-agentic-ai-系统的-4-大架构模式.html'">
+  <span class="article-meta-date">9月12日</span>
+  <span class="article-source">InfoQ</span>
+  <h3><a href="/knowledge-base/articles/2026/09/2026-09-12-超越-rag-用知识图谱构建生产级-agentic-ai-系统的-4-大架构模式.html">超越 RAG：用知识图谱构建生产级 Agentic AI 系统的 4 大架构模式</a></h3>
+  <p class="article-desc">Cassie Shum 在 InfoQ 分享如何用知识图谱超越基础 RAG，通过上下文捆绑、决策溯源、代码即真理、Agent 可见性四大模式构建生产级 Agentic AI 系统。</p>
+  <div class="article-tags"><span class="article-tag">Agentic AI</span> <span class="article-tag">Knowledge Graph</span> <span class="article-tag">RAG</span> <span class="article-tag">Java</span></div>
+</div>
+  </div>
+
+  <div class="article-page-item">
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/09/2026-09-08-databuff-v0-1-9-发布-skywalking-8-x-无缝接入-llm-凭据加固-ai-native-apm-再进化.html'">
+  <span class="article-meta-date">9月8日</span>
+  <span class="article-source">开源中国</span>
+  <h3><a href="/knowledge-base/articles/2026/09/2026-09-08-databuff-v0-1-9-发布-skywalking-8-x-无缝接入-llm-凭据加固-ai-native-apm-再进化.html">DataBuff v0.1.9 发布：SkyWalking 8.x 无缝接入 + LLM 凭据加固，AI Native APM 再进化</a></h3>
+  <p class="article-desc">DataBuff v0.1.9 正式发布，新增 SkyWalking 8.x 接入能力并对 LLM 凭据进行安全加固，进一步降低云原生 AI 应用的可观测性接入门槛。</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Spring Boot</span> <span class="article-tag">OpenTelemetry</span> <span class="article-tag">APM</span></div>
+</div>
+  </div>
+
+  <div class="article-page-item">
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2026/09/2026-09-06-kdd-2026-美团-8-篇论文精选-推荐大模型-智能体搜索与-transformer-框架的技术前沿.html'">
   <span class="article-meta-date">9月6日</span>
   <span class="article-source">美团技术团队</span>

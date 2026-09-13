@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-06T05:13:49.919050",
+  "last_updated": "2026-09-13T05:27:56.994273",
   "articles": [
     {
       "url": "https://www.oschina.net/news/471482",
@@ -407,6 +407,20 @@
       "slug": "github-copilot-成本优化秘籍-如何在不牺牲任务质量的前提下-让-ai-编码更省钱",
       "file_path": "docs/articles/2026/09/2026-09-02-github-copilot-成本优化秘籍-如何在不牺牲任务质量的前提下-让-ai-编码更省钱.md",
       "generated_at": "2026-09-06T05:13:49.919045"
+    },
+    {
+      "url": "https://www.oschina.net/news/502370",
+      "title": "DataBuff v0.1.9 发布：SkyWalking 8.x 无缝接入 + LLM 凭据加固，AI Native APM 再进化",
+      "slug": "databuff-v0-1-9-发布-skywalking-8-x-无缝接入-llm-凭据加固-ai-native-apm-再进化",
+      "file_path": "docs/articles/2026/09/2026-09-08-databuff-v0-1-9-发布-skywalking-8-x-无缝接入-llm-凭据加固-ai-native-apm-再进化.md",
+      "generated_at": "2026-09-13T05:27:36.778147"
+    },
+    {
+      "url": "https://www.infoq.com/presentations/knowledge-graphs-agentic-systems-patterns/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title": "超越 RAG：用知识图谱构建生产级 Agentic AI 系统的 4 大架构模式",
+      "slug": "超越-rag-用知识图谱构建生产级-agentic-ai-系统的-4-大架构模式",
+      "file_path": "docs/articles/2026/09/2026-09-12-超越-rag-用知识图谱构建生产级-agentic-ai-系统的-4-大架构模式.md",
+      "generated_at": "2026-09-13T05:27:56.994265"
     }
   ]
 }
