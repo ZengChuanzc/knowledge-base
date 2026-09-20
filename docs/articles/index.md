@@ -14,6 +14,26 @@ outline: deep
 
 <div class="article-list-auto" id="article-list-container">
   <div class="article-page-item">
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/09/2026-09-19-linkedin-如何用-mcp-构建组织级上下文层-让-ai-agent-真正读懂百万行代码库.html'">
+  <span class="article-meta-date">9月19日</span>
+  <span class="article-source">InfoQ</span>
+  <h3><a href="/knowledge-base/articles/2026/09/2026-09-19-linkedin-如何用-mcp-构建组织级上下文层-让-ai-agent-真正读懂百万行代码库.html">LinkedIn 如何用 MCP 构建组织级上下文层：让 AI Agent 真正读懂百万行代码库</a></h3>
+  <p class="article-desc">LinkedIn 基于 MCP 协议构建组织级上下文层，通过 Contextual Agent Playbooks 为 AI 编程助手注入程序性记忆、代码搜索和运维手册，在大规模代码库中实现 20% 生产力提升且零可靠性损失。</p>
+  <div class="article-tags"><span class="article-tag">MCP</span> <span class="article-tag">AI Agent</span> <span class="article-tag">Context Engineering</span> <span class="article-tag">LinkedIn</span></div>
+</div>
+  </div>
+
+  <div class="article-page-item">
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/09/2026-09-18-别让-ai-agent-裸奔查库-mcp-语义网关如何终结-nl2sql-幻觉与权限失控.html'">
+  <span class="article-meta-date">9月18日</span>
+  <span class="article-source">开源中国</span>
+  <h3><a href="/knowledge-base/articles/2026/09/2026-09-18-别让-ai-agent-裸奔查库-mcp-语义网关如何终结-nl2sql-幻觉与权限失控.html">别让 AI Agent 裸奔查库！MCP + 语义网关如何终结 NL2SQL 幻觉与权限失控</a></h3>
+  <p class="article-desc">AI Agent 直连数据库看似便捷，实则面临语义幻觉与权限失控双重风险，MCP 协议结合语义网关层是当前最务实的工程解法。</p>
+  <div class="article-tags"><span class="article-tag">MCP</span> <span class="article-tag">NL2SQL</span> <span class="article-tag">AI Agent</span> <span class="article-tag">Spring AI</span></div>
+</div>
+  </div>
+
+  <div class="article-page-item">
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2026/09/2026-09-12-超越-rag-用知识图谱构建生产级-agentic-ai-系统的-4-大架构模式.html'">
   <span class="article-meta-date">9月12日</span>
   <span class="article-source">InfoQ</span>

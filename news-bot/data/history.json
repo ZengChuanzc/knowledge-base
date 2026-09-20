@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-13T05:27:56.994273",
+  "last_updated": "2026-09-20T05:30:38.043865",
   "articles": [
     {
       "url": "https://www.oschina.net/news/471482",
@@ -421,6 +421,20 @@
       "slug": "超越-rag-用知识图谱构建生产级-agentic-ai-系统的-4-大架构模式",
       "file_path": "docs/articles/2026/09/2026-09-12-超越-rag-用知识图谱构建生产级-agentic-ai-系统的-4-大架构模式.md",
       "generated_at": "2026-09-13T05:27:56.994265"
+    },
+    {
+      "url": "https://www.infoq.com/presentations/linkedin-context-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title": "LinkedIn 如何用 MCP 构建组织级上下文层：让 AI Agent 真正读懂百万行代码库",
+      "slug": "linkedin-如何用-mcp-构建组织级上下文层-让-ai-agent-真正读懂百万行代码库",
+      "file_path": "docs/articles/2026/09/2026-09-19-linkedin-如何用-mcp-构建组织级上下文层-让-ai-agent-真正读懂百万行代码库.md",
+      "generated_at": "2026-09-20T05:30:26.718132"
+    },
+    {
+      "url": "https://www.oschina.net/news/502591",
+      "title": "别让 AI Agent 裸奔查库！MCP + 语义网关如何终结 NL2SQL 幻觉与权限失控",
+      "slug": "别让-ai-agent-裸奔查库-mcp-语义网关如何终结-nl2sql-幻觉与权限失控",
+      "file_path": "docs/articles/2026/09/2026-09-18-别让-ai-agent-裸奔查库-mcp-语义网关如何终结-nl2sql-幻觉与权限失控.md",
+      "generated_at": "2026-09-20T05:30:38.043856"
     }
   ]
 }
