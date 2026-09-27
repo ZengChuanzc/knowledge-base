@@ -14,6 +14,26 @@ outline: deep
 
 <div class="article-list-auto" id="article-list-container">
   <div class="article-page-item">
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/09/2026-09-25-spring-ai-2-1-0-m1-重磅发布-消息结构重构-openai-responses-api-支持与向量预计算嵌入.html'">
+  <span class="article-meta-date">9月25日</span>
+  <span class="article-source">Spring Blog</span>
+  <h3><a href="/knowledge-base/articles/2026/09/2026-09-25-spring-ai-2-1-0-m1-重磅发布-消息结构重构-openai-responses-api-支持与向量预计算嵌入.html">Spring AI 2.1.0-M1 重磅发布：消息结构重构、OpenAI Responses API 支持与向量预计算嵌入</a></h3>
+  <p class="article-desc">Spring AI 2.1.0-M1 发布，基于 Spring Boot 4.2 基线，引入结构化消息模型 Message Parts、OpenAI Responses API 支持以及预计算嵌入写入向量存储三大新能力，标志着 Spring AI 向多模态、多提供商统一抽象迈出关键一步。</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Spring Boot</span> <span class="article-tag">Spring AI</span> <span class="article-tag">AI工程化</span></div>
+</div>
+  </div>
+
+  <div class="article-page-item">
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/09/2026-09-24-spring-boot-4-x-全家桶重磅来袭-java-25-虚拟线程-空安全-一次彻底的现代化重构.html'">
+  <span class="article-meta-date">9月24日</span>
+  <span class="article-source">开源中国</span>
+  <h3><a href="/knowledge-base/articles/2026/09/2026-09-24-spring-boot-4-x-全家桶重磅来袭-java-25-虚拟线程-空安全-一次彻底的现代化重构.html">Spring Boot 4.x 全家桶重磅来袭：Java 25 + 虚拟线程 + 空安全，一次彻底的现代化重构</a></h3>
+  <p class="article-desc">SpringBootBucket 4.1.1 发布，基于 Spring Boot 4.x / Spring Framework 7.0，全面拥抱 Java 25 虚拟线程、JSpecify 空安全、HTTP Service Clients 与原生 API 版本管理，标志着 Java 后端技术栈进入全新代际。</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Spring Boot</span> <span class="article-tag">Spring Framework</span> <span class="article-tag">虚拟线程</span></div>
+</div>
+  </div>
+
+  <div class="article-page-item">
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2026/09/2026-09-19-linkedin-如何用-mcp-构建组织级上下文层-让-ai-agent-真正读懂百万行代码库.html'">
   <span class="article-meta-date">9月19日</span>
   <span class="article-source">InfoQ</span>

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-20T05:30:38.043865",
+  "last_updated": "2026-09-27T05:56:07.490039",
   "articles": [
     {
       "url": "https://www.oschina.net/news/471482",
@@ -435,6 +435,20 @@
       "slug": "别让-ai-agent-裸奔查库-mcp-语义网关如何终结-nl2sql-幻觉与权限失控",
       "file_path": "docs/articles/2026/09/2026-09-18-别让-ai-agent-裸奔查库-mcp-语义网关如何终结-nl2sql-幻觉与权限失控.md",
       "generated_at": "2026-09-20T05:30:38.043856"
+    },
+    {
+      "url": "https://spring.io/blog/2026/09/25/spring-ai-2-1-0-M1-available-now",
+      "title": "Spring AI 2.1.0-M1 重磅发布：消息结构重构、OpenAI Responses API 支持与向量预计算嵌入",
+      "slug": "spring-ai-2-1-0-m1-重磅发布-消息结构重构-openai-responses-api-支持与向量预计算嵌入",
+      "file_path": "docs/articles/2026/09/2026-09-25-spring-ai-2-1-0-m1-重磅发布-消息结构重构-openai-responses-api-支持与向量预计算嵌入.md",
+      "generated_at": "2026-09-27T05:55:57.098779"
+    },
+    {
+      "url": "https://www.oschina.net/news/502740",
+      "title": "Spring Boot 4.x 全家桶重磅来袭：Java 25 + 虚拟线程 + 空安全，一次彻底的现代化重构",
+      "slug": "spring-boot-4-x-全家桶重磅来袭-java-25-虚拟线程-空安全-一次彻底的现代化重构",
+      "file_path": "docs/articles/2026/09/2026-09-24-spring-boot-4-x-全家桶重磅来袭-java-25-虚拟线程-空安全-一次彻底的现代化重构.md",
+      "generated_at": "2026-09-27T05:56:07.490031"
     }
   ]
 }
