@@ -14,6 +14,36 @@ outline: deep
 
 <div class="article-list-auto" id="article-list-container">
   <div class="article-page-item">
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/10/2026-10-03-doordash-如何用-5000-人规模验证-genai-平台-从供应商优先到开放权重模型的架构演进.html'">
+  <span class="article-meta-date">10月3日</span>
+  <span class="article-source">InfoQ</span>
+  <h3><a href="/knowledge-base/articles/2026/10/2026-10-03-doordash-如何用-5000-人规模验证-genai-平台-从供应商优先到开放权重模型的架构演进.html">DoorDash 如何用 5000 人规模验证 GenAI 平台：从供应商优先到开放权重模型的架构演进</a></h3>
+  <p class="article-desc">DoorDash 分享了其内部 GenAI 平台从供应商优先转向开放权重模型的架构演进，涵盖 LLM 网关、Agent 网关设计，以及在 5000+ 内部用户规模下平衡准确性、延迟与成本的核心经验。</p>
+  <div class="article-tags"><span class="article-tag">GenAI</span> <span class="article-tag">LLM</span> <span class="article-tag">Agent</span> <span class="article-tag">AI Gateway</span></div>
+</div>
+  </div>
+
+  <div class="article-page-item">
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/10/2026-10-02-spring-ai-模块化-rag-实战-用-typesafe-jev-让检索精准到只留-有用-的块.html'">
+  <span class="article-meta-date">10月2日</span>
+  <span class="article-source">Spring Blog</span>
+  <h3><a href="/knowledge-base/articles/2026/10/2026-10-02-spring-ai-模块化-rag-实战-用-typesafe-jev-让检索精准到只留-有用-的块.html">Spring AI 模块化 RAG 实战：用 TypeSafe Jev 让检索精准到只留“有用”的块</a></h3>
+  <p class="article-desc">Spring AI 的 Modular RAG 结合 TypeSafe Jev，通过两次 LLM 调用优化用户问题，再用 Jev 对每个检索块做相关性判定，显著提升 RAG 精准度。</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Spring AI</span> <span class="article-tag">RAG</span> <span class="article-tag">TypeSafe Jev</span></div>
+</div>
+  </div>
+
+  <div class="article-page-item">
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/09/2026-09-28-一行代码省下-28-token-strands-开源-组装完毕-的-agent-harness-java-开发者该跟吗.html'">
+  <span class="article-meta-date">9月28日</span>
+  <span class="article-source">开源中国</span>
+  <h3><a href="/knowledge-base/articles/2026/09/2026-09-28-一行代码省下-28-token-strands-开源-组装完毕-的-agent-harness-java-开发者该跟吗.html">一行代码省下 28% Token！Strands 开源「组装完毕」的 Agent Harness，Java 开发者该跟吗？</a></h3>
+  <p class="article-desc">Strands 开源了一个开箱即用、可定制的通用 Agent Harness，一行代码即可接入任意模型，并在同模型下实现最高 28% 的 Token 节省，为自建 Agent 的开发者提供了「it just worked」的体验。</p>
+  <div class="article-tags"><span class="article-tag">AI Agent</span> <span class="article-tag">Strands</span> <span class="article-tag">Spring AI</span> <span class="article-tag">LLM</span></div>
+</div>
+  </div>
+
+  <div class="article-page-item">
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2026/09/2026-09-25-spring-ai-2-1-0-m1-重磅发布-消息结构重构-openai-responses-api-支持与向量预计算嵌入.html'">
   <span class="article-meta-date">9月25日</span>
   <span class="article-source">Spring Blog</span>

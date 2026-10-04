@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-27T05:56:07.490039",
+  "last_updated": "2026-10-04T06:28:42.940319",
   "articles": [
     {
       "url": "https://www.oschina.net/news/471482",
@@ -449,6 +449,27 @@
       "slug": "spring-boot-4-x-全家桶重磅来袭-java-25-虚拟线程-空安全-一次彻底的现代化重构",
       "file_path": "docs/articles/2026/09/2026-09-24-spring-boot-4-x-全家桶重磅来袭-java-25-虚拟线程-空安全-一次彻底的现代化重构.md",
       "generated_at": "2026-09-27T05:56:07.490031"
+    },
+    {
+      "url": "https://spring.io/blog/2026/10/02/spring-ai-modular-rag-typesafe-jev",
+      "title": "Spring AI 模块化 RAG 实战：用 TypeSafe Jev 让检索精准到只留“有用”的块",
+      "slug": "spring-ai-模块化-rag-实战-用-typesafe-jev-让检索精准到只留-有用-的块",
+      "file_path": "docs/articles/2026/10/2026-10-02-spring-ai-模块化-rag-实战-用-typesafe-jev-让检索精准到只留-有用-的块.md",
+      "generated_at": "2026-10-04T06:28:26.102485"
+    },
+    {
+      "url": "https://www.infoq.com/presentations/doordash-genai-platform-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title": "DoorDash 如何用 5000 人规模验证 GenAI 平台：从供应商优先到开放权重模型的架构演进",
+      "slug": "doordash-如何用-5000-人规模验证-genai-平台-从供应商优先到开放权重模型的架构演进",
+      "file_path": "docs/articles/2026/10/2026-10-03-doordash-如何用-5000-人规模验证-genai-平台-从供应商优先到开放权重模型的架构演进.md",
+      "generated_at": "2026-10-04T06:28:34.317416"
+    },
+    {
+      "url": "https://www.oschina.net/news/502772/strands-harness",
+      "title": "一行代码省下 28% Token！Strands 开源「组装完毕」的 Agent Harness，Java 开发者该跟吗？",
+      "slug": "一行代码省下-28-token-strands-开源-组装完毕-的-agent-harness-java-开发者该跟吗",
+      "file_path": "docs/articles/2026/09/2026-09-28-一行代码省下-28-token-strands-开源-组装完毕-的-agent-harness-java-开发者该跟吗.md",
+      "generated_at": "2026-10-04T06:28:42.940312"
     }
   ]
 }
