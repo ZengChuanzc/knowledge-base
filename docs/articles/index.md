@@ -14,6 +14,26 @@ outline: deep
 
 <div class="article-list-auto" id="article-list-container">
   <div class="article-page-item">
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/10/2026-10-09-netflix-每秒-3800-万事件的观测体系-用知识图谱-ai-agent-重构可观测性.html'">
+  <span class="article-meta-date">10月9日</span>
+  <span class="article-source">InfoQ</span>
+  <h3><a href="/knowledge-base/articles/2026/10/2026-10-09-netflix-每秒-3800-万事件的观测体系-用知识图谱-ai-agent-重构可观测性.html">Netflix 每秒 3800 万事件的观测体系：用知识图谱 + AI Agent 重构可观测性</a></h3>
+  <p class="article-desc">Netflix 将 3800 万事件/秒的 MELT 遥测数据统一为可查询的知识图谱，结合 Claude 驱动的 Agentic Workflow，实现自动化分诊、根因分析与自愈，标志着可观测性从被动监控迈向 AI 驱动的运营本体。</p>
+  <div class="article-tags"><span class="article-tag">Observability</span> <span class="article-tag">Knowledge Graph</span> <span class="article-tag">AI Agent</span> <span class="article-tag">MELT</span></div>
+</div>
+  </div>
+
+  <div class="article-page-item">
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/10/2026-10-08-spotify-广告平台如何用-java-构建生产级-multi-agent-系统-架构模式与踩坑实录.html'">
+  <span class="article-meta-date">10月8日</span>
+  <span class="article-source">InfoQ</span>
+  <h3><a href="/knowledge-base/articles/2026/10/2026-10-08-spotify-广告平台如何用-java-构建生产级-multi-agent-系统-架构模式与踩坑实录.html">Spotify 广告平台如何用 Java 构建生产级 Multi-Agent 系统：架构模式与踩坑实录</a></h3>
+  <p class="article-desc">Spotify 广告平台工程师分享基于 Google ADK Java 构建生产级多智能体系统的架构模式，涵盖领域所有权、确定性护栏、追踪评估等核心经验，为 Java 开发者提供 Agent 边界划分与成本优化的实战指南。</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Multi-Agent</span> <span class="article-tag">Google ADK</span> <span class="article-tag">AI Agent</span></div>
+</div>
+  </div>
+
+  <div class="article-page-item">
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2026/10/2026-10-03-doordash-如何用-5000-人规模验证-genai-平台-从供应商优先到开放权重模型的架构演进.html'">
   <span class="article-meta-date">10月3日</span>
   <span class="article-source">InfoQ</span>

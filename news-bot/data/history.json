@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-10-04T06:28:42.940319",
+  "last_updated": "2026-10-11T06:35:24.365637",
   "articles": [
     {
       "url": "https://www.oschina.net/news/471482",
@@ -470,6 +470,20 @@
       "slug": "一行代码省下-28-token-strands-开源-组装完毕-的-agent-harness-java-开发者该跟吗",
       "file_path": "docs/articles/2026/09/2026-09-28-一行代码省下-28-token-strands-开源-组装完毕-的-agent-harness-java-开发者该跟吗.md",
       "generated_at": "2026-10-04T06:28:42.940312"
+    },
+    {
+      "url": "https://www.infoq.com/presentations/spotify-multi-agent-ai-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title": "Spotify 广告平台如何用 Java 构建生产级 Multi-Agent 系统：架构模式与踩坑实录",
+      "slug": "spotify-广告平台如何用-java-构建生产级-multi-agent-系统-架构模式与踩坑实录",
+      "file_path": "docs/articles/2026/10/2026-10-08-spotify-广告平台如何用-java-构建生产级-multi-agent-系统-架构模式与踩坑实录.md",
+      "generated_at": "2026-10-11T06:35:04.182030"
+    },
+    {
+      "url": "https://www.infoq.com/presentations/netflix-observability-aiops-ontology-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title": "Netflix 每秒 3800 万事件的观测体系：用知识图谱 + AI Agent 重构可观测性",
+      "slug": "netflix-每秒-3800-万事件的观测体系-用知识图谱-ai-agent-重构可观测性",
+      "file_path": "docs/articles/2026/10/2026-10-09-netflix-每秒-3800-万事件的观测体系-用知识图谱-ai-agent-重构可观测性.md",
+      "generated_at": "2026-10-11T06:35:24.365627"
     }
   ]
 }
