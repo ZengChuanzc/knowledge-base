@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-10-11T06:35:24.365637",
+  "last_updated": "2026-10-18T05:14:11.323434",
   "articles": [
     {
       "url": "https://www.oschina.net/news/471482",
@@ -484,6 +484,27 @@
       "slug": "netflix-每秒-3800-万事件的观测体系-用知识图谱-ai-agent-重构可观测性",
       "file_path": "docs/articles/2026/10/2026-10-09-netflix-每秒-3800-万事件的观测体系-用知识图谱-ai-agent-重构可观测性.md",
       "generated_at": "2026-10-11T06:35:24.365627"
+    },
+    {
+      "url": "https://netflixtechblog.com/the-lifecycle-of-llm-as-a-judge-building-aligning-and-monitoring-at-scale-c95bd8283508?source=rss----2615bd06b42e---4",
+      "title": "谁来评估评估者？Netflix 如何构建可信任的 LLM-as-a-Judge 全生命周期体系",
+      "slug": "谁来评估评估者-netflix-如何构建可信任的-llm-as-a-judge-全生命周期体系",
+      "file_path": "docs/articles/2026/10/2026-10-14-谁来评估评估者-netflix-如何构建可信任的-llm-as-a-judge-全生命周期体系.md",
+      "generated_at": "2026-10-18T05:13:52.411018"
+    },
+    {
+      "url": "https://tech.meituan.com/2026/10/15/Small-Language-Model-in-meituan.html",
+      "title": "0.5~1B 小模型如何在搜推场景扛住高并发？美团 SLM 推理引擎优化实践拆解",
+      "slug": "0-5-1b-小模型如何在搜推场景扛住高并发-美团-slm-推理引擎优化实践拆解",
+      "file_path": "docs/articles/2026/10/2026-10-18-0-5-1b-小模型如何在搜推场景扛住高并发-美团-slm-推理引擎优化实践拆解.md",
+      "generated_at": "2026-10-18T05:14:01.211708"
+    },
+    {
+      "url": "https://www.infoq.com/news/2026/10/ai-systems-production/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title": "AI 上生产的隐形杀手：语义漂移、嵌入漂移与 Agent 治理，Java 工程师该如何接招？",
+      "slug": "ai-上生产的隐形杀手-语义漂移-嵌入漂移与-agent-治理-java-工程师该如何接招",
+      "file_path": "docs/articles/2026/10/2026-10-16-ai-上生产的隐形杀手-语义漂移-嵌入漂移与-agent-治理-java-工程师该如何接招.md",
+      "generated_at": "2026-10-18T05:14:11.323428"
     }
   ]
 }

@@ -14,6 +14,36 @@ outline: deep
 
 <div class="article-list-auto" id="article-list-container">
   <div class="article-page-item">
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/10/2026-10-18-0-5-1b-小模型如何在搜推场景扛住高并发-美团-slm-推理引擎优化实践拆解.html'">
+  <span class="article-meta-date">10月18日</span>
+  <span class="article-source">美团技术团队</span>
+  <h3><a href="/knowledge-base/articles/2026/10/2026-10-18-0-5-1b-小模型如何在搜推场景扛住高并发-美团-slm-推理引擎优化实践拆解.html">0.5~1B 小模型如何在搜推场景扛住高并发？美团 SLM 推理引擎优化实践拆解</a></h3>
+  <p class="article-desc">美团技术团队分享了 SLM（0.5~1B 小模型）在搜推场景大规模落地的高并发推理引擎工程实践，围绕延迟约束下的有效吞吐优化给出可复用的方案。</p>
+  <div class="article-tags"><span class="article-tag">SLM</span> <span class="article-tag">推理引擎</span> <span class="article-tag">高并发</span> <span class="article-tag">延迟优化</span></div>
+</div>
+  </div>
+
+  <div class="article-page-item">
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/10/2026-10-16-ai-上生产的隐形杀手-语义漂移-嵌入漂移与-agent-治理-java-工程师该如何接招.html'">
+  <span class="article-meta-date">10月16日</span>
+  <span class="article-source">InfoQ</span>
+  <h3><a href="/knowledge-base/articles/2026/10/2026-10-16-ai-上生产的隐形杀手-语义漂移-嵌入漂移与-agent-治理-java-工程师该如何接招.html">AI 上生产的隐形杀手：语义漂移、嵌入漂移与 Agent 治理，Java 工程师该如何接招？</a></h3>
+  <p class="article-desc">InfoQ 专家圆桌揭示 Agent 系统上生产的三大隐形陷阱——语义与嵌入漂移、静默失败、治理缺失，并给出持续评估、自动化代码审查与隐私加固的工程化应对思路。</p>
+  <div class="article-tags"><span class="article-tag">AI</span> <span class="article-tag">Agent</span> <span class="article-tag">LLM</span> <span class="article-tag">Spring AI</span></div>
+</div>
+  </div>
+
+  <div class="article-page-item">
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/10/2026-10-14-谁来评估评估者-netflix-如何构建可信任的-llm-as-a-judge-全生命周期体系.html'">
+  <span class="article-meta-date">10月14日</span>
+  <span class="article-source">Netflix TechBlog</span>
+  <h3><a href="/knowledge-base/articles/2026/10/2026-10-14-谁来评估评估者-netflix-如何构建可信任的-llm-as-a-judge-全生命周期体系.html">谁来评估评估者？Netflix 如何构建可信任的 LLM-as-a-Judge 全生命周期体系</a></h3>
+  <p class="article-desc">Netflix 提出 LLM-as-a-Judge 的构建、对齐与持续监控全生命周期方法论，核心原则是评估器绝不能单独运行，必须有第二道防线防止其悄然漂移。</p>
+  <div class="article-tags"><span class="article-tag">LLM-as-a-Judge</span> <span class="article-tag">AI 评估</span> <span class="article-tag">Netflix</span> <span class="article-tag">大模型</span></div>
+</div>
+  </div>
+
+  <div class="article-page-item">
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2026/10/2026-10-09-netflix-每秒-3800-万事件的观测体系-用知识图谱-ai-agent-重构可观测性.html'">
   <span class="article-meta-date">10月9日</span>
   <span class="article-source">InfoQ</span>
