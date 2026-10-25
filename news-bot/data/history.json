@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-10-18T05:14:11.323434",
+  "last_updated": "2026-10-25T05:25:56.315256",
   "articles": [
     {
       "url": "https://www.oschina.net/news/471482",
@@ -505,6 +505,13 @@
       "slug": "ai-上生产的隐形杀手-语义漂移-嵌入漂移与-agent-治理-java-工程师该如何接招",
       "file_path": "docs/articles/2026/10/2026-10-16-ai-上生产的隐形杀手-语义漂移-嵌入漂移与-agent-治理-java-工程师该如何接招.md",
       "generated_at": "2026-10-18T05:14:11.323428"
+    },
+    {
+      "url": "https://spring.io/blog/2026/10/23/spring-ai-2-1-0-RC1-available-now",
+      "title": "Spring AI 2.1.0-RC1 与 2.0.2 发布：多模型原生支持 Message Parts，会话记忆正式落地",
+      "slug": "spring-ai-2-1-0-rc1-与-2-0-2-发布-多模型原生支持-message-parts-会话记忆正式落地",
+      "file_path": "docs/articles/2026/10/2026-10-23-spring-ai-2-1-0-rc1-与-2-0-2-发布-多模型原生支持-message-parts-会话记忆正式落地.md",
+      "generated_at": "2026-10-25T05:25:56.315248"
     }
   ]
 }

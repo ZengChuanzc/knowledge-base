@@ -14,6 +14,16 @@ outline: deep
 
 <div class="article-list-auto" id="article-list-container">
   <div class="article-page-item">
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/10/2026-10-23-spring-ai-2-1-0-rc1-与-2-0-2-发布-多模型原生支持-message-parts-会话记忆正式落地.html'">
+  <span class="article-meta-date">10月23日</span>
+  <span class="article-source">Spring Blog</span>
+  <h3><a href="/knowledge-base/articles/2026/10/2026-10-23-spring-ai-2-1-0-rc1-与-2-0-2-发布-多模型原生支持-message-parts-会话记忆正式落地.html">Spring AI 2.1.0-RC1 与 2.0.2 发布：多模型原生支持 Message Parts，会话记忆正式落地</a></h3>
+  <p class="article-desc">Spring AI 2.1.0-RC1 实现主流大模型原生支持 Message Parts 和会话记忆，并新增工具调用确认与预计算向量检索，大幅提升多模型 AI 应用开发体验。</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Spring Boot</span> <span class="article-tag">Spring AI</span> <span class="article-tag">AI 集成</span></div>
+</div>
+  </div>
+
+  <div class="article-page-item">
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2026/10/2026-10-18-0-5-1b-小模型如何在搜推场景扛住高并发-美团-slm-推理引擎优化实践拆解.html'">
   <span class="article-meta-date">10月18日</span>
   <span class="article-source">美团技术团队</span>
