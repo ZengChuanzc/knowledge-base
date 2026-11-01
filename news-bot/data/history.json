@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-10-25T05:25:56.315256",
+  "last_updated": "2026-11-01T06:57:16.085810",
   "articles": [
     {
       "url": "https://www.oschina.net/news/471482",
@@ -512,6 +512,27 @@
       "slug": "spring-ai-2-1-0-rc1-与-2-0-2-发布-多模型原生支持-message-parts-会话记忆正式落地",
       "file_path": "docs/articles/2026/10/2026-10-23-spring-ai-2-1-0-rc1-与-2-0-2-发布-多模型原生支持-message-parts-会话记忆正式落地.md",
       "generated_at": "2026-10-25T05:25:56.315248"
+    },
+    {
+      "url": "https://tech.meituan.com/2026/10/29/AI-Coding-IN-Distributed-Storage-System.html",
+      "title": "当系统“不能出错”：美团分布式存储团队如何给 AI Coding 划边界？",
+      "slug": "当系统-不能出错-美团分布式存储团队如何给-ai-coding-划边界",
+      "file_path": "docs/articles/2026/11/2026-11-01-当系统-不能出错-美团分布式存储团队如何给-ai-coding-划边界.md",
+      "generated_at": "2026-11-01T06:56:54.084466"
+    },
+    {
+      "url": "https://spring.io/blog/2026/10/28/spring-ai-message-parts-reasoning-replay",
+      "title": "Spring AI 2.1 重构消息模型：让推理模型的「思考」在往返中不丢失",
+      "slug": "spring-ai-2-1-重构消息模型-让推理模型的-思考-在往返中不丢失",
+      "file_path": "docs/articles/2026/10/2026-10-28-spring-ai-2-1-重构消息模型-让推理模型的-思考-在往返中不丢失.md",
+      "generated_at": "2026-11-01T06:57:05.677196"
+    },
+    {
+      "url": "https://spring.io/blog/2026/10/28/spring-ai-upsert-own-embeddings",
+      "title": "Spring AI 2.1 重磅更新：用你自己的 Embedding 玩转多模态向量检索 🚀",
+      "slug": "spring-ai-2-1-重磅更新-用你自己的-embedding-玩转多模态向量检索",
+      "file_path": "docs/articles/2026/10/2026-10-28-spring-ai-2-1-重磅更新-用你自己的-embedding-玩转多模态向量检索.md",
+      "generated_at": "2026-11-01T06:57:16.085804"
     }
   ]
 }

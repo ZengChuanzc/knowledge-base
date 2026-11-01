@@ -14,6 +14,36 @@ outline: deep
 
 <div class="article-list-auto" id="article-list-container">
   <div class="article-page-item">
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/11/2026-11-01-当系统-不能出错-美团分布式存储团队如何给-ai-coding-划边界.html'">
+  <span class="article-meta-date">11月1日</span>
+  <span class="article-source">美团技术团队</span>
+  <h3><a href="/knowledge-base/articles/2026/11/2026-11-01-当系统-不能出错-美团分布式存储团队如何给-ai-coding-划边界.html">当系统“不能出错”：美团分布式存储团队如何给 AI Coding 划边界？</a></h3>
+  <p class="article-desc">美团基础技术部结合 AI 评审、问题排查与自动化开发的真实实践，给出了在“不能出错”的分布式存储系统中使用 AI Coding 的能力边界与验证方法论。</p>
+  <div class="article-tags"><span class="article-tag">AI Coding</span> <span class="article-tag">分布式存储</span> <span class="article-tag">代码评审</span> <span class="article-tag">RAG</span></div>
+</div>
+  </div>
+
+  <div class="article-page-item">
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/10/2026-10-28-spring-ai-2-1-重构消息模型-让推理模型的-思考-在往返中不丢失.html'">
+  <span class="article-meta-date">10月28日</span>
+  <span class="article-source">Spring Blog</span>
+  <h3><a href="/knowledge-base/articles/2026/10/2026-10-28-spring-ai-2-1-重构消息模型-让推理模型的-思考-在往返中不丢失.html">Spring AI 2.1 重构消息模型：让推理模型的「思考」在往返中不丢失</a></h3>
+  <p class="article-desc">Spring AI 2.1 将 Message 内容重构为有序的 Message Parts 列表，从根本上解决了推理模型思考块、签名、加密推理项在多轮请求中丢失或错序的问题。</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Spring Boot</span> <span class="article-tag">Spring AI</span> <span class="article-tag">AI Agent</span></div>
+</div>
+  </div>
+
+  <div class="article-page-item">
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/10/2026-10-28-spring-ai-2-1-重磅更新-用你自己的-embedding-玩转多模态向量检索.html'">
+  <span class="article-meta-date">10月28日</span>
+  <span class="article-source">Spring Blog</span>
+  <h3><a href="/knowledge-base/articles/2026/10/2026-10-28-spring-ai-2-1-重磅更新-用你自己的-embedding-玩转多模态向量检索.html">Spring AI 2.1 重磅更新：用你自己的 Embedding 玩转多模态向量检索 🚀</a></h3>
+  <p class="article-desc">Spring AI 2.1 新增 upsert 与 similaritySearch 重载，允许应用自带向量绕过内置模型，让图文音视频等多模态 Embedding 直接接入向量库检索。</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">Spring Boot</span> <span class="article-tag">Spring AI</span> <span class="article-tag">Embedding</span></div>
+</div>
+  </div>
+
+  <div class="article-page-item">
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2026/10/2026-10-23-spring-ai-2-1-0-rc1-与-2-0-2-发布-多模型原生支持-message-parts-会话记忆正式落地.html'">
   <span class="article-meta-date">10月23日</span>
   <span class="article-source">Spring Blog</span>
