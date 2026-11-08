@@ -14,6 +14,16 @@ outline: deep
 
 <div class="article-list-auto" id="article-list-container">
   <div class="article-page-item">
+<div class="article-item" onclick="location.href='/knowledge-base/articles/2026/11/2026-11-05-开源接口平台-apigo-v6-5-0-发布-全面升级-jdk-25-sql2api-mcp-接入重新定义接口开发.html'">
+  <span class="article-meta-date">11月5日</span>
+  <span class="article-source">开源中国</span>
+  <h3><a href="/knowledge-base/articles/2026/11/2026-11-05-开源接口平台-apigo-v6-5-0-发布-全面升级-jdk-25-sql2api-mcp-接入重新定义接口开发.html">🔥开源接口平台 ApiGo v6.5.0 发布：全面升级 JDK 25，SQL2API + MCP 接入重新定义接口开发</a></h3>
+  <p class="article-desc">ApiGo v6.5.0 升级 JDK 25，以多数据库插件化数据源框架与 SQL2API 为核心，并支持接入 WorkBuddy、千问办公、豆包等 AI 办公平台的 MCP，让接口开发与 AI 办公场景打通。</p>
+  <div class="article-tags"><span class="article-tag">Java</span> <span class="article-tag">JDK 25</span> <span class="article-tag">SQL2API</span> <span class="article-tag">MCP</span></div>
+</div>
+  </div>
+
+  <div class="article-page-item">
 <div class="article-item" onclick="location.href='/knowledge-base/articles/2026/11/2026-11-01-当系统-不能出错-美团分布式存储团队如何给-ai-coding-划边界.html'">
   <span class="article-meta-date">11月1日</span>
   <span class="article-source">美团技术团队</span>

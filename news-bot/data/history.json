@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-11-01T06:57:16.085810",
+  "last_updated": "2026-11-08T06:47:12.737153",
   "articles": [
     {
       "url": "https://www.oschina.net/news/471482",
@@ -533,6 +533,13 @@
       "slug": "spring-ai-2-1-重磅更新-用你自己的-embedding-玩转多模态向量检索",
       "file_path": "docs/articles/2026/10/2026-10-28-spring-ai-2-1-重磅更新-用你自己的-embedding-玩转多模态向量检索.md",
       "generated_at": "2026-11-01T06:57:16.085804"
+    },
+    {
+      "url": "https://www.oschina.net/news/503403",
+      "title": "🔥开源接口平台 ApiGo v6.5.0 发布：全面升级 JDK 25，SQL2API + MCP 接入重新定义接口开发",
+      "slug": "开源接口平台-apigo-v6-5-0-发布-全面升级-jdk-25-sql2api-mcp-接入重新定义接口开发",
+      "file_path": "docs/articles/2026/11/2026-11-05-开源接口平台-apigo-v6-5-0-发布-全面升级-jdk-25-sql2api-mcp-接入重新定义接口开发.md",
+      "generated_at": "2026-11-08T06:47:12.737143"
     }
   ]
 }
